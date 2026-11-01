@@ -1,12 +1,12 @@
 # Freight Invoice Audit — synthetic data, auditor, validation
 
 72-hour challenge: *validate freight invoices against contracted rates, shipment characteristics, accessorials and delivery records.*
-Pure Python 3.10+ standard library (pytest only for tests). No external data.
+Pure Python standard library (pytest only for tests). No external data. Tested on Python 3.12 (Linux) and 3.14.5 (Windows, Git Bash).
 
 ## Quick start
 
 ```bash
-git clone <this repo> && cd freight-invoice-audit
+git clone https://github.com/Adityapushp/freight-invoice-audit.git && cd freight-invoice-audit
 pip install -r requirements-dev.txt            # pytest only
 python -m freight_audit generate --profile starter   # 10 carriers / 500 shipments / 375 invoices (committed in data/starter)
 python -m freight_audit generate --profile full      # 100 carriers / 20,000 shipments / 15,000 invoices (~10 s, ~150 MB, git-ignored)
@@ -15,7 +15,7 @@ python -m freight_audit audit    --profile full      # precision/recall vs groun
 python -m freight_audit repro    --profile full      # regenerate twice, compare row counts + SHA-256
 python -m pytest -q                                  # 24 tests
 ```
-`make all` runs the lot. Seed defaults to `20261022`; override with `--seed`, scale with `--carriers/--shipments/--invoices`. Starter and full use the **same generator** — only the parameters differ.
+`make all` runs the lot (on Windows without `make`, run the commands above directly). Seed defaults to `20261022`; override with `--seed`, scale with `--carriers/--shipments/--invoices`. Starter and full use the **same generator** — only the parameters differ.
 
 ## What it produces (`data/<profile>/`)
 | Path | Content |
@@ -27,7 +27,7 @@ python -m pytest -q                                  # 24 tests
 | `reports/` | `validation_summary.json`, `evaluation.json` |
 
 Schema and rules: [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) (generated from `freight_audit/schema.py`, the single source of truth).
-Evidence from the full run is committed in `reports/full/` and `reports/*/reproducibility_*.json`.
+Evidence from the full run is committed in `reports/full/` and `reports/reproducibility_*.json`.
 
 ## How it works
 ```
@@ -62,11 +62,19 @@ master data (Carrier, Lane, RateCard, RateCardRate, Accessorial, RateCardAccesso
 - **Per-stage RNG streams** (`sha256(seed:stage)`) so changing one stage doesn't reshuffle the others.
 - Rebuttal outcomes use documented per-type probabilities (`config.REBUTTAL_PROB`); everything else follows from rules.
 
+## Testing approach (how I know it works)
+- **Unit:** pricing rules (tier boundaries, dim-weight rounding, minimum charge, half-up rounding).
+- **Generator:** ID conventions, volumes, seed determinism (same seed = same rows, different seed differs), every required edge case present, boundary-weight and dim-weight cases present.
+- **Auditor vs ground truth:** per-issue precision/recall, variance explained to the cent, clean invoices raise no exceptions, auditor code never touches ground truth.
+- **Negative tests:** deliberately corrupt a PK, FK, enum, invoice total, lifecycle step, date and credit amount, then assert the validator fails the right check.
+- **Export:** CSV round-trip re-validates, SQL seed loads into SQLite, repeated export gives identical checksums.
+- **Reproducibility:** `repro` regenerates twice and compares row counts and SHA-256 of all files.
+
 ## Limitations (be upfront)
 - **F1 = 1.0 is a pipeline-consistency result, not a claim of real-world accuracy:** the auditor implements the same documented rules the generator violates. Real invoices have noise (tolerances, rounding, partial data) that this does not model. A harder benchmark would add near-miss/ambiguous cases and noisy fields.
 - Only overbilling is modelled (no under-billing, no missing accessorial lines, no multi-shipment consolidated invoices, no currency/tax).
 - Distances are region-centroid based; rates are plausible, not real tariffs. Median invoice ≈ $87 (parcel/small-LTL scale).
-- Bit-for-bit reproducibility is verified on CPython 3.12; other major versions may change `random` internals.
+- Bit-for-bit reproducibility is verified on CPython 3.12 (Linux) and 3.14.5 (Windows); other Python versions may change `random` internals. Output uses LF line endings and forward-slash manifest paths so checksums match across operating systems.
 
 ## Provenance / lawful use
 No external datasets were used. Structure (lane × weight tier × service, dim divisors 139/166, accessorial types) follows public industry conventions for schema inspiration only; all values are synthetic. See `manifest.json → sources`.
