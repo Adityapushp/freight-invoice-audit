@@ -92,12 +92,12 @@ def export_all(t, gt, out_dir, meta):
             w.writerow([f.name for f in tb.fields])
             for rec in recs:
                 w.writerow(["" if v is None else v for v in rec.values()])
-        with open(os.path.join(out_dir, "json", f"{tb.name}.json"), "w", encoding="utf-8") as fh:
+        with open(os.path.join(out_dir, "json", f"{tb.name}.json"), "w", encoding="utf-8", newline="\n") as fh:
             json.dump(recs, fh, indent=0, ensure_ascii=False)
             fh.write("\n")
-    with open(os.path.join(out_dir, "sql", "schema.sql"), "w", encoding="utf-8") as fh:
+    with open(os.path.join(out_dir, "sql", "schema.sql"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(ddl())
-    with open(os.path.join(out_dir, "sql", "seed.sql"), "w", encoding="utf-8") as fh:
+    with open(os.path.join(out_dir, "sql", "seed.sql"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write("PRAGMA foreign_keys=OFF;\nBEGIN;\n")
         for tb in S.TABLES:
             for r in sort_rows(tb, t[tb.name]):
@@ -112,7 +112,7 @@ def export_all(t, gt, out_dir, meta):
         w.writerow(S.GROUND_TRUTH_FIELDS)
         for r in gt_sorted:
             w.writerow([g(r[k]) for k in S.GROUND_TRUTH_FIELDS])
-    with open(os.path.join(out_dir, "ground_truth", "ground_truth.json"), "w", encoding="utf-8") as fh:
+    with open(os.path.join(out_dir, "ground_truth", "ground_truth.json"), "w", encoding="utf-8", newline="\n") as fh:
         json.dump([{k: g(r[k]) for k in S.GROUND_TRUTH_FIELDS} for r in gt_sorted], fh, indent=0)
         fh.write("\n")
     files = {}
@@ -121,7 +121,7 @@ def export_all(t, gt, out_dir, meta):
             if n in ("manifest.json",) or root.endswith("reports"):
                 continue
             p = os.path.join(root, n)
-            files[os.path.relpath(p, out_dir)] = sha256(p)
+            files[os.path.relpath(p, out_dir).replace(os.sep, "/")] = sha256(p)
     manifest = dict(
         generator_version=__version__, seed=meta["seed"], scale=meta["scale"], as_of=str(C.AS_OF),
         command=meta["command"], row_counts=counts, ground_truth_rows=len(gt),
@@ -130,7 +130,7 @@ def export_all(t, gt, out_dir, meta):
                       note="Rate structure (lane x weight tier x service, dim divisors 139/166, accessorial types) is inspired by public "
                            "LTL/parcel tariff conventions; no tariff values were copied.")],
         sha256=dict(sorted(files.items())))
-    with open(os.path.join(out_dir, "manifest.json"), "w", encoding="utf-8") as fh:
+    with open(os.path.join(out_dir, "manifest.json"), "w", encoding="utf-8", newline="\n") as fh:
         json.dump(manifest, fh, indent=2)
         fh.write("\n")
     return manifest

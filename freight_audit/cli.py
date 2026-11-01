@@ -34,8 +34,8 @@ def _reports(t, gt, out):
     os.makedirs(os.path.join(out, "reports"), exist_ok=True)
     rep = validate(t, gt).summary()
     ev = evaluate(t, gt)
-    json.dump(rep, open(os.path.join(out, "reports", "validation_summary.json"), "w"), indent=2, default=str)
-    json.dump(ev, open(os.path.join(out, "reports", "evaluation.json"), "w"), indent=2, default=str)
+    json.dump(rep, open(os.path.join(out, "reports", "validation_summary.json"), "w", newline="\n"), indent=2, default=str)
+    json.dump(ev, open(os.path.join(out, "reports", "evaluation.json"), "w", newline="\n"), indent=2, default=str)
     return rep, ev
 
 
@@ -81,14 +81,14 @@ def cmd_repro(a):
     out = dict(seed=a.seed, scale=_scale(a), identical=same, run_a_row_counts=res[0]["row_counts"], run_b_row_counts=res[1]["row_counts"],
                files_compared=len(res[0]["sha256"]), sha256_run_a=res[0]["sha256"], sha256_run_b=res[1]["sha256"])
     os.makedirs("reports", exist_ok=True)
-    json.dump(out, open(os.path.join("reports", f"reproducibility_{a.profile}.json"), "w"), indent=2)
+    json.dump(out, open(os.path.join("reports", f"reproducibility_{a.profile}.json"), "w", newline="\n"), indent=2)
     print(f"{len(res[0]['sha256'])} files compared across 2 runs -> {'IDENTICAL' if same else 'DIFFERENT'}")
     return 0 if same else 1
 
 
 def cmd_docs(a):
     os.makedirs("docs", exist_ok=True)
-    open("docs/DATA_DICTIONARY.md", "w").write(dictionary_markdown())
+    open("docs/DATA_DICTIONARY.md", "w", newline="\n").write(dictionary_markdown())
     print("wrote docs/DATA_DICTIONARY.md")
     return 0
 
