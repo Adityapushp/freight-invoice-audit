@@ -1,0 +1,218 @@
+[
+{
+"lane_id": "LANE-0001",
+"origin_region": "NE",
+"dest_region": "NE",
+"distance_miles": 150
+},
+{
+"lane_id": "LANE-0002",
+"origin_region": "NE",
+"dest_region": "SE",
+"distance_miles": 761
+},
+{
+"lane_id": "LANE-0003",
+"origin_region": "NE",
+"dest_region": "MW",
+"distance_miles": 806
+},
+{
+"lane_id": "LANE-0004",
+"origin_region": "NE",
+"dest_region": "SW",
+"distance_miles": 1331
+},
+{
+"lane_id": "LANE-0005",
+"origin_region": "NE",
+"dest_region": "W",
+"distance_miles": 1746
+},
+{
+"lane_id": "LANE-0006",
+"origin_region": "NE",
+"dest_region": "NW",
+"distance_miles": 1650
+},
+{
+"lane_id": "LANE-0007",
+"origin_region": "SE",
+"dest_region": "NE",
+"distance_miles": 761
+},
+{
+"lane_id": "LANE-0008",
+"origin_region": "SE",
+"dest_region": "SE",
+"distance_miles": 150
+},
+{
+"lane_id": "LANE-0009",
+"origin_region": "SE",
+"dest_region": "MW",
+"distance_miles": 781
+},
+{
+"lane_id": "LANE-0010",
+"origin_region": "SE",
+"dest_region": "SW",
+"distance_miles": 801
+},
+{
+"lane_id": "LANE-0011",
+"origin_region": "SE",
+"dest_region": "W",
+"distance_miles": 1431
+},
+{
+"lane_id": "LANE-0012",
+"origin_region": "SE",
+"dest_region": "NW",
+"distance_miles": 1520
+},
+{
+"lane_id": "LANE-0013",
+"origin_region": "MW",
+"dest_region": "NE",
+"distance_miles": 806
+},
+{
+"lane_id": "LANE-0014",
+"origin_region": "MW",
+"dest_region": "SE",
+"distance_miles": 781
+},
+{
+"lane_id": "LANE-0015",
+"origin_region": "MW",
+"dest_region": "MW",
+"distance_miles": 150
+},
+{
+"lane_id": "LANE-0016",
+"origin_region": "MW",
+"dest_region": "SW",
+"distance_miles": 715
+},
+{
+"lane_id": "LANE-0017",
+"origin_region": "MW",
+"dest_region": "W",
+"distance_miles": 948
+},
+{
+"lane_id": "LANE-0018",
+"origin_region": "MW",
+"dest_region": "NW",
+"distance_miles": 855
+},
+{
+"lane_id": "LANE-0019",
+"origin_region": "SW",
+"dest_region": "NE",
+"distance_miles": 1331
+},
+{
+"lane_id": "LANE-0020",
+"origin_region": "SW",
+"dest_region": "SE",
+"distance_miles": 801
+},
+{
+"lane_id": "LANE-0021",
+"origin_region": "SW",
+"dest_region": "MW",
+"distance_miles": 715
+},
+{
+"lane_id": "LANE-0022",
+"origin_region": "SW",
+"dest_region": "SW",
+"distance_miles": 150
+},
+{
+"lane_id": "LANE-0023",
+"origin_region": "SW",
+"dest_region": "W",
+"distance_miles": 694
+},
+{
+"lane_id": "LANE-0024",
+"origin_region": "SW",
+"dest_region": "NW",
+"distance_miles": 930
+},
+{
+"lane_id": "LANE-0025",
+"origin_region": "W",
+"dest_region": "NE",
+"distance_miles": 1746
+},
+{
+"lane_id": "LANE-0026",
+"origin_region": "W",
+"dest_region": "SE",
+"distance_miles": 1431
+},
+{
+"lane_id": "LANE-0027",
+"origin_region": "W",
+"dest_region": "MW",
+"distance_miles": 948
+},
+{
+"lane_id": "LANE-0028",
+"origin_region": "W",
+"dest_region": "SW",
+"distance_miles": 694
+},
+{
+"lane_id": "LANE-0029",
+"origin_region": "W",
+"dest_region": "W",
+"distance_miles": 150
+},
+{
+"lane_id": "LANE-0030",
+"origin_region": "W",
+"dest_region": "NW",
+"distance_miles": 403
+},
+{
+"lane_id": "LANE-0031",
+"origin_region": "NW",
+"dest_region": "NE",
+"distance_miles": 1650
+},
+{
+"lane_id": "LANE-0032",
+"origin_region": "NW",
+"dest_region": "SE",
+"distance_miles": 1520
+},
+{
+"lane_id": "LANE-0033",
+"origin_region": "NW",
+"dest_region": "MW",
+"distance_miles": 855
+},
+{
+"lane_id": "LANE-0034",
+"origin_region": "NW",
+"dest_region": "SW",
+"distance_miles": 930
+},
+{
+"lane_id": "LANE-0035",
+"origin_region": "NW",
+"dest_region": "W",
+"distance_miles": 403
+},
+{
+"lane_id": "LANE-0036",
+"origin_region": "NW",
+"dest_region": "NW",
+"distance_miles": 150
+}
+]

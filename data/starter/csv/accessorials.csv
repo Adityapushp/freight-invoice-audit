@@ -1,0 +1,8 @@
+accessorial_code,description,trigger_event,standard_amount,requires_evidence
+APPOINTMENT,Delivery appointment,APPOINTMENT_CONFIRMED,12.00,true
+DETENTION,Detention / waiting time,DETENTION_TIMESTAMP,60.00,true
+INSIDE_DELIVERY,Inside delivery,INSIDE_DELIVERY_SCAN,45.00,true
+LIFTGATE,Liftgate service,LIFTGATE_USED,35.00,true
+LIMITED_ACCESS,Limited-access location,LIMITED_ACCESS_FLAG,25.00,true
+REDELIVERY,Redelivery attempt,REDELIVERY_SCAN,30.00,true
+RESIDENTIAL,Residential delivery,RESIDENTIAL_DELIVERY_SCAN,4.50,true

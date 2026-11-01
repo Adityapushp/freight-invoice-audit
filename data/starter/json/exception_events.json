@@ -1,0 +1,2513 @@
+[
+{
+"event_id": "XEV-0000001",
+"exception_id": "FEX-2026-000001",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-13T11:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000002",
+"exception_id": "FEX-2026-000001",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-15T12:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000003",
+"exception_id": "FEX-2026-000001",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-18T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000004",
+"exception_id": "FEX-2026-000001",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-02T00:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000005",
+"exception_id": "FEX-2026-000002",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-13T11:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000006",
+"exception_id": "FEX-2026-000002",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-15T13:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000007",
+"exception_id": "FEX-2026-000002",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-22T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000008",
+"exception_id": "FEX-2026-000002",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-02T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000009",
+"exception_id": "FEX-2026-000003",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-17T17:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000010",
+"exception_id": "FEX-2026-000003",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-20T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000011",
+"exception_id": "FEX-2026-000003",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-24T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000012",
+"exception_id": "FEX-2026-000003",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-03T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000013",
+"exception_id": "FEX-2026-000004",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-17T17:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000014",
+"exception_id": "FEX-2026-000004",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-18T21:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000015",
+"exception_id": "FEX-2026-000004",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-24T23:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000016",
+"exception_id": "FEX-2026-000004",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-02T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000017",
+"exception_id": "FEX-2026-000005",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-22T12:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_RATE_WRONG"
+},
+{
+"event_id": "XEV-0000018",
+"exception_id": "FEX-2026-000005",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-25T13:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000019",
+"exception_id": "FEX-2026-000005",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-02T14:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000020",
+"exception_id": "FEX-2026-000005",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-19T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000021",
+"exception_id": "FEX-2026-000006",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-21T17:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000022",
+"exception_id": "FEX-2026-000006",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-24T20:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000023",
+"exception_id": "FEX-2026-000006",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-02T00:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000024",
+"exception_id": "FEX-2026-000006",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-13T11:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000025",
+"exception_id": "FEX-2026-000007",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-21T17:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000026",
+"exception_id": "FEX-2026-000007",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-22T21:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000027",
+"exception_id": "FEX-2026-000007",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-30T02:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000028",
+"exception_id": "FEX-2026-000007",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-12T12:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000029",
+"exception_id": "FEX-2026-000008",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-22T15:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000030",
+"exception_id": "FEX-2026-000008",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-23T20:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000031",
+"exception_id": "FEX-2026-000008",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-01-30T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000032",
+"exception_id": "FEX-2026-000008",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-10T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000033",
+"exception_id": "FEX-2026-000009",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-01-27T15:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000034",
+"exception_id": "FEX-2026-000009",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-01-29T20:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000035",
+"exception_id": "FEX-2026-000009",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-02T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000036",
+"exception_id": "FEX-2026-000009",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-15T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000037",
+"exception_id": "FEX-2026-000010",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-01T17:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000038",
+"exception_id": "FEX-2026-000010",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-04T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000039",
+"exception_id": "FEX-2026-000010",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-11T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000040",
+"exception_id": "FEX-2026-000010",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-18T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000041",
+"exception_id": "FEX-2026-000011",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-01T17:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000042",
+"exception_id": "FEX-2026-000011",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-04T21:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000043",
+"exception_id": "FEX-2026-000011",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-14T00:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000044",
+"exception_id": "FEX-2026-000011",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-21T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000045",
+"exception_id": "FEX-2026-000012",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-05T17:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000046",
+"exception_id": "FEX-2026-000012",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-07T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000047",
+"exception_id": "FEX-2026-000012",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-08T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000048",
+"exception_id": "FEX-2026-000012",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-22T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000049",
+"exception_id": "FEX-2026-000013",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-06T09:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000050",
+"exception_id": "FEX-2026-000013",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-07T13:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000051",
+"exception_id": "FEX-2026-000013",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-13T14:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000052",
+"exception_id": "FEX-2026-000013",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-27T03:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000053",
+"exception_id": "FEX-2026-000014",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-06T09:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000054",
+"exception_id": "FEX-2026-000014",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-08T12:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000055",
+"exception_id": "FEX-2026-000014",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-10T16:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000056",
+"exception_id": "FEX-2026-000014",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-17T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000057",
+"exception_id": "FEX-2026-000015",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-06T15:30:00",
+"actor": "SYSTEM",
+"note": "UNKNOWN_SHIPMENT"
+},
+{
+"event_id": "XEV-0000058",
+"exception_id": "FEX-2026-000015",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-08T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000059",
+"exception_id": "FEX-2026-000015",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-17T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000060",
+"exception_id": "FEX-2026-000015",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-26T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000061",
+"exception_id": "FEX-2026-000016",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-12T15:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000062",
+"exception_id": "FEX-2026-000016",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-14T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000063",
+"exception_id": "FEX-2026-000016",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-21T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000064",
+"exception_id": "FEX-2026-000016",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-03-12T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000065",
+"exception_id": "FEX-2026-000017",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-12T15:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000066",
+"exception_id": "FEX-2026-000017",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-15T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000067",
+"exception_id": "FEX-2026-000017",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-23T00:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000068",
+"exception_id": "FEX-2026-000017",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-02-28T11:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000069",
+"exception_id": "FEX-2026-000018",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-13T15:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000070",
+"exception_id": "FEX-2026-000018",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-14T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000071",
+"exception_id": "FEX-2026-000018",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-02-21T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000072",
+"exception_id": "FEX-2026-000018",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-03-09T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000073",
+"exception_id": "FEX-2026-000019",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-02-26T11:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000074",
+"exception_id": "FEX-2026-000019",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-02-28T13:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000075",
+"exception_id": "FEX-2026-000019",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-03-06T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000076",
+"exception_id": "FEX-2026-000019",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-03-18T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000077",
+"exception_id": "FEX-2026-000020",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-03-09T11:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000078",
+"exception_id": "FEX-2026-000020",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-03-12T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000079",
+"exception_id": "FEX-2026-000020",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-03-15T17:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000080",
+"exception_id": "FEX-2026-000021",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-03-21T09:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000081",
+"exception_id": "FEX-2026-000021",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-03-23T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000082",
+"exception_id": "FEX-2026-000021",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-03-29T18:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000083",
+"exception_id": "FEX-2026-000022",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-03-21T09:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000084",
+"exception_id": "FEX-2026-000022",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-03-24T11:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000085",
+"exception_id": "FEX-2026-000022",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-03-30T16:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000086",
+"exception_id": "FEX-2026-000023",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-03-22T15:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000087",
+"exception_id": "FEX-2026-000023",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-03-23T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000088",
+"exception_id": "FEX-2026-000023",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-03-24T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000089",
+"exception_id": "FEX-2026-000023",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-04-02T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000090",
+"exception_id": "FEX-2026-000024",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-06T11:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000091",
+"exception_id": "FEX-2026-000024",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-09T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000092",
+"exception_id": "FEX-2026-000024",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-04-13T17:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000093",
+"exception_id": "FEX-2026-000025",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-12T16:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000094",
+"exception_id": "FEX-2026-000025",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-14T21:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000095",
+"exception_id": "FEX-2026-000025",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-17T00:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000096",
+"exception_id": "FEX-2026-000025",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-04-23T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000097",
+"exception_id": "FEX-2026-000026",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-15T11:30:00",
+"actor": "SYSTEM",
+"note": "UNKNOWN_SHIPMENT"
+},
+{
+"event_id": "XEV-0000098",
+"exception_id": "FEX-2026-000026",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-18T13:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000099",
+"exception_id": "FEX-2026-000026",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-20T16:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000100",
+"exception_id": "FEX-2026-000026",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-05T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000101",
+"exception_id": "FEX-2026-000027",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-15T16:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000102",
+"exception_id": "FEX-2026-000027",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-16T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000103",
+"exception_id": "FEX-2026-000027",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-22T00:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000104",
+"exception_id": "FEX-2026-000027",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-02T11:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000105",
+"exception_id": "FEX-2026-000028",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-15T16:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000106",
+"exception_id": "FEX-2026-000028",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-17T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000107",
+"exception_id": "FEX-2026-000028",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-19T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000108",
+"exception_id": "FEX-2026-000028",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-04-25T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000109",
+"exception_id": "FEX-2026-000029",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-16T15:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000110",
+"exception_id": "FEX-2026-000029",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-17T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000111",
+"exception_id": "FEX-2026-000029",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-24T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000112",
+"exception_id": "FEX-2026-000029",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-07T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000113",
+"exception_id": "FEX-2026-000030",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-16T15:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000114",
+"exception_id": "FEX-2026-000030",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-17T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000115",
+"exception_id": "FEX-2026-000030",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-26T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000116",
+"exception_id": "FEX-2026-000030",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-11T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000117",
+"exception_id": "FEX-2026-000031",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-19T14:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000118",
+"exception_id": "FEX-2026-000031",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-20T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000119",
+"exception_id": "FEX-2026-000031",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-25T16:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000120",
+"exception_id": "FEX-2026-000031",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-10T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000121",
+"exception_id": "FEX-2026-000032",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-19T14:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000122",
+"exception_id": "FEX-2026-000032",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-22T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000123",
+"exception_id": "FEX-2026-000032",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-25T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000124",
+"exception_id": "FEX-2026-000032",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-08T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000125",
+"exception_id": "FEX-2026-000033",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-04-23T11:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000126",
+"exception_id": "FEX-2026-000033",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-04-25T12:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000127",
+"exception_id": "FEX-2026-000033",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-04-26T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000128",
+"exception_id": "FEX-2026-000033",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-14T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000129",
+"exception_id": "FEX-2026-000034",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-06T13:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000130",
+"exception_id": "FEX-2026-000034",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-09T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000131",
+"exception_id": "FEX-2026-000034",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-18T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000132",
+"exception_id": "FEX-2026-000034",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-27T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000133",
+"exception_id": "FEX-2026-000035",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-10T13:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000134",
+"exception_id": "FEX-2026-000035",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-12T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000135",
+"exception_id": "FEX-2026-000035",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-16T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000136",
+"exception_id": "FEX-2026-000035",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-25T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000137",
+"exception_id": "FEX-2026-000036",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-10T13:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000138",
+"exception_id": "FEX-2026-000036",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-13T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000139",
+"exception_id": "FEX-2026-000036",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-19T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000140",
+"exception_id": "FEX-2026-000036",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-27T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000141",
+"exception_id": "FEX-2026-000037",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-10T16:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000142",
+"exception_id": "FEX-2026-000037",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-12T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000143",
+"exception_id": "FEX-2026-000037",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-16T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000144",
+"exception_id": "FEX-2026-000037",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-05-30T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000145",
+"exception_id": "FEX-2026-000038",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-15T14:30:00",
+"actor": "SYSTEM",
+"note": "UNKNOWN_SHIPMENT"
+},
+{
+"event_id": "XEV-0000146",
+"exception_id": "FEX-2026-000038",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-16T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000147",
+"exception_id": "FEX-2026-000038",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-20T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000148",
+"exception_id": "FEX-2026-000038",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-08T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000149",
+"exception_id": "FEX-2026-000039",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-20T14:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000150",
+"exception_id": "FEX-2026-000039",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-23T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000151",
+"exception_id": "FEX-2026-000039",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-05-31T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000152",
+"exception_id": "FEX-2026-000039",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-11T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000153",
+"exception_id": "FEX-2026-000040",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-05-20T14:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000154",
+"exception_id": "FEX-2026-000040",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-05-23T19:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000155",
+"exception_id": "FEX-2026-000040",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-02T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000156",
+"exception_id": "FEX-2026-000040",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-15T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000157",
+"exception_id": "FEX-2026-000041",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-04T15:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000158",
+"exception_id": "FEX-2026-000041",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-06T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000159",
+"exception_id": "FEX-2026-000041",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-14T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000160",
+"exception_id": "FEX-2026-000041",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-30T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000161",
+"exception_id": "FEX-2026-000042",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-04T15:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000162",
+"exception_id": "FEX-2026-000042",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-05T20:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000163",
+"exception_id": "FEX-2026-000042",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-09T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000164",
+"exception_id": "FEX-2026-000042",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-17T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000165",
+"exception_id": "FEX-2026-000043",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-07T09:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000166",
+"exception_id": "FEX-2026-000043",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-10T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000167",
+"exception_id": "FEX-2026-000043",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-12T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000168",
+"exception_id": "FEX-2026-000043",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-06-29T23:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000169",
+"exception_id": "FEX-2026-000044",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-09T11:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_RATE_WRONG"
+},
+{
+"event_id": "XEV-0000170",
+"exception_id": "FEX-2026-000044",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-12T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000171",
+"exception_id": "FEX-2026-000044",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-21T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000172",
+"exception_id": "FEX-2026-000044",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-07-05T00:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000173",
+"exception_id": "FEX-2026-000045",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-21T15:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000174",
+"exception_id": "FEX-2026-000045",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-23T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000175",
+"exception_id": "FEX-2026-000045",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-07-03T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000176",
+"exception_id": "FEX-2026-000045",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-07-20T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000177",
+"exception_id": "FEX-2026-000046",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-06-26T12:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000178",
+"exception_id": "FEX-2026-000046",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-06-27T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000179",
+"exception_id": "FEX-2026-000046",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-06-30T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000180",
+"exception_id": "FEX-2026-000046",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-07-18T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000181",
+"exception_id": "FEX-2026-000047",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-07-17T12:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000182",
+"exception_id": "FEX-2026-000047",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-07-18T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000183",
+"exception_id": "FEX-2026-000047",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-07-20T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000184",
+"exception_id": "FEX-2026-000047",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-07-31T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000185",
+"exception_id": "FEX-2026-000048",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-07-19T11:30:00",
+"actor": "SYSTEM",
+"note": "RATE_CARD_EXPIRED"
+},
+{
+"event_id": "XEV-0000186",
+"exception_id": "FEX-2026-000048",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-07-20T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000187",
+"exception_id": "FEX-2026-000048",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-07-25T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000188",
+"exception_id": "FEX-2026-000048",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-08-10T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000189",
+"exception_id": "FEX-2026-000049",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-07-24T16:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_RATE_WRONG"
+},
+{
+"event_id": "XEV-0000190",
+"exception_id": "FEX-2026-000049",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-07-27T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000191",
+"exception_id": "FEX-2026-000049",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-04T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000192",
+"exception_id": "FEX-2026-000049",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-08-16T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000193",
+"exception_id": "FEX-2026-000050",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-07-29T10:30:00",
+"actor": "SYSTEM",
+"note": "RATE_CARD_EXPIRED"
+},
+{
+"event_id": "XEV-0000194",
+"exception_id": "FEX-2026-000050",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-01T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000195",
+"exception_id": "FEX-2026-000050",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-08T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000196",
+"exception_id": "FEX-2026-000050",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-08-26T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000197",
+"exception_id": "FEX-2026-000051",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-07-29T10:30:00",
+"actor": "SYSTEM",
+"note": "RATE_CARD_EXPIRED"
+},
+{
+"event_id": "XEV-0000198",
+"exception_id": "FEX-2026-000051",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-07-31T11:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000199",
+"exception_id": "FEX-2026-000051",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-07T14:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000200",
+"exception_id": "FEX-2026-000051",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-08-18T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000201",
+"exception_id": "FEX-2026-000052",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-06T10:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000202",
+"exception_id": "FEX-2026-000052",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-08T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000203",
+"exception_id": "FEX-2026-000052",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-18T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000204",
+"exception_id": "FEX-2026-000052",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-02T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000205",
+"exception_id": "FEX-2026-000053",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-08T12:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000206",
+"exception_id": "FEX-2026-000053",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-09T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000207",
+"exception_id": "FEX-2026-000053",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-19T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000208",
+"exception_id": "FEX-2026-000053",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-06T03:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000209",
+"exception_id": "FEX-2026-000054",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-20T13:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000210",
+"exception_id": "FEX-2026-000054",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-23T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000211",
+"exception_id": "FEX-2026-000054",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-08-31T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000212",
+"exception_id": "FEX-2026-000054",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-06T01:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000213",
+"exception_id": "FEX-2026-000055",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-28T16:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000214",
+"exception_id": "FEX-2026-000055",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-30T20:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000215",
+"exception_id": "FEX-2026-000055",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-09-06T23:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000216",
+"exception_id": "FEX-2026-000056",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-28T16:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000217",
+"exception_id": "FEX-2026-000056",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-30T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000218",
+"exception_id": "FEX-2026-000056",
+"from_status": "UNDER_REVIEW",
+"to_status": "REJECTED",
+"event_at": "2026-09-07T21:00:00",
+"actor": "AUDITOR",
+"note": "carrier rebuttal accepted"
+},
+{
+"event_id": "XEV-0000219",
+"exception_id": "FEX-2026-000057",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-26T13:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000220",
+"exception_id": "FEX-2026-000057",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-29T17:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000221",
+"exception_id": "FEX-2026-000057",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-04T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000222",
+"exception_id": "FEX-2026-000057",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-19T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000223",
+"exception_id": "FEX-2026-000058",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-08-30T11:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000224",
+"exception_id": "FEX-2026-000058",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-08-31T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000225",
+"exception_id": "FEX-2026-000058",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-05T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000226",
+"exception_id": "FEX-2026-000058",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-11T04:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000227",
+"exception_id": "FEX-2026-000059",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-01T10:30:00",
+"actor": "SYSTEM",
+"note": "RATE_CARD_EXPIRED"
+},
+{
+"event_id": "XEV-0000228",
+"exception_id": "FEX-2026-000059",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-03T11:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000229",
+"exception_id": "FEX-2026-000059",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-12T14:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000230",
+"exception_id": "FEX-2026-000059",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-21T22:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000231",
+"exception_id": "FEX-2026-000060",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-06T11:30:00",
+"actor": "SYSTEM",
+"note": "SURCHARGE_DUPLICATED"
+},
+{
+"event_id": "XEV-0000232",
+"exception_id": "FEX-2026-000060",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-08T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000233",
+"exception_id": "FEX-2026-000060",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-17T15:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000234",
+"exception_id": "FEX-2026-000060",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-03T21:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000235",
+"exception_id": "FEX-2026-000061",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-06T11:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000236",
+"exception_id": "FEX-2026-000061",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-09T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000237",
+"exception_id": "FEX-2026-000061",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-18T19:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000238",
+"exception_id": "FEX-2026-000061",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-29T02:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000239",
+"exception_id": "FEX-2026-000062",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-08T15:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000240",
+"exception_id": "FEX-2026-000062",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-09T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000241",
+"exception_id": "FEX-2026-000062",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-10T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000242",
+"exception_id": "FEX-2026-000062",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-09-20T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000243",
+"exception_id": "FEX-2026-000063",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-18T13:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000244",
+"exception_id": "FEX-2026-000063",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-19T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000245",
+"exception_id": "FEX-2026-000063",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-23T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000246",
+"exception_id": "FEX-2026-000063",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-12T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000247",
+"exception_id": "FEX-2026-000064",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-18T13:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000248",
+"exception_id": "FEX-2026-000064",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-21T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000249",
+"exception_id": "FEX-2026-000064",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-22T19:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000250",
+"exception_id": "FEX-2026-000064",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-05T08:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000251",
+"exception_id": "FEX-2026-000065",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-25T09:30:00",
+"actor": "SYSTEM",
+"note": "INVALID_ACCESSORIAL"
+},
+{
+"event_id": "XEV-0000252",
+"exception_id": "FEX-2026-000065",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-27T12:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000253",
+"exception_id": "FEX-2026-000065",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-09-30T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000254",
+"exception_id": "FEX-2026-000065",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-07T02:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000255",
+"exception_id": "FEX-2026-000066",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-25T15:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_RATE_WRONG"
+},
+{
+"event_id": "XEV-0000256",
+"exception_id": "FEX-2026-000066",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-09-26T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000257",
+"exception_id": "FEX-2026-000066",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-06T18:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000258",
+"exception_id": "FEX-2026-000066",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-17T06:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000259",
+"exception_id": "FEX-2026-000067",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-30T13:30:00",
+"actor": "SYSTEM",
+"note": "DIM_WEIGHT_MISCALC"
+},
+{
+"event_id": "XEV-0000260",
+"exception_id": "FEX-2026-000067",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-02T15:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000261",
+"exception_id": "FEX-2026-000067",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-11T20:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000262",
+"exception_id": "FEX-2026-000067",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-22T10:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000263",
+"exception_id": "FEX-2026-000068",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-09-30T13:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000264",
+"exception_id": "FEX-2026-000068",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-01T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000265",
+"exception_id": "FEX-2026-000068",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-03T17:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000266",
+"exception_id": "FEX-2026-000068",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-17T05:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000267",
+"exception_id": "FEX-2026-000069",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-10-04T14:30:00",
+"actor": "SYSTEM",
+"note": "RATE_CARD_EXPIRED"
+},
+{
+"event_id": "XEV-0000268",
+"exception_id": "FEX-2026-000069",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-05T16:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000269",
+"exception_id": "FEX-2026-000069",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-10T21:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000270",
+"exception_id": "FEX-2026-000069",
+"from_status": "APPROVED",
+"to_status": "CREDITED",
+"event_at": "2026-10-20T07:00:00",
+"actor": "SYSTEM",
+"note": null
+},
+{
+"event_id": "XEV-0000271",
+"exception_id": "FEX-2026-000070",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-10-07T13:30:00",
+"actor": "SYSTEM",
+"note": "WEIGHT_TIER_MISAPPLIED"
+},
+{
+"event_id": "XEV-0000272",
+"exception_id": "FEX-2026-000070",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-09T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000273",
+"exception_id": "FEX-2026-000070",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-15T19:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000274",
+"exception_id": "FEX-2026-000071",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-10-07T13:30:00",
+"actor": "SYSTEM",
+"note": "FUEL_ON_BASE_VARIANCE"
+},
+{
+"event_id": "XEV-0000275",
+"exception_id": "FEX-2026-000071",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-10T14:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000276",
+"exception_id": "FEX-2026-000071",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-15T19:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+},
+{
+"event_id": "XEV-0000277",
+"exception_id": "FEX-2026-000072",
+"from_status": null,
+"to_status": "OPEN",
+"event_at": "2026-10-13T15:30:00",
+"actor": "SYSTEM",
+"note": "DUPLICATE_BILLING"
+},
+{
+"event_id": "XEV-0000278",
+"exception_id": "FEX-2026-000072",
+"from_status": "OPEN",
+"to_status": "UNDER_REVIEW",
+"event_at": "2026-10-15T18:00:00",
+"actor": "AUDITOR",
+"note": null
+},
+{
+"event_id": "XEV-0000279",
+"exception_id": "FEX-2026-000072",
+"from_status": "UNDER_REVIEW",
+"to_status": "APPROVED",
+"event_at": "2026-10-20T22:00:00",
+"actor": "AUDITOR",
+"note": "dispute upheld"
+}
+]

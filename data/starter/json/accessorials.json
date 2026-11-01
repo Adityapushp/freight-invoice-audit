@@ -1,0 +1,51 @@
+[
+{
+"accessorial_code": "APPOINTMENT",
+"description": "Delivery appointment",
+"trigger_event": "APPOINTMENT_CONFIRMED",
+"standard_amount": "12.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "DETENTION",
+"description": "Detention / waiting time",
+"trigger_event": "DETENTION_TIMESTAMP",
+"standard_amount": "60.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "INSIDE_DELIVERY",
+"description": "Inside delivery",
+"trigger_event": "INSIDE_DELIVERY_SCAN",
+"standard_amount": "45.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "LIFTGATE",
+"description": "Liftgate service",
+"trigger_event": "LIFTGATE_USED",
+"standard_amount": "35.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "LIMITED_ACCESS",
+"description": "Limited-access location",
+"trigger_event": "LIMITED_ACCESS_FLAG",
+"standard_amount": "25.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "REDELIVERY",
+"description": "Redelivery attempt",
+"trigger_event": "REDELIVERY_SCAN",
+"standard_amount": "30.00",
+"requires_evidence": "true"
+},
+{
+"accessorial_code": "RESIDENTIAL",
+"description": "Residential delivery",
+"trigger_event": "RESIDENTIAL_DELIVERY_SCAN",
+"standard_amount": "4.50",
+"requires_evidence": "true"
+}
+]

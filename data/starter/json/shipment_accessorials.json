@@ -1,0 +1,1640 @@
+[
+{
+"sa_id": "SACC-SHP-2026-000002-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000002",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-04-04T15:13:02",
+"evidence_ref": "EVD-000002-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000002-RESIDENTIAL",
+"shipment_id": "SHP-2026-000002",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-03T09:32:19",
+"evidence_ref": "EVD-000002-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000004-RESIDENTIAL",
+"shipment_id": "SHP-2026-000004",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-17T09:26:33",
+"evidence_ref": "EVD-000004-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000008-LIFTGATE",
+"shipment_id": "SHP-2026-000008",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-03-12T08:49:37",
+"evidence_ref": "EVD-000008-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000009-RESIDENTIAL",
+"shipment_id": "SHP-2026-000009",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-16T04:59:52",
+"evidence_ref": "EVD-000009-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000017-LIFTGATE",
+"shipment_id": "SHP-2026-000017",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-21T23:55:05",
+"evidence_ref": "EVD-000017-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000020-DETENTION",
+"shipment_id": "SHP-2026-000020",
+"accessorial_code": "DETENTION",
+"event_at": "2026-09-28T06:38:01",
+"evidence_ref": "EVD-000020-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000021-RESIDENTIAL",
+"shipment_id": "SHP-2026-000021",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-13T04:46:24",
+"evidence_ref": "EVD-000021-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000022-LIFTGATE",
+"shipment_id": "SHP-2026-000022",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-05-30T17:04:35",
+"evidence_ref": "EVD-000022-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000022-RESIDENTIAL",
+"shipment_id": "SHP-2026-000022",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-30T08:32:44",
+"evidence_ref": "EVD-000022-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000023-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000023",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-10-01T08:06:25",
+"evidence_ref": "EVD-000023-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000023-LIFTGATE",
+"shipment_id": "SHP-2026-000023",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-10-01T11:42:53",
+"evidence_ref": "EVD-000023-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000024-RESIDENTIAL",
+"shipment_id": "SHP-2026-000024",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-12T18:26:09",
+"evidence_ref": "EVD-000024-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000027-APPOINTMENT",
+"shipment_id": "SHP-2026-000027",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-01-08T18:42:33",
+"evidence_ref": "EVD-000027-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000028-RESIDENTIAL",
+"shipment_id": "SHP-2026-000028",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-06T05:54:05",
+"evidence_ref": "EVD-000028-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000029-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000029",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-03-10T19:51:43",
+"evidence_ref": "EVD-000029-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000031-RESIDENTIAL",
+"shipment_id": "SHP-2026-000031",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-03T08:16:02",
+"evidence_ref": "EVD-000031-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000037-LIFTGATE",
+"shipment_id": "SHP-2026-000037",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-11T18:00:18",
+"evidence_ref": "EVD-000037-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000038-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000038",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-06-06T09:01:55",
+"evidence_ref": "EVD-000038-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000039-RESIDENTIAL",
+"shipment_id": "SHP-2026-000039",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-30T01:43:53",
+"evidence_ref": "EVD-000039-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000042-REDELIVERY",
+"shipment_id": "SHP-2026-000042",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-03-31T19:44:49",
+"evidence_ref": "EVD-000042-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000048-RESIDENTIAL",
+"shipment_id": "SHP-2026-000048",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-26T05:45:09",
+"evidence_ref": "EVD-000048-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000049-LIFTGATE",
+"shipment_id": "SHP-2026-000049",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-09-27T07:50:50",
+"evidence_ref": "EVD-000049-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000054-LIFTGATE",
+"shipment_id": "SHP-2026-000054",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-07T10:40:55",
+"evidence_ref": "EVD-000054-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000056-APPOINTMENT",
+"shipment_id": "SHP-2026-000056",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-10T17:31:22",
+"evidence_ref": "EVD-000056-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000058-RESIDENTIAL",
+"shipment_id": "SHP-2026-000058",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-24T14:34:40",
+"evidence_ref": "EVD-000058-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000059-RESIDENTIAL",
+"shipment_id": "SHP-2026-000059",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-15T06:32:17",
+"evidence_ref": "EVD-000059-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000060-APPOINTMENT",
+"shipment_id": "SHP-2026-000060",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-03-18T23:01:18",
+"evidence_ref": "EVD-000060-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000063-APPOINTMENT",
+"shipment_id": "SHP-2026-000063",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-06-13T17:33:52",
+"evidence_ref": "EVD-000063-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000063-RESIDENTIAL",
+"shipment_id": "SHP-2026-000063",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-13T05:26:48",
+"evidence_ref": "EVD-000063-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000066-LIFTGATE",
+"shipment_id": "SHP-2026-000066",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-05-24T09:35:02",
+"evidence_ref": "EVD-000066-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000067-RESIDENTIAL",
+"shipment_id": "SHP-2026-000067",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-15T00:21:50",
+"evidence_ref": "EVD-000067-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000068-RESIDENTIAL",
+"shipment_id": "SHP-2026-000068",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-12T07:05:49",
+"evidence_ref": "EVD-000068-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000070-RESIDENTIAL",
+"shipment_id": "SHP-2026-000070",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-15T09:38:32",
+"evidence_ref": "EVD-000070-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000075-DETENTION",
+"shipment_id": "SHP-2026-000075",
+"accessorial_code": "DETENTION",
+"event_at": "2026-07-11T22:54:39",
+"evidence_ref": "EVD-000075-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000081-APPOINTMENT",
+"shipment_id": "SHP-2026-000081",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-18T23:58:12",
+"evidence_ref": "EVD-000081-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000081-RESIDENTIAL",
+"shipment_id": "SHP-2026-000081",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-19T22:27:46",
+"evidence_ref": "EVD-000081-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000083-RESIDENTIAL",
+"shipment_id": "SHP-2026-000083",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-16T20:11:00",
+"evidence_ref": "EVD-000083-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000084-APPOINTMENT",
+"shipment_id": "SHP-2026-000084",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-08-16T12:40:38",
+"evidence_ref": "EVD-000084-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000085-APPOINTMENT",
+"shipment_id": "SHP-2026-000085",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-08-22T13:04:38",
+"evidence_ref": "EVD-000085-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000087-RESIDENTIAL",
+"shipment_id": "SHP-2026-000087",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-25T12:29:37",
+"evidence_ref": "EVD-000087-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000089-APPOINTMENT",
+"shipment_id": "SHP-2026-000089",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-03-19T10:57:49",
+"evidence_ref": "EVD-000089-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000090-LIFTGATE",
+"shipment_id": "SHP-2026-000090",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-22T04:57:12",
+"evidence_ref": "EVD-000090-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000093-REDELIVERY",
+"shipment_id": "SHP-2026-000093",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-05-29T05:36:43",
+"evidence_ref": "EVD-000093-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000096-APPOINTMENT",
+"shipment_id": "SHP-2026-000096",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-04-14T22:31:55",
+"evidence_ref": "EVD-000096-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000096-LIFTGATE",
+"shipment_id": "SHP-2026-000096",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-16T15:53:40",
+"evidence_ref": "EVD-000096-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000100-APPOINTMENT",
+"shipment_id": "SHP-2026-000100",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-26T00:40:40",
+"evidence_ref": "EVD-000100-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000101-RESIDENTIAL",
+"shipment_id": "SHP-2026-000101",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-17T05:55:09",
+"evidence_ref": "EVD-000101-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000103-LIFTGATE",
+"shipment_id": "SHP-2026-000103",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-02-14T09:02:59",
+"evidence_ref": "EVD-000103-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000104-LIFTGATE",
+"shipment_id": "SHP-2026-000104",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-08-15T14:48:30",
+"evidence_ref": "EVD-000104-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000107-APPOINTMENT",
+"shipment_id": "SHP-2026-000107",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-03-06T21:26:03",
+"evidence_ref": "EVD-000107-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000113-APPOINTMENT",
+"shipment_id": "SHP-2026-000113",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-19T08:12:01",
+"evidence_ref": "EVD-000113-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000113-RESIDENTIAL",
+"shipment_id": "SHP-2026-000113",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-18T16:38:14",
+"evidence_ref": "EVD-000113-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000114-RESIDENTIAL",
+"shipment_id": "SHP-2026-000114",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-06T17:26:48",
+"evidence_ref": "EVD-000114-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000116-RESIDENTIAL",
+"shipment_id": "SHP-2026-000116",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-22T23:36:14",
+"evidence_ref": "EVD-000116-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000117-DETENTION",
+"shipment_id": "SHP-2026-000117",
+"accessorial_code": "DETENTION",
+"event_at": "2026-09-21T00:12:05",
+"evidence_ref": "EVD-000117-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000117-LIFTGATE",
+"shipment_id": "SHP-2026-000117",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-09-20T17:15:37",
+"evidence_ref": "EVD-000117-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000117-RESIDENTIAL",
+"shipment_id": "SHP-2026-000117",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-21T08:44:22",
+"evidence_ref": "EVD-000117-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000119-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000119",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-06-28T22:38:34",
+"evidence_ref": "EVD-000119-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000123-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000123",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-03-22T04:22:49",
+"evidence_ref": "EVD-000123-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000123-RESIDENTIAL",
+"shipment_id": "SHP-2026-000123",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-23T02:37:20",
+"evidence_ref": "EVD-000123-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000124-RESIDENTIAL",
+"shipment_id": "SHP-2026-000124",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-31T07:27:36",
+"evidence_ref": "EVD-000124-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000125-RESIDENTIAL",
+"shipment_id": "SHP-2026-000125",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-06T21:59:26",
+"evidence_ref": "EVD-000125-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000126-RESIDENTIAL",
+"shipment_id": "SHP-2026-000126",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-19T07:42:44",
+"evidence_ref": "EVD-000126-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000129-RESIDENTIAL",
+"shipment_id": "SHP-2026-000129",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-01T16:34:26",
+"evidence_ref": "EVD-000129-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000131-RESIDENTIAL",
+"shipment_id": "SHP-2026-000131",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-22T12:41:36",
+"evidence_ref": "EVD-000131-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000134-APPOINTMENT",
+"shipment_id": "SHP-2026-000134",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-21T11:09:45",
+"evidence_ref": "EVD-000134-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000137-RESIDENTIAL",
+"shipment_id": "SHP-2026-000137",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-22T09:57:48",
+"evidence_ref": "EVD-000137-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000139-APPOINTMENT",
+"shipment_id": "SHP-2026-000139",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-08T06:48:17",
+"evidence_ref": "EVD-000139-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000140-LIFTGATE",
+"shipment_id": "SHP-2026-000140",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-29T04:12:06",
+"evidence_ref": "EVD-000140-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000141-RESIDENTIAL",
+"shipment_id": "SHP-2026-000141",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-31T05:56:35",
+"evidence_ref": "EVD-000141-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000143-APPOINTMENT",
+"shipment_id": "SHP-2026-000143",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-01-13T01:18:37",
+"evidence_ref": "EVD-000143-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000143-LIFTGATE",
+"shipment_id": "SHP-2026-000143",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-13T21:41:27",
+"evidence_ref": "EVD-000143-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000149-APPOINTMENT",
+"shipment_id": "SHP-2026-000149",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-06-15T05:46:12",
+"evidence_ref": "EVD-000149-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000151-LIFTGATE",
+"shipment_id": "SHP-2026-000151",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-27T06:56:23",
+"evidence_ref": "EVD-000151-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000154-RESIDENTIAL",
+"shipment_id": "SHP-2026-000154",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-23T22:32:55",
+"evidence_ref": "EVD-000154-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000156-DETENTION",
+"shipment_id": "SHP-2026-000156",
+"accessorial_code": "DETENTION",
+"event_at": "2026-01-19T05:00:29",
+"evidence_ref": "EVD-000156-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000156-LIFTGATE",
+"shipment_id": "SHP-2026-000156",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-18T23:15:46",
+"evidence_ref": "EVD-000156-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000166-LIFTGATE",
+"shipment_id": "SHP-2026-000166",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-01T00:16:29",
+"evidence_ref": "EVD-000166-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000167-REDELIVERY",
+"shipment_id": "SHP-2026-000167",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-03-22T05:42:32",
+"evidence_ref": "EVD-000167-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000167-RESIDENTIAL",
+"shipment_id": "SHP-2026-000167",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-22T00:00:08",
+"evidence_ref": "EVD-000167-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000176-APPOINTMENT",
+"shipment_id": "SHP-2026-000176",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-05-13T12:04:59",
+"evidence_ref": "EVD-000176-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000178-RESIDENTIAL",
+"shipment_id": "SHP-2026-000178",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-23T16:52:58",
+"evidence_ref": "EVD-000178-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000180-RESIDENTIAL",
+"shipment_id": "SHP-2026-000180",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-26T21:33:12",
+"evidence_ref": "EVD-000180-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000186-RESIDENTIAL",
+"shipment_id": "SHP-2026-000186",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-04T09:56:10",
+"evidence_ref": "EVD-000186-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000192-APPOINTMENT",
+"shipment_id": "SHP-2026-000192",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-06-27T12:16:45",
+"evidence_ref": "EVD-000192-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000192-RESIDENTIAL",
+"shipment_id": "SHP-2026-000192",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-27T16:36:51",
+"evidence_ref": "EVD-000192-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000195-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000195",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-02-22T03:33:11",
+"evidence_ref": "EVD-000195-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000195-RESIDENTIAL",
+"shipment_id": "SHP-2026-000195",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-22T08:01:29",
+"evidence_ref": "EVD-000195-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000196-RESIDENTIAL",
+"shipment_id": "SHP-2026-000196",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-21T20:08:52",
+"evidence_ref": "EVD-000196-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000197-APPOINTMENT",
+"shipment_id": "SHP-2026-000197",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-04-02T20:54:44",
+"evidence_ref": "EVD-000197-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000200-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000200",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-09-15T02:25:53",
+"evidence_ref": "EVD-000200-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000200-RESIDENTIAL",
+"shipment_id": "SHP-2026-000200",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-16T03:33:14",
+"evidence_ref": "EVD-000200-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000202-APPOINTMENT",
+"shipment_id": "SHP-2026-000202",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-07-24T05:52:51",
+"evidence_ref": "EVD-000202-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000204-RESIDENTIAL",
+"shipment_id": "SHP-2026-000204",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-15T10:04:54",
+"evidence_ref": "EVD-000204-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000205-APPOINTMENT",
+"shipment_id": "SHP-2026-000205",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-07-21T04:00:21",
+"evidence_ref": "EVD-000205-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000207-RESIDENTIAL",
+"shipment_id": "SHP-2026-000207",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-25T13:24:47",
+"evidence_ref": "EVD-000207-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000210-LIFTGATE",
+"shipment_id": "SHP-2026-000210",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-07T15:01:22",
+"evidence_ref": "EVD-000210-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000210-RESIDENTIAL",
+"shipment_id": "SHP-2026-000210",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-06T17:27:01",
+"evidence_ref": "EVD-000210-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000211-LIFTGATE",
+"shipment_id": "SHP-2026-000211",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-31T19:05:19",
+"evidence_ref": "EVD-000211-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000211-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000211",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-07-31T23:32:23",
+"evidence_ref": "EVD-000211-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000215-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000215",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-03-21T02:20:02",
+"evidence_ref": "EVD-000215-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000216-RESIDENTIAL",
+"shipment_id": "SHP-2026-000216",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-21T22:10:00",
+"evidence_ref": "EVD-000216-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000220-RESIDENTIAL",
+"shipment_id": "SHP-2026-000220",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-16T04:29:51",
+"evidence_ref": "EVD-000220-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000221-LIFTGATE",
+"shipment_id": "SHP-2026-000221",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-03T03:30:55",
+"evidence_ref": "EVD-000221-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000221-RESIDENTIAL",
+"shipment_id": "SHP-2026-000221",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-01T18:18:26",
+"evidence_ref": "EVD-000221-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000224-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000224",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-01-20T20:30:36",
+"evidence_ref": "EVD-000224-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000226-RESIDENTIAL",
+"shipment_id": "SHP-2026-000226",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-07T05:24:33",
+"evidence_ref": "EVD-000226-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000227-LIFTGATE",
+"shipment_id": "SHP-2026-000227",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-08-29T19:50:04",
+"evidence_ref": "EVD-000227-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000228-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000228",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-09-20T15:18:20",
+"evidence_ref": "EVD-000228-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000228-RESIDENTIAL",
+"shipment_id": "SHP-2026-000228",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-18T23:20:56",
+"evidence_ref": "EVD-000228-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000229-RESIDENTIAL",
+"shipment_id": "SHP-2026-000229",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-23T06:27:09",
+"evidence_ref": "EVD-000229-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000231-LIFTGATE",
+"shipment_id": "SHP-2026-000231",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-11T06:38:33",
+"evidence_ref": "EVD-000231-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000235-RESIDENTIAL",
+"shipment_id": "SHP-2026-000235",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-10T17:46:35",
+"evidence_ref": "EVD-000235-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000236-RESIDENTIAL",
+"shipment_id": "SHP-2026-000236",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-07T23:45:58",
+"evidence_ref": "EVD-000236-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000237-APPOINTMENT",
+"shipment_id": "SHP-2026-000237",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-04-03T18:29:03",
+"evidence_ref": "EVD-000237-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000238-APPOINTMENT",
+"shipment_id": "SHP-2026-000238",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-05-25T04:54:49",
+"evidence_ref": "EVD-000238-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000239-LIFTGATE",
+"shipment_id": "SHP-2026-000239",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-03-01T07:42:03",
+"evidence_ref": "EVD-000239-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000241-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000241",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-02-21T19:35:34",
+"evidence_ref": "EVD-000241-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000242-RESIDENTIAL",
+"shipment_id": "SHP-2026-000242",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-11T17:55:39",
+"evidence_ref": "EVD-000242-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000243-LIFTGATE",
+"shipment_id": "SHP-2026-000243",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-11T12:31:38",
+"evidence_ref": "EVD-000243-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000250-RESIDENTIAL",
+"shipment_id": "SHP-2026-000250",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-30T09:17:11",
+"evidence_ref": "EVD-000250-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000253-LIFTGATE",
+"shipment_id": "SHP-2026-000253",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-02-09T21:59:18",
+"evidence_ref": "EVD-000253-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000254-LIFTGATE",
+"shipment_id": "SHP-2026-000254",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-08-17T01:14:52",
+"evidence_ref": "EVD-000254-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000255-REDELIVERY",
+"shipment_id": "SHP-2026-000255",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-06-08T16:11:19",
+"evidence_ref": "EVD-000255-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000255-RESIDENTIAL",
+"shipment_id": "SHP-2026-000255",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-06T19:41:53",
+"evidence_ref": "EVD-000255-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000258-RESIDENTIAL",
+"shipment_id": "SHP-2026-000258",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-02T05:50:48",
+"evidence_ref": "EVD-000258-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000260-LIFTGATE",
+"shipment_id": "SHP-2026-000260",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-08-02T13:14:07",
+"evidence_ref": "EVD-000260-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000260-RESIDENTIAL",
+"shipment_id": "SHP-2026-000260",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-01T17:16:53",
+"evidence_ref": "EVD-000260-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000262-APPOINTMENT",
+"shipment_id": "SHP-2026-000262",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-07T00:15:59",
+"evidence_ref": "EVD-000262-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000264-LIFTGATE",
+"shipment_id": "SHP-2026-000264",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-13T16:28:09",
+"evidence_ref": "EVD-000264-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000264-RESIDENTIAL",
+"shipment_id": "SHP-2026-000264",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-13T13:21:31",
+"evidence_ref": "EVD-000264-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000265-DETENTION",
+"shipment_id": "SHP-2026-000265",
+"accessorial_code": "DETENTION",
+"event_at": "2026-01-21T11:22:28",
+"evidence_ref": "EVD-000265-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000265-LIFTGATE",
+"shipment_id": "SHP-2026-000265",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-23T14:01:56",
+"evidence_ref": "EVD-000265-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000266-RESIDENTIAL",
+"shipment_id": "SHP-2026-000266",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-19T11:15:37",
+"evidence_ref": "EVD-000266-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000270-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000270",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-02-11T23:48:57",
+"evidence_ref": "EVD-000270-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000278-DETENTION",
+"shipment_id": "SHP-2026-000278",
+"accessorial_code": "DETENTION",
+"event_at": "2026-09-20T16:57:05",
+"evidence_ref": "EVD-000278-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000281-LIFTGATE",
+"shipment_id": "SHP-2026-000281",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-03-07T18:37:59",
+"evidence_ref": "EVD-000281-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000286-APPOINTMENT",
+"shipment_id": "SHP-2026-000286",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-07-21T09:31:22",
+"evidence_ref": "EVD-000286-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000286-LIFTGATE",
+"shipment_id": "SHP-2026-000286",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-20T16:34:08",
+"evidence_ref": "EVD-000286-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000289-RESIDENTIAL",
+"shipment_id": "SHP-2026-000289",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-18T05:46:28",
+"evidence_ref": "EVD-000289-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000290-RESIDENTIAL",
+"shipment_id": "SHP-2026-000290",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-12T15:02:19",
+"evidence_ref": "EVD-000290-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000294-RESIDENTIAL",
+"shipment_id": "SHP-2026-000294",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-28T21:19:17",
+"evidence_ref": "EVD-000294-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000295-RESIDENTIAL",
+"shipment_id": "SHP-2026-000295",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-23T17:18:19",
+"evidence_ref": "EVD-000295-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000298-DETENTION",
+"shipment_id": "SHP-2026-000298",
+"accessorial_code": "DETENTION",
+"event_at": "2026-05-31T18:52:46",
+"evidence_ref": "EVD-000298-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000298-RESIDENTIAL",
+"shipment_id": "SHP-2026-000298",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-31T10:12:49",
+"evidence_ref": "EVD-000298-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000299-RESIDENTIAL",
+"shipment_id": "SHP-2026-000299",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-02-04T01:29:04",
+"evidence_ref": "EVD-000299-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000301-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000301",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-07-13T08:46:36",
+"evidence_ref": "EVD-000301-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000301-RESIDENTIAL",
+"shipment_id": "SHP-2026-000301",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-13T04:10:05",
+"evidence_ref": "EVD-000301-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000303-REDELIVERY",
+"shipment_id": "SHP-2026-000303",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-08-11T23:48:55",
+"evidence_ref": "EVD-000303-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000304-RESIDENTIAL",
+"shipment_id": "SHP-2026-000304",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-05T00:28:42",
+"evidence_ref": "EVD-000304-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000313-APPOINTMENT",
+"shipment_id": "SHP-2026-000313",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-14T10:14:37",
+"evidence_ref": "EVD-000313-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000314-LIFTGATE",
+"shipment_id": "SHP-2026-000314",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-03-05T11:49:25",
+"evidence_ref": "EVD-000314-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000315-RESIDENTIAL",
+"shipment_id": "SHP-2026-000315",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-24T00:11:25",
+"evidence_ref": "EVD-000315-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000321-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000321",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-05-12T17:20:53",
+"evidence_ref": "EVD-000321-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000322-RESIDENTIAL",
+"shipment_id": "SHP-2026-000322",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-07T03:40:53",
+"evidence_ref": "EVD-000322-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000327-RESIDENTIAL",
+"shipment_id": "SHP-2026-000327",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-14T08:25:37",
+"evidence_ref": "EVD-000327-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000328-LIFTGATE",
+"shipment_id": "SHP-2026-000328",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-14T22:52:26",
+"evidence_ref": "EVD-000328-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000328-RESIDENTIAL",
+"shipment_id": "SHP-2026-000328",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-17T01:35:35",
+"evidence_ref": "EVD-000328-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000329-RESIDENTIAL",
+"shipment_id": "SHP-2026-000329",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-12T08:43:37",
+"evidence_ref": "EVD-000329-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000330-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000330",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-07-19T00:47:35",
+"evidence_ref": "EVD-000330-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000331-RESIDENTIAL",
+"shipment_id": "SHP-2026-000331",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-03T04:22:53",
+"evidence_ref": "EVD-000331-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000335-RESIDENTIAL",
+"shipment_id": "SHP-2026-000335",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-20T15:00:55",
+"evidence_ref": "EVD-000335-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000338-APPOINTMENT",
+"shipment_id": "SHP-2026-000338",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-08-12T17:35:36",
+"evidence_ref": "EVD-000338-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000342-DETENTION",
+"shipment_id": "SHP-2026-000342",
+"accessorial_code": "DETENTION",
+"event_at": "2026-05-18T20:15:48",
+"evidence_ref": "EVD-000342-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000344-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000344",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-07-20T18:42:29",
+"evidence_ref": "EVD-000344-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000349-RESIDENTIAL",
+"shipment_id": "SHP-2026-000349",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-20T18:20:04",
+"evidence_ref": "EVD-000349-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000350-RESIDENTIAL",
+"shipment_id": "SHP-2026-000350",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-22T08:24:15",
+"evidence_ref": "EVD-000350-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000354-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000354",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-07-04T20:38:38",
+"evidence_ref": "EVD-000354-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000355-RESIDENTIAL",
+"shipment_id": "SHP-2026-000355",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-21T11:17:11",
+"evidence_ref": "EVD-000355-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000356-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000356",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-03-07T15:53:42",
+"evidence_ref": "EVD-000356-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000358-APPOINTMENT",
+"shipment_id": "SHP-2026-000358",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-14T18:40:39",
+"evidence_ref": "EVD-000358-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000359-REDELIVERY",
+"shipment_id": "SHP-2026-000359",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-04-16T13:17:15",
+"evidence_ref": "EVD-000359-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000362-RESIDENTIAL",
+"shipment_id": "SHP-2026-000362",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-30T12:25:40",
+"evidence_ref": "EVD-000362-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000363-RESIDENTIAL",
+"shipment_id": "SHP-2026-000363",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-04T13:41:55",
+"evidence_ref": "EVD-000363-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000365-RESIDENTIAL",
+"shipment_id": "SHP-2026-000365",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-13T00:23:46",
+"evidence_ref": "EVD-000365-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000367-REDELIVERY",
+"shipment_id": "SHP-2026-000367",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-08-31T08:34:59",
+"evidence_ref": "EVD-000367-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000367-RESIDENTIAL",
+"shipment_id": "SHP-2026-000367",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-31T10:18:27",
+"evidence_ref": "EVD-000367-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000373-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000373",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-02-09T08:19:37",
+"evidence_ref": "EVD-000373-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000377-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000377",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-07-08T16:02:05",
+"evidence_ref": "EVD-000377-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000377-RESIDENTIAL",
+"shipment_id": "SHP-2026-000377",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-10T06:13:16",
+"evidence_ref": "EVD-000377-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000378-APPOINTMENT",
+"shipment_id": "SHP-2026-000378",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-05-15T11:19:13",
+"evidence_ref": "EVD-000378-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000384-LIFTGATE",
+"shipment_id": "SHP-2026-000384",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-09-24T08:32:29",
+"evidence_ref": "EVD-000384-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000391-RESIDENTIAL",
+"shipment_id": "SHP-2026-000391",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-01-26T06:31:15",
+"evidence_ref": "EVD-000391-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000395-DETENTION",
+"shipment_id": "SHP-2026-000395",
+"accessorial_code": "DETENTION",
+"event_at": "2026-06-15T01:41:17",
+"evidence_ref": "EVD-000395-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000395-RESIDENTIAL",
+"shipment_id": "SHP-2026-000395",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-15T00:48:42",
+"evidence_ref": "EVD-000395-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000399-APPOINTMENT",
+"shipment_id": "SHP-2026-000399",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-02-09T03:39:13",
+"evidence_ref": "EVD-000399-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000401-REDELIVERY",
+"shipment_id": "SHP-2026-000401",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-05-13T09:45:15",
+"evidence_ref": "EVD-000401-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000401-RESIDENTIAL",
+"shipment_id": "SHP-2026-000401",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-13T14:02:29",
+"evidence_ref": "EVD-000401-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000404-LIFTGATE",
+"shipment_id": "SHP-2026-000404",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-02T10:08:54",
+"evidence_ref": "EVD-000404-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000405-APPOINTMENT",
+"shipment_id": "SHP-2026-000405",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-17T10:15:08",
+"evidence_ref": "EVD-000405-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000408-APPOINTMENT",
+"shipment_id": "SHP-2026-000408",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-05T13:04:34",
+"evidence_ref": "EVD-000408-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000409-RESIDENTIAL",
+"shipment_id": "SHP-2026-000409",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-03-10T20:41:39",
+"evidence_ref": "EVD-000409-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000410-APPOINTMENT",
+"shipment_id": "SHP-2026-000410",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-01-30T06:43:49",
+"evidence_ref": "EVD-000410-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000411-LIFTGATE",
+"shipment_id": "SHP-2026-000411",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-04T12:44:05",
+"evidence_ref": "EVD-000411-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000413-APPOINTMENT",
+"shipment_id": "SHP-2026-000413",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-08-12T21:47:10",
+"evidence_ref": "EVD-000413-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000413-REDELIVERY",
+"shipment_id": "SHP-2026-000413",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-08-13T17:03:36",
+"evidence_ref": "EVD-000413-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000420-RESIDENTIAL",
+"shipment_id": "SHP-2026-000420",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-06T15:40:01",
+"evidence_ref": "EVD-000420-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000422-LIFTGATE",
+"shipment_id": "SHP-2026-000422",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-04-10T08:30:17",
+"evidence_ref": "EVD-000422-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000422-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000422",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-04-09T17:54:12",
+"evidence_ref": "EVD-000422-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000425-REDELIVERY",
+"shipment_id": "SHP-2026-000425",
+"accessorial_code": "REDELIVERY",
+"event_at": "2026-02-25T07:32:08",
+"evidence_ref": "EVD-000425-RED"
+},
+{
+"sa_id": "SACC-SHP-2026-000426-APPOINTMENT",
+"shipment_id": "SHP-2026-000426",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-05-28T03:59:05",
+"evidence_ref": "EVD-000426-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000427-LIFTGATE",
+"shipment_id": "SHP-2026-000427",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-08-18T06:46:59",
+"evidence_ref": "EVD-000427-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000427-RESIDENTIAL",
+"shipment_id": "SHP-2026-000427",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-08-16T16:52:13",
+"evidence_ref": "EVD-000427-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000429-DETENTION",
+"shipment_id": "SHP-2026-000429",
+"accessorial_code": "DETENTION",
+"event_at": "2026-08-06T02:04:20",
+"evidence_ref": "EVD-000429-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000430-APPOINTMENT",
+"shipment_id": "SHP-2026-000430",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-05-05T04:09:08",
+"evidence_ref": "EVD-000430-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000432-RESIDENTIAL",
+"shipment_id": "SHP-2026-000432",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-29T22:54:16",
+"evidence_ref": "EVD-000432-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000434-APPOINTMENT",
+"shipment_id": "SHP-2026-000434",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-04-14T10:27:17",
+"evidence_ref": "EVD-000434-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000438-APPOINTMENT",
+"shipment_id": "SHP-2026-000438",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-04-06T10:16:25",
+"evidence_ref": "EVD-000438-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000438-RESIDENTIAL",
+"shipment_id": "SHP-2026-000438",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-08T11:53:05",
+"evidence_ref": "EVD-000438-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000441-APPOINTMENT",
+"shipment_id": "SHP-2026-000441",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-29T20:44:52",
+"evidence_ref": "EVD-000441-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000443-APPOINTMENT",
+"shipment_id": "SHP-2026-000443",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-09-05T18:30:16",
+"evidence_ref": "EVD-000443-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000443-RESIDENTIAL",
+"shipment_id": "SHP-2026-000443",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-09-03T01:21:01",
+"evidence_ref": "EVD-000443-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000445-RESIDENTIAL",
+"shipment_id": "SHP-2026-000445",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-05-22T09:19:37",
+"evidence_ref": "EVD-000445-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000450-LIFTGATE",
+"shipment_id": "SHP-2026-000450",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-28T11:17:06",
+"evidence_ref": "EVD-000450-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000450-RESIDENTIAL",
+"shipment_id": "SHP-2026-000450",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-30T07:14:52",
+"evidence_ref": "EVD-000450-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000453-RESIDENTIAL",
+"shipment_id": "SHP-2026-000453",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-04-05T09:59:19",
+"evidence_ref": "EVD-000453-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000456-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000456",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-08-11T11:08:31",
+"evidence_ref": "EVD-000456-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000459-LIFTGATE",
+"shipment_id": "SHP-2026-000459",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-06-02T20:27:08",
+"evidence_ref": "EVD-000459-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000459-RESIDENTIAL",
+"shipment_id": "SHP-2026-000459",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-06-03T08:22:22",
+"evidence_ref": "EVD-000459-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000460-APPOINTMENT",
+"shipment_id": "SHP-2026-000460",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-07-28T11:26:05",
+"evidence_ref": "EVD-000460-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000460-RESIDENTIAL",
+"shipment_id": "SHP-2026-000460",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-28T20:30:43",
+"evidence_ref": "EVD-000460-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000463-APPOINTMENT",
+"shipment_id": "SHP-2026-000463",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-10-02T16:25:47",
+"evidence_ref": "EVD-000463-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000463-RESIDENTIAL",
+"shipment_id": "SHP-2026-000463",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-10-01T20:04:38",
+"evidence_ref": "EVD-000463-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000465-APPOINTMENT",
+"shipment_id": "SHP-2026-000465",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-06-16T04:02:50",
+"evidence_ref": "EVD-000465-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000472-LIFTGATE",
+"shipment_id": "SHP-2026-000472",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-07-22T18:37:43",
+"evidence_ref": "EVD-000472-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000473-LIMITED_ACCESS",
+"shipment_id": "SHP-2026-000473",
+"accessorial_code": "LIMITED_ACCESS",
+"event_at": "2026-06-03T01:24:07",
+"evidence_ref": "EVD-000473-LIM"
+},
+{
+"sa_id": "SACC-SHP-2026-000477-APPOINTMENT",
+"shipment_id": "SHP-2026-000477",
+"accessorial_code": "APPOINTMENT",
+"event_at": "2026-06-23T00:15:13",
+"evidence_ref": "EVD-000477-APP"
+},
+{
+"sa_id": "SACC-SHP-2026-000483-RESIDENTIAL",
+"shipment_id": "SHP-2026-000483",
+"accessorial_code": "RESIDENTIAL",
+"event_at": "2026-07-20T18:14:28",
+"evidence_ref": "EVD-000483-RES"
+},
+{
+"sa_id": "SACC-SHP-2026-000486-LIFTGATE",
+"shipment_id": "SHP-2026-000486",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-09-02T15:06:26",
+"evidence_ref": "EVD-000486-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000487-LIFTGATE",
+"shipment_id": "SHP-2026-000487",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-28T06:10:24",
+"evidence_ref": "EVD-000487-LIF"
+},
+{
+"sa_id": "SACC-SHP-2026-000490-INSIDE_DELIVERY",
+"shipment_id": "SHP-2026-000490",
+"accessorial_code": "INSIDE_DELIVERY",
+"event_at": "2026-06-19T07:22:21",
+"evidence_ref": "EVD-000490-INS"
+},
+{
+"sa_id": "SACC-SHP-2026-000497-DETENTION",
+"shipment_id": "SHP-2026-000497",
+"accessorial_code": "DETENTION",
+"event_at": "2026-01-16T02:27:06",
+"evidence_ref": "EVD-000497-DET"
+},
+{
+"sa_id": "SACC-SHP-2026-000497-LIFTGATE",
+"shipment_id": "SHP-2026-000497",
+"accessorial_code": "LIFTGATE",
+"event_at": "2026-01-18T07:14:30",
+"evidence_ref": "EVD-000497-LIF"
+}
+]

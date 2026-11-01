@@ -1,0 +1,1748 @@
+[
+{
+"event_id": "CEV-0000001",
+"credit_note_id": "CN-2026-000001",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-20T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000002",
+"credit_note_id": "CN-2026-000001",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-01-21T21:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000003",
+"credit_note_id": "CN-2026-000001",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-01T23:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000004",
+"credit_note_id": "CN-2026-000002",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-23T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000005",
+"credit_note_id": "CN-2026-000002",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-01-25T21:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000006",
+"credit_note_id": "CN-2026-000002",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-02T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000007",
+"credit_note_id": "CN-2026-000003",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-26T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000008",
+"credit_note_id": "CN-2026-000003",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-01-31T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000009",
+"credit_note_id": "CN-2026-000003",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-03T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000010",
+"credit_note_id": "CN-2026-000004",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-27T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000011",
+"credit_note_id": "CN-2026-000004",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-01-28T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000012",
+"credit_note_id": "CN-2026-000004",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-02T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000013",
+"credit_note_id": "CN-2026-000005",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-03T16:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000014",
+"credit_note_id": "CN-2026-000005",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-07T19:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000015",
+"credit_note_id": "CN-2026-000005",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-19T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000016",
+"credit_note_id": "CN-2026-000006",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-04T02:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000017",
+"credit_note_id": "CN-2026-000006",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-06T06:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000018",
+"credit_note_id": "CN-2026-000006",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-13T10:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000019",
+"credit_note_id": "CN-2026-000007",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-30T05:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000020",
+"credit_note_id": "CN-2026-000007",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-04T06:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000021",
+"credit_note_id": "CN-2026-000007",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-12T11:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000022",
+"credit_note_id": "CN-2026-000008",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-01-30T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000023",
+"credit_note_id": "CN-2026-000008",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-02T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000024",
+"credit_note_id": "CN-2026-000008",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-10T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000025",
+"credit_note_id": "CN-2026-000009",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-05T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000026",
+"credit_note_id": "CN-2026-000009",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-06T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000027",
+"credit_note_id": "CN-2026-000009",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-15T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000028",
+"credit_note_id": "CN-2026-000010",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-12T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000029",
+"credit_note_id": "CN-2026-000010",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-13T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000030",
+"credit_note_id": "CN-2026-000010",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-18T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000031",
+"credit_note_id": "CN-2026-000011",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-14T02:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000032",
+"credit_note_id": "CN-2026-000011",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-17T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000033",
+"credit_note_id": "CN-2026-000011",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-21T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000034",
+"credit_note_id": "CN-2026-000012",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-09T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000035",
+"credit_note_id": "CN-2026-000012",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-14T03:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000036",
+"credit_note_id": "CN-2026-000012",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-22T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000037",
+"credit_note_id": "CN-2026-000013",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-15T18:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000038",
+"credit_note_id": "CN-2026-000013",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-20T23:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000039",
+"credit_note_id": "CN-2026-000013",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-27T02:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000040",
+"credit_note_id": "CN-2026-000014",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-12T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000041",
+"credit_note_id": "CN-2026-000014",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-13T23:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000042",
+"credit_note_id": "CN-2026-000014",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-17T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000043",
+"credit_note_id": "CN-2026-000015",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-18T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000044",
+"credit_note_id": "CN-2026-000015",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-22T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000045",
+"credit_note_id": "CN-2026-000015",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-26T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000046",
+"credit_note_id": "CN-2026-000016",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-21T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000047",
+"credit_note_id": "CN-2026-000016",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-27T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000048",
+"credit_note_id": "CN-2026-000016",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-03-12T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000049",
+"credit_note_id": "CN-2026-000017",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-23T05:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000050",
+"credit_note_id": "CN-2026-000017",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-24T08:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000051",
+"credit_note_id": "CN-2026-000017",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-02-28T10:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000052",
+"credit_note_id": "CN-2026-000018",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-02-23T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000053",
+"credit_note_id": "CN-2026-000018",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-02-27T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000054",
+"credit_note_id": "CN-2026-000018",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-03-09T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000055",
+"credit_note_id": "CN-2026-000019",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-03-08T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000056",
+"credit_note_id": "CN-2026-000019",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-03-10T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000057",
+"credit_note_id": "CN-2026-000019",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-03-18T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000058",
+"credit_note_id": "CN-2026-000020",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-03-24T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000059",
+"credit_note_id": "CN-2026-000020",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-03-29T23:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000060",
+"credit_note_id": "CN-2026-000020",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-04-02T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000061",
+"credit_note_id": "CN-2026-000021",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-18T02:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000062",
+"credit_note_id": "CN-2026-000021",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-20T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000063",
+"credit_note_id": "CN-2026-000021",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-04-23T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000064",
+"credit_note_id": "CN-2026-000022",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-21T18:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000065",
+"credit_note_id": "CN-2026-000022",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-26T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000066",
+"credit_note_id": "CN-2026-000022",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-05T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000067",
+"credit_note_id": "CN-2026-000023",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-23T05:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000068",
+"credit_note_id": "CN-2026-000023",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-28T09:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000069",
+"credit_note_id": "CN-2026-000023",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-02T10:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000070",
+"credit_note_id": "CN-2026-000024",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-20T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000071",
+"credit_note_id": "CN-2026-000024",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-21T05:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000072",
+"credit_note_id": "CN-2026-000024",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-04-25T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000073",
+"credit_note_id": "CN-2026-000025",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-24T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000074",
+"credit_note_id": "CN-2026-000025",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-27T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000075",
+"credit_note_id": "CN-2026-000025",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-07T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000076",
+"credit_note_id": "CN-2026-000026",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-28T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000077",
+"credit_note_id": "CN-2026-000026",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-29T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000078",
+"credit_note_id": "CN-2026-000026",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-11T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000079",
+"credit_note_id": "CN-2026-000027",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-25T18:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000080",
+"credit_note_id": "CN-2026-000027",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-26T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000081",
+"credit_note_id": "CN-2026-000027",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-10T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000082",
+"credit_note_id": "CN-2026-000028",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-26T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000083",
+"credit_note_id": "CN-2026-000028",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-01T03:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000084",
+"credit_note_id": "CN-2026-000028",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-08T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000085",
+"credit_note_id": "CN-2026-000029",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-04-28T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000086",
+"credit_note_id": "CN-2026-000029",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-04-30T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000087",
+"credit_note_id": "CN-2026-000029",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-14T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000088",
+"credit_note_id": "CN-2026-000030",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-05-20T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000089",
+"credit_note_id": "CN-2026-000030",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-23T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000090",
+"credit_note_id": "CN-2026-000030",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-27T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000091",
+"credit_note_id": "CN-2026-000031",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-05-18T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000092",
+"credit_note_id": "CN-2026-000031",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-22T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000093",
+"credit_note_id": "CN-2026-000031",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-25T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000094",
+"credit_note_id": "CN-2026-000032",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-05-19T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000095",
+"credit_note_id": "CN-2026-000032",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-24T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000096",
+"credit_note_id": "CN-2026-000032",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-27T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000097",
+"credit_note_id": "CN-2026-000033",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-05-19T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000098",
+"credit_note_id": "CN-2026-000033",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-24T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000099",
+"credit_note_id": "CN-2026-000033",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-05-30T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000100",
+"credit_note_id": "CN-2026-000034",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-05-22T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000101",
+"credit_note_id": "CN-2026-000034",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-05-26T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000102",
+"credit_note_id": "CN-2026-000034",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-08T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000103",
+"credit_note_id": "CN-2026-000035",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-01T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000104",
+"credit_note_id": "CN-2026-000035",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-03T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000105",
+"credit_note_id": "CN-2026-000035",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-11T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000106",
+"credit_note_id": "CN-2026-000036",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-05T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000107",
+"credit_note_id": "CN-2026-000036",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-09T05:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000108",
+"credit_note_id": "CN-2026-000036",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-15T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000109",
+"credit_note_id": "CN-2026-000037",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-16T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000110",
+"credit_note_id": "CN-2026-000037",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-21T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000111",
+"credit_note_id": "CN-2026-000037",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-30T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000112",
+"credit_note_id": "CN-2026-000038",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-11T02:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000113",
+"credit_note_id": "CN-2026-000038",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-14T07:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000114",
+"credit_note_id": "CN-2026-000038",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-17T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000115",
+"credit_note_id": "CN-2026-000039",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-13T20:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000116",
+"credit_note_id": "CN-2026-000039",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-16T21:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000117",
+"credit_note_id": "CN-2026-000039",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-06-29T22:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000118",
+"credit_note_id": "CN-2026-000040",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-06-21T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000119",
+"credit_note_id": "CN-2026-000040",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-06-23T20:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000120",
+"credit_note_id": "CN-2026-000040",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-07-04T23:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000121",
+"credit_note_id": "CN-2026-000041",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-07-03T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000122",
+"credit_note_id": "CN-2026-000041",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-07-05T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000123",
+"credit_note_id": "CN-2026-000041",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-07-20T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000124",
+"credit_note_id": "CN-2026-000042",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-07-02T20:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000125",
+"credit_note_id": "CN-2026-000042",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-07-05T01:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000126",
+"credit_note_id": "CN-2026-000042",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-07-18T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000127",
+"credit_note_id": "CN-2026-000043",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-07-21T02:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000128",
+"credit_note_id": "CN-2026-000043",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-07-26T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000129",
+"credit_note_id": "CN-2026-000043",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-07-31T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000130",
+"credit_note_id": "CN-2026-000044",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-07-27T20:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000131",
+"credit_note_id": "CN-2026-000044",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-02T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000132",
+"credit_note_id": "CN-2026-000044",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-08-10T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000133",
+"credit_note_id": "CN-2026-000045",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-04T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000134",
+"credit_note_id": "CN-2026-000045",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-08T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000135",
+"credit_note_id": "CN-2026-000045",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-08-16T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000136",
+"credit_note_id": "CN-2026-000046",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-11T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000137",
+"credit_note_id": "CN-2026-000046",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-13T06:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000138",
+"credit_note_id": "CN-2026-000046",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-08-26T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000139",
+"credit_note_id": "CN-2026-000047",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-08T18:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000140",
+"credit_note_id": "CN-2026-000047",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-09T21:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000141",
+"credit_note_id": "CN-2026-000047",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-08-18T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000142",
+"credit_note_id": "CN-2026-000048",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-19T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000143",
+"credit_note_id": "CN-2026-000048",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-21T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000144",
+"credit_note_id": "CN-2026-000048",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-02T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000145",
+"credit_note_id": "CN-2026-000049",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-20T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000146",
+"credit_note_id": "CN-2026-000049",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-08-25T01:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000147",
+"credit_note_id": "CN-2026-000049",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-06T02:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000148",
+"credit_note_id": "CN-2026-000050",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-08-31T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000149",
+"credit_note_id": "CN-2026-000050",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-01T23:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000150",
+"credit_note_id": "CN-2026-000050",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-06T00:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000151",
+"credit_note_id": "CN-2026-000051",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-05T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000152",
+"credit_note_id": "CN-2026-000051",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-11T03:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000153",
+"credit_note_id": "CN-2026-000051",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-19T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000154",
+"credit_note_id": "CN-2026-000052",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-05T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000155",
+"credit_note_id": "CN-2026-000052",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-06T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000156",
+"credit_note_id": "CN-2026-000052",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-11T03:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000157",
+"credit_note_id": "CN-2026-000053",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-12T17:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000158",
+"credit_note_id": "CN-2026-000053",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-16T18:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000159",
+"credit_note_id": "CN-2026-000053",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-21T21:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000160",
+"credit_note_id": "CN-2026-000054",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-18T16:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000161",
+"credit_note_id": "CN-2026-000054",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-21T19:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000162",
+"credit_note_id": "CN-2026-000054",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-03T20:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000163",
+"credit_note_id": "CN-2026-000055",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-19T20:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000164",
+"credit_note_id": "CN-2026-000055",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-23T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000165",
+"credit_note_id": "CN-2026-000055",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-29T01:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000166",
+"credit_note_id": "CN-2026-000056",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-10T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000167",
+"credit_note_id": "CN-2026-000056",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-13T01:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000168",
+"credit_note_id": "CN-2026-000056",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-09-20T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000169",
+"credit_note_id": "CN-2026-000057",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-26T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000170",
+"credit_note_id": "CN-2026-000057",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-29T02:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000171",
+"credit_note_id": "CN-2026-000057",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-12T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000172",
+"credit_note_id": "CN-2026-000058",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-09-22T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000173",
+"credit_note_id": "CN-2026-000058",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-09-26T03:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000174",
+"credit_note_id": "CN-2026-000058",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-05T07:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000175",
+"credit_note_id": "CN-2026-000059",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-01T21:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000176",
+"credit_note_id": "CN-2026-000059",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-03T22:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000177",
+"credit_note_id": "CN-2026-000059",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-07T01:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000178",
+"credit_note_id": "CN-2026-000060",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-08T19:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000179",
+"credit_note_id": "CN-2026-000060",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-12T00:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000180",
+"credit_note_id": "CN-2026-000060",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-17T05:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000181",
+"credit_note_id": "CN-2026-000061",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-12T00:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000182",
+"credit_note_id": "CN-2026-000061",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-13T04:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000183",
+"credit_note_id": "CN-2026-000061",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-22T09:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000184",
+"credit_note_id": "CN-2026-000062",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-04T18:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000185",
+"credit_note_id": "CN-2026-000062",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-09T23:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000186",
+"credit_note_id": "CN-2026-000062",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-17T04:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000187",
+"credit_note_id": "CN-2026-000063",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-11T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000188",
+"credit_note_id": "CN-2026-000063",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-13T01:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000189",
+"credit_note_id": "CN-2026-000063",
+"from_status": "ISSUED",
+"to_status": "APPLIED",
+"event_at": "2026-10-20T06:00:00",
+"actor": "AP_TEAM",
+"note": "applied against open balance"
+},
+{
+"event_id": "CEV-0000190",
+"credit_note_id": "CN-2026-000064",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-15T23:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000191",
+"credit_note_id": "CN-2026-000064",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-20T03:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000192",
+"credit_note_id": "CN-2026-000065",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-17T22:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+},
+{
+"event_id": "CEV-0000193",
+"credit_note_id": "CN-2026-000065",
+"from_status": "DRAFT",
+"to_status": "ISSUED",
+"event_at": "2026-10-19T01:00:00",
+"actor": "CARRIER",
+"note": null
+},
+{
+"event_id": "CEV-0000194",
+"credit_note_id": "CN-2026-000066",
+"from_status": null,
+"to_status": "DRAFT",
+"event_at": "2026-10-22T01:00:00",
+"actor": "CARRIER",
+"note": "credit drafted for approved dispute"
+}
+]

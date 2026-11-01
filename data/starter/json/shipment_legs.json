@@ -1,0 +1,7882 @@
+[
+{
+"leg_id": "LEG-SHP-2026-000001-01",
+"shipment_id": "SHP-2026-000001",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-03-20T15:45:00",
+"arrived_at": "2026-03-22T02:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000001-02",
+"shipment_id": "SHP-2026-000001",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-03-22T02:52:30",
+"arrived_at": "2026-03-23T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000002-01",
+"shipment_id": "SHP-2026-000002",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-04-02T13:00:00",
+"arrived_at": "2026-04-03T20:10:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000002-02",
+"shipment_id": "SHP-2026-000002",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-MEM",
+"departed_at": "2026-04-03T20:10:00",
+"arrived_at": "2026-04-05T03:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000002-03",
+"shipment_id": "SHP-2026-000002",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-W",
+"departed_at": "2026-04-05T03:20:00",
+"arrived_at": "2026-04-06T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000003-01",
+"shipment_id": "SHP-2026-000003",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-23T11:30:00",
+"arrived_at": "2026-09-24T23:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000003-02",
+"shipment_id": "SHP-2026-000003",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-MW",
+"departed_at": "2026-09-24T23:07:30",
+"arrived_at": "2026-09-26T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000004-01",
+"shipment_id": "SHP-2026-000004",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-05-16T08:00:00",
+"arrived_at": "2026-05-16T22:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000004-02",
+"shipment_id": "SHP-2026-000004",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-05-16T22:52:30",
+"arrived_at": "2026-05-17T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000005-01",
+"shipment_id": "SHP-2026-000005",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-22T12:00:00",
+"arrived_at": "2026-09-24T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000005-02",
+"shipment_id": "SHP-2026-000005",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-09-24T15:00:00",
+"arrived_at": "2026-09-26T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000006-01",
+"shipment_id": "SHP-2026-000006",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-06-11T15:00:00",
+"arrived_at": "2026-06-13T01:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000006-02",
+"shipment_id": "SHP-2026-000006",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-06-13T01:22:30",
+"arrived_at": "2026-06-14T11:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000007-01",
+"shipment_id": "SHP-2026-000007",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-06-19T10:45:00",
+"arrived_at": "2026-06-20T21:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000007-02",
+"shipment_id": "SHP-2026-000007",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "HUB-ATL",
+"departed_at": "2026-06-20T21:15:00",
+"arrived_at": "2026-06-22T07:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000007-03",
+"shipment_id": "SHP-2026-000007",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-06-22T07:45:00",
+"arrived_at": "2026-06-23T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000008-01",
+"shipment_id": "SHP-2026-000008",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DFW",
+"departed_at": "2026-03-11T09:30:00",
+"arrived_at": "2026-03-13T13:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000008-02",
+"shipment_id": "SHP-2026-000008",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-03-13T13:22:30",
+"arrived_at": "2026-03-15T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000009-01",
+"shipment_id": "SHP-2026-000009",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-13T15:15:00",
+"arrived_at": "2026-05-16T02:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000009-02",
+"shipment_id": "SHP-2026-000009",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-05-16T02:30:00",
+"arrived_at": "2026-05-18T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000010-01",
+"shipment_id": "SHP-2026-000010",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-08-24T12:45:00",
+"arrived_at": "2026-08-27T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000011-01",
+"shipment_id": "SHP-2026-000011",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-01-03T11:00:00",
+"arrived_at": "2026-01-05T02:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000011-02",
+"shipment_id": "SHP-2026-000011",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SW",
+"departed_at": "2026-01-05T02:22:30",
+"arrived_at": "2026-01-06T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000012-01",
+"shipment_id": "SHP-2026-000012",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-05-23T11:45:00",
+"arrived_at": "2026-05-25T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000013-01",
+"shipment_id": "SHP-2026-000013",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-18T10:45:00",
+"arrived_at": "2026-05-19T02:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000013-02",
+"shipment_id": "SHP-2026-000013",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SE",
+"departed_at": "2026-05-19T02:45:00",
+"arrived_at": "2026-05-19T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000014-01",
+"shipment_id": "SHP-2026-000014",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-31T08:00:00",
+"arrived_at": "2026-09-02T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000015-01",
+"shipment_id": "SHP-2026-000015",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-25T16:45:00",
+"arrived_at": "2026-05-27T02:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000015-02",
+"shipment_id": "SHP-2026-000015",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-05-27T02:22:30",
+"arrived_at": "2026-05-28T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000016-01",
+"shipment_id": "SHP-2026-000016",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-05-07T09:15:00",
+"arrived_at": "2026-05-12T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000017-01",
+"shipment_id": "SHP-2026-000017",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-19T14:45:00",
+"arrived_at": "2026-06-21T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000017-02",
+"shipment_id": "SHP-2026-000017",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SE",
+"departed_at": "2026-06-21T00:15:00",
+"arrived_at": "2026-06-22T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000018-01",
+"shipment_id": "SHP-2026-000018",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-04-06T08:00:00",
+"arrived_at": "2026-04-08T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000019-01",
+"shipment_id": "SHP-2026-000019",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-04-18T11:15:00",
+"arrived_at": "2026-04-19T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000019-02",
+"shipment_id": "SHP-2026-000019",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-04-19T12:15:00",
+"arrived_at": "2026-04-20T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000020-01",
+"shipment_id": "SHP-2026-000020",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-26T10:30:00",
+"arrived_at": "2026-09-28T01:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000020-02",
+"shipment_id": "SHP-2026-000020",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SW",
+"departed_at": "2026-09-28T01:45:00",
+"arrived_at": "2026-09-29T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000021-01",
+"shipment_id": "SHP-2026-000021",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-CVG",
+"departed_at": "2026-07-12T08:00:00",
+"arrived_at": "2026-07-14T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000021-02",
+"shipment_id": "SHP-2026-000021",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-07-14T11:30:00",
+"arrived_at": "2026-07-16T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000022-01",
+"shipment_id": "SHP-2026-000022",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-28T08:15:00",
+"arrived_at": "2026-06-01T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000023-01",
+"shipment_id": "SHP-2026-000023",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-29T14:30:00",
+"arrived_at": "2026-10-01T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000023-02",
+"shipment_id": "SHP-2026-000023",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SW",
+"departed_at": "2026-10-01T00:45:00",
+"arrived_at": "2026-10-02T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000024-01",
+"shipment_id": "SHP-2026-000024",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-08-10T15:30:00",
+"arrived_at": "2026-08-13T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000025-01",
+"shipment_id": "SHP-2026-000025",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-02-26T14:00:00",
+"arrived_at": "2026-02-28T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000026-01",
+"shipment_id": "SHP-2026-000026",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-06T12:00:00",
+"arrived_at": "2026-06-07T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000026-02",
+"shipment_id": "SHP-2026-000026",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-06-07T13:30:00",
+"arrived_at": "2026-06-08T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000027-01",
+"shipment_id": "SHP-2026-000027",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-01-05T11:00:00",
+"arrived_at": "2026-01-06T21:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000027-02",
+"shipment_id": "SHP-2026-000027",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-06T21:25:00",
+"arrived_at": "2026-01-08T07:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000027-03",
+"shipment_id": "SHP-2026-000027",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-01-08T07:50:00",
+"arrived_at": "2026-01-09T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000028-01",
+"shipment_id": "SHP-2026-000028",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-04-05T14:45:00",
+"arrived_at": "2026-04-08T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000029-01",
+"shipment_id": "SHP-2026-000029",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-03-07T12:30:00",
+"arrived_at": "2026-03-13T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000030-01",
+"shipment_id": "SHP-2026-000030",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-05T15:30:00",
+"arrived_at": "2026-07-07T03:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000030-02",
+"shipment_id": "SHP-2026-000030",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-07T03:52:30",
+"arrived_at": "2026-07-08T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000031-01",
+"shipment_id": "SHP-2026-000031",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-01T09:30:00",
+"arrived_at": "2026-01-02T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000031-02",
+"shipment_id": "SHP-2026-000031",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-W",
+"departed_at": "2026-01-02T10:00:00",
+"arrived_at": "2026-01-03T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000032-01",
+"shipment_id": "SHP-2026-000032",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-02-21T11:45:00",
+"arrived_at": "2026-02-25T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000033-01",
+"shipment_id": "SHP-2026-000033",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-26T10:00:00",
+"arrived_at": "2026-08-31T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000034-01",
+"shipment_id": "SHP-2026-000034",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-03-05T09:15:00",
+"arrived_at": "2026-03-07T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000034-02",
+"shipment_id": "SHP-2026-000034",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-03-07T23:52:30",
+"arrived_at": "2026-03-10T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000035-01",
+"shipment_id": "SHP-2026-000035",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-08-04T16:00:00",
+"arrived_at": "2026-08-06T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000036-01",
+"shipment_id": "SHP-2026-000036",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-MW",
+"departed_at": "2026-06-07T16:00:00",
+"arrived_at": "2026-06-12T11:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000037-01",
+"shipment_id": "SHP-2026-000037",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-07T10:15:00",
+"arrived_at": "2026-06-10T00:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000037-02",
+"shipment_id": "SHP-2026-000037",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-MW",
+"departed_at": "2026-06-10T00:07:30",
+"arrived_at": "2026-06-12T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000038-01",
+"shipment_id": "SHP-2026-000038",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-06-02T16:45:00",
+"arrived_at": "2026-06-04T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000038-02",
+"shipment_id": "SHP-2026-000038",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NW",
+"departed_at": "2026-06-04T14:30:00",
+"arrived_at": "2026-06-06T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000039-01",
+"shipment_id": "SHP-2026-000039",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-28T12:45:00",
+"arrived_at": "2026-07-30T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000040-01",
+"shipment_id": "SHP-2026-000040",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-02-07T14:30:00",
+"arrived_at": "2026-02-09T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000041-01",
+"shipment_id": "SHP-2026-000041",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-13T16:15:00",
+"arrived_at": "2026-05-14T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000041-02",
+"shipment_id": "SHP-2026-000041",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-05-14T16:15:00",
+"arrived_at": "2026-05-15T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000042-01",
+"shipment_id": "SHP-2026-000042",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-03-30T12:00:00",
+"arrived_at": "2026-03-31T22:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000042-02",
+"shipment_id": "SHP-2026-000042",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-MW",
+"departed_at": "2026-03-31T22:30:00",
+"arrived_at": "2026-04-02T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000043-01",
+"shipment_id": "SHP-2026-000043",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-15T13:30:00",
+"arrived_at": "2026-01-17T14:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000043-02",
+"shipment_id": "SHP-2026-000043",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-01-17T14:37:30",
+"arrived_at": "2026-01-19T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000044-01",
+"shipment_id": "SHP-2026-000044",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-09-11T10:00:00",
+"arrived_at": "2026-09-13T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000045-01",
+"shipment_id": "SHP-2026-000045",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-09-16T16:15:00",
+"arrived_at": "2026-09-17T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000046-01",
+"shipment_id": "SHP-2026-000046",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-01-10T10:00:00",
+"arrived_at": "2026-01-12T11:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000046-02",
+"shipment_id": "SHP-2026-000046",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-12T11:25:00",
+"arrived_at": "2026-01-14T12:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000046-03",
+"shipment_id": "SHP-2026-000046",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-01-14T12:50:00",
+"arrived_at": "2026-01-16T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000047-01",
+"shipment_id": "SHP-2026-000047",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-08-28T12:00:00",
+"arrived_at": "2026-08-30T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000048-01",
+"shipment_id": "SHP-2026-000048",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-02-24T11:15:00",
+"arrived_at": "2026-02-27T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000049-01",
+"shipment_id": "SHP-2026-000049",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-09-25T14:45:00",
+"arrived_at": "2026-09-27T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000050-01",
+"shipment_id": "SHP-2026-000050",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-05-25T12:00:00",
+"arrived_at": "2026-05-28T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000051-01",
+"shipment_id": "SHP-2026-000051",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-07-30T13:00:00",
+"arrived_at": "2026-08-01T02:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000051-02",
+"shipment_id": "SHP-2026-000051",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-08-01T02:15:00",
+"arrived_at": "2026-08-02T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000052-01",
+"shipment_id": "SHP-2026-000052",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-18T14:15:00",
+"arrived_at": "2026-08-19T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000053-01",
+"shipment_id": "SHP-2026-000053",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-12T12:30:00",
+"arrived_at": "2026-05-14T23:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000053-02",
+"shipment_id": "SHP-2026-000053",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-MW",
+"departed_at": "2026-05-14T23:45:00",
+"arrived_at": "2026-05-17T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000054-01",
+"shipment_id": "SHP-2026-000054",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-04-03T14:45:00",
+"arrived_at": "2026-04-08T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000055-01",
+"shipment_id": "SHP-2026-000055",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-05-30T11:00:00",
+"arrived_at": "2026-05-31T21:10:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000055-02",
+"shipment_id": "SHP-2026-000055",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-31T21:10:00",
+"arrived_at": "2026-06-02T07:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000055-03",
+"shipment_id": "SHP-2026-000055",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-06-02T07:20:00",
+"arrived_at": "2026-06-03T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000056-01",
+"shipment_id": "SHP-2026-000056",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-09-08T14:00:00",
+"arrived_at": "2026-09-11T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000057-01",
+"shipment_id": "SHP-2026-000057",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-05-05T10:15:00",
+"arrived_at": "2026-05-09T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000058-01",
+"shipment_id": "SHP-2026-000058",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-20T13:15:00",
+"arrived_at": "2026-01-25T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000059-01",
+"shipment_id": "SHP-2026-000059",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-12T14:00:00",
+"arrived_at": "2026-07-14T13:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000059-02",
+"shipment_id": "SHP-2026-000059",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-14T13:40:00",
+"arrived_at": "2026-07-16T13:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000059-03",
+"shipment_id": "SHP-2026-000059",
+"leg_seq": 3,
+"from_node": "HUB-DFW",
+"to_node": "DST-NW",
+"departed_at": "2026-07-16T13:20:00",
+"arrived_at": "2026-07-18T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000060-01",
+"shipment_id": "SHP-2026-000060",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-03-16T15:30:00",
+"arrived_at": "2026-03-17T22:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000060-02",
+"shipment_id": "SHP-2026-000060",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "HUB-IND",
+"departed_at": "2026-03-17T22:45:00",
+"arrived_at": "2026-03-19T06:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000060-03",
+"shipment_id": "SHP-2026-000060",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-03-19T06:00:00",
+"arrived_at": "2026-03-20T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000061-01",
+"shipment_id": "SHP-2026-000061",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-16T11:15:00",
+"arrived_at": "2026-02-17T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000061-02",
+"shipment_id": "SHP-2026-000061",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SW",
+"departed_at": "2026-02-17T23:52:30",
+"arrived_at": "2026-02-19T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000062-01",
+"shipment_id": "SHP-2026-000062",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-05-26T10:30:00",
+"arrived_at": "2026-05-27T23:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000062-02",
+"shipment_id": "SHP-2026-000062",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-05-27T23:15:00",
+"arrived_at": "2026-05-29T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000063-01",
+"shipment_id": "SHP-2026-000063",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-10T08:00:00",
+"arrived_at": "2026-06-12T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000063-02",
+"shipment_id": "SHP-2026-000063",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SE",
+"departed_at": "2026-06-12T09:45:00",
+"arrived_at": "2026-06-14T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000064-01",
+"shipment_id": "SHP-2026-000064",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-07-09T10:45:00",
+"arrived_at": "2026-07-11T02:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000064-02",
+"shipment_id": "SHP-2026-000064",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SE",
+"departed_at": "2026-07-11T02:15:00",
+"arrived_at": "2026-07-12T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000065-01",
+"shipment_id": "SHP-2026-000065",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-12T08:00:00",
+"arrived_at": "2026-01-15T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000066-01",
+"shipment_id": "SHP-2026-000066",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-05-21T13:00:00",
+"arrived_at": "2026-05-22T19:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000066-02",
+"shipment_id": "SHP-2026-000066",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-22T19:40:00",
+"arrived_at": "2026-05-24T02:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000066-03",
+"shipment_id": "SHP-2026-000066",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NE",
+"departed_at": "2026-05-24T02:20:00",
+"arrived_at": "2026-05-25T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000067-01",
+"shipment_id": "SHP-2026-000067",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-02-09T09:00:00",
+"arrived_at": "2026-02-12T11:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000067-02",
+"shipment_id": "SHP-2026-000067",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-02-12T11:37:30",
+"arrived_at": "2026-02-15T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000068-01",
+"shipment_id": "SHP-2026-000068",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-09-09T10:45:00",
+"arrived_at": "2026-09-10T19:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000068-02",
+"shipment_id": "SHP-2026-000068",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "HUB-ATL",
+"departed_at": "2026-09-10T19:45:00",
+"arrived_at": "2026-09-12T04:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000068-03",
+"shipment_id": "SHP-2026-000068",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-09-12T04:45:00",
+"arrived_at": "2026-09-13T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000069-01",
+"shipment_id": "SHP-2026-000069",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-23T09:45:00",
+"arrived_at": "2026-08-26T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000070-01",
+"shipment_id": "SHP-2026-000070",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-03-13T16:45:00",
+"arrived_at": "2026-03-16T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000071-01",
+"shipment_id": "SHP-2026-000071",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-03-01T09:45:00",
+"arrived_at": "2026-03-03T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000072-01",
+"shipment_id": "SHP-2026-000072",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-17T11:00:00",
+"arrived_at": "2026-05-19T01:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000072-02",
+"shipment_id": "SHP-2026-000072",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-MW",
+"departed_at": "2026-05-19T01:22:30",
+"arrived_at": "2026-05-20T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000073-01",
+"shipment_id": "SHP-2026-000073",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-02-17T14:00:00",
+"arrived_at": "2026-02-19T15:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000073-02",
+"shipment_id": "SHP-2026-000073",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-02-19T15:52:30",
+"arrived_at": "2026-02-21T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000074-01",
+"shipment_id": "SHP-2026-000074",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-07-16T09:15:00",
+"arrived_at": "2026-07-18T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000074-02",
+"shipment_id": "SHP-2026-000074",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NW",
+"departed_at": "2026-07-18T13:30:00",
+"arrived_at": "2026-07-20T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000075-01",
+"shipment_id": "SHP-2026-000075",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NE",
+"departed_at": "2026-07-08T14:45:00",
+"arrived_at": "2026-07-13T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000076-01",
+"shipment_id": "SHP-2026-000076",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-08-03T10:45:00",
+"arrived_at": "2026-08-04T21:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000076-02",
+"shipment_id": "SHP-2026-000076",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-08-04T21:25:00",
+"arrived_at": "2026-08-06T08:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000076-03",
+"shipment_id": "SHP-2026-000076",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NE",
+"departed_at": "2026-08-06T08:05:00",
+"arrived_at": "2026-08-07T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000077-01",
+"shipment_id": "SHP-2026-000077",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-KCI",
+"departed_at": "2026-03-12T13:45:00",
+"arrived_at": "2026-03-14T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000077-02",
+"shipment_id": "SHP-2026-000077",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-ATL",
+"departed_at": "2026-03-14T13:30:00",
+"arrived_at": "2026-03-16T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000077-03",
+"shipment_id": "SHP-2026-000077",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-03-16T13:15:00",
+"arrived_at": "2026-03-18T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000078-01",
+"shipment_id": "SHP-2026-000078",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SE",
+"departed_at": "2026-02-28T09:45:00",
+"arrived_at": "2026-03-01T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000079-01",
+"shipment_id": "SHP-2026-000079",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-02-04T08:15:00",
+"arrived_at": "2026-02-07T00:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000079-02",
+"shipment_id": "SHP-2026-000079",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-02-07T00:00:00",
+"arrived_at": "2026-02-09T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000080-01",
+"shipment_id": "SHP-2026-000080",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SW",
+"departed_at": "2026-02-04T08:00:00",
+"arrived_at": "2026-02-07T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000081-01",
+"shipment_id": "SHP-2026-000081",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-02-17T10:30:00",
+"arrived_at": "2026-02-20T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000082-01",
+"shipment_id": "SHP-2026-000082",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-06-14T10:30:00",
+"arrived_at": "2026-06-16T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000082-02",
+"shipment_id": "SHP-2026-000082",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-NE",
+"departed_at": "2026-06-16T00:45:00",
+"arrived_at": "2026-06-17T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000083-01",
+"shipment_id": "SHP-2026-000083",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-15T15:45:00",
+"arrived_at": "2026-07-19T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000084-01",
+"shipment_id": "SHP-2026-000084",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NE",
+"departed_at": "2026-08-13T09:30:00",
+"arrived_at": "2026-08-17T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000085-01",
+"shipment_id": "SHP-2026-000085",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-21T10:00:00",
+"arrived_at": "2026-08-23T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000086-01",
+"shipment_id": "SHP-2026-000086",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-07T14:00:00",
+"arrived_at": "2026-01-10T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000087-01",
+"shipment_id": "SHP-2026-000087",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-07-23T10:45:00",
+"arrived_at": "2026-07-28T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000088-01",
+"shipment_id": "SHP-2026-000088",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-08-07T14:00:00",
+"arrived_at": "2026-08-10T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000089-01",
+"shipment_id": "SHP-2026-000089",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-03-17T09:45:00",
+"arrived_at": "2026-03-20T00:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000089-02",
+"shipment_id": "SHP-2026-000089",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SE",
+"departed_at": "2026-03-20T00:37:30",
+"arrived_at": "2026-03-22T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000090-01",
+"shipment_id": "SHP-2026-000090",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SE",
+"departed_at": "2026-07-20T09:15:00",
+"arrived_at": "2026-07-23T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000091-01",
+"shipment_id": "SHP-2026-000091",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-09-20T14:15:00",
+"arrived_at": "2026-09-21T16:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000091-02",
+"shipment_id": "SHP-2026-000091",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SW",
+"departed_at": "2026-09-21T16:22:30",
+"arrived_at": "2026-09-22T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000092-01",
+"shipment_id": "SHP-2026-000092",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-04-16T08:30:00",
+"arrived_at": "2026-04-18T00:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000092-02",
+"shipment_id": "SHP-2026-000092",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-04-18T00:52:30",
+"arrived_at": "2026-04-19T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000093-01",
+"shipment_id": "SHP-2026-000093",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-26T14:30:00",
+"arrived_at": "2026-05-29T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000094-01",
+"shipment_id": "SHP-2026-000094",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-06-17T10:00:00",
+"arrived_at": "2026-06-18T00:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000094-02",
+"shipment_id": "SHP-2026-000094",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SE",
+"departed_at": "2026-06-18T00:30:00",
+"arrived_at": "2026-06-18T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000095-01",
+"shipment_id": "SHP-2026-000095",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-02-16T08:00:00",
+"arrived_at": "2026-02-17T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000096-01",
+"shipment_id": "SHP-2026-000096",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-04-13T15:45:00",
+"arrived_at": "2026-04-15T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000096-02",
+"shipment_id": "SHP-2026-000096",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-04-15T14:15:00",
+"arrived_at": "2026-04-17T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000097-01",
+"shipment_id": "SHP-2026-000097",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SE",
+"departed_at": "2026-09-14T12:30:00",
+"arrived_at": "2026-09-16T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000098-01",
+"shipment_id": "SHP-2026-000098",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-04-03T14:15:00",
+"arrived_at": "2026-04-06T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000099-01",
+"shipment_id": "SHP-2026-000099",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-01-09T10:30:00",
+"arrived_at": "2026-01-11T22:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000099-02",
+"shipment_id": "SHP-2026-000099",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-01-11T22:45:00",
+"arrived_at": "2026-01-14T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000100-01",
+"shipment_id": "SHP-2026-000100",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-02-24T09:15:00",
+"arrived_at": "2026-02-28T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000101-01",
+"shipment_id": "SHP-2026-000101",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NE",
+"departed_at": "2026-06-14T09:30:00",
+"arrived_at": "2026-06-17T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000102-01",
+"shipment_id": "SHP-2026-000102",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-MW",
+"departed_at": "2026-01-27T10:30:00",
+"arrived_at": "2026-01-30T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000103-01",
+"shipment_id": "SHP-2026-000103",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-02-09T15:00:00",
+"arrived_at": "2026-02-14T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000104-01",
+"shipment_id": "SHP-2026-000104",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-IND",
+"departed_at": "2026-08-13T15:15:00",
+"arrived_at": "2026-08-15T13:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000104-02",
+"shipment_id": "SHP-2026-000104",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SE",
+"departed_at": "2026-08-15T13:37:30",
+"arrived_at": "2026-08-17T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000105-01",
+"shipment_id": "SHP-2026-000105",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-03-31T13:45:00",
+"arrived_at": "2026-04-02T00:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000105-02",
+"shipment_id": "SHP-2026-000105",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SW",
+"departed_at": "2026-04-02T00:52:30",
+"arrived_at": "2026-04-03T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000106-01",
+"shipment_id": "SHP-2026-000106",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-07-29T09:45:00",
+"arrived_at": "2026-08-01T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000107-01",
+"shipment_id": "SHP-2026-000107",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-03-05T11:45:00",
+"arrived_at": "2026-03-09T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000108-01",
+"shipment_id": "SHP-2026-000108",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-26T10:15:00",
+"arrived_at": "2026-01-28T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000109-01",
+"shipment_id": "SHP-2026-000109",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-09T11:00:00",
+"arrived_at": "2026-03-10T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000110-01",
+"shipment_id": "SHP-2026-000110",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-05-05T08:45:00",
+"arrived_at": "2026-05-06T21:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000110-02",
+"shipment_id": "SHP-2026-000110",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-MW",
+"departed_at": "2026-05-06T21:07:30",
+"arrived_at": "2026-05-08T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000111-01",
+"shipment_id": "SHP-2026-000111",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-22T10:00:00",
+"arrived_at": "2026-04-23T11:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000111-02",
+"shipment_id": "SHP-2026-000111",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-04-23T11:52:30",
+"arrived_at": "2026-04-24T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000112-01",
+"shipment_id": "SHP-2026-000112",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-01T10:00:00",
+"arrived_at": "2026-09-01T23:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000112-02",
+"shipment_id": "SHP-2026-000112",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-09-01T23:30:00",
+"arrived_at": "2026-09-02T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000113-01",
+"shipment_id": "SHP-2026-000113",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-02-18T09:15:00",
+"arrived_at": "2026-02-19T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000114-01",
+"shipment_id": "SHP-2026-000114",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-08-05T15:30:00",
+"arrived_at": "2026-08-08T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000115-01",
+"shipment_id": "SHP-2026-000115",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-02-14T16:00:00",
+"arrived_at": "2026-02-16T05:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000115-02",
+"shipment_id": "SHP-2026-000115",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-02-16T05:15:00",
+"arrived_at": "2026-02-17T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000116-01",
+"shipment_id": "SHP-2026-000116",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-22T09:15:00",
+"arrived_at": "2026-06-23T00:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000116-02",
+"shipment_id": "SHP-2026-000116",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-06-23T00:52:30",
+"arrived_at": "2026-06-23T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000117-01",
+"shipment_id": "SHP-2026-000117",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-09-18T14:30:00",
+"arrived_at": "2026-09-20T02:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000117-02",
+"shipment_id": "SHP-2026-000117",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SE",
+"departed_at": "2026-09-20T02:45:00",
+"arrived_at": "2026-09-21T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000118-01",
+"shipment_id": "SHP-2026-000118",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-07-31T14:00:00",
+"arrived_at": "2026-08-03T03:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000118-02",
+"shipment_id": "SHP-2026-000118",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NW",
+"departed_at": "2026-08-03T03:30:00",
+"arrived_at": "2026-08-05T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000119-01",
+"shipment_id": "SHP-2026-000119",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-26T09:15:00",
+"arrived_at": "2026-06-29T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000120-01",
+"shipment_id": "SHP-2026-000120",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-02-23T15:45:00",
+"arrived_at": "2026-02-25T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000121-01",
+"shipment_id": "SHP-2026-000121",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-07-16T11:45:00",
+"arrived_at": "2026-07-20T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000122-01",
+"shipment_id": "SHP-2026-000122",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-03-19T12:45:00",
+"arrived_at": "2026-03-20T21:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000122-02",
+"shipment_id": "SHP-2026-000122",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-ATL",
+"departed_at": "2026-03-20T21:20:00",
+"arrived_at": "2026-03-22T05:55:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000122-03",
+"shipment_id": "SHP-2026-000122",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-03-22T05:55:00",
+"arrived_at": "2026-03-23T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000123-01",
+"shipment_id": "SHP-2026-000123",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-03-21T12:30:00",
+"arrived_at": "2026-03-23T00:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000123-02",
+"shipment_id": "SHP-2026-000123",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-03-23T00:00:00",
+"arrived_at": "2026-03-24T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000124-01",
+"shipment_id": "SHP-2026-000124",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-01-28T12:30:00",
+"arrived_at": "2026-01-30T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000124-02",
+"shipment_id": "SHP-2026-000124",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-01-30T14:30:00",
+"arrived_at": "2026-02-01T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000125-01",
+"shipment_id": "SHP-2026-000125",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-07-06T13:00:00",
+"arrived_at": "2026-07-07T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000126-01",
+"shipment_id": "SHP-2026-000126",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-01-18T08:15:00",
+"arrived_at": "2026-01-20T00:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000126-02",
+"shipment_id": "SHP-2026-000126",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-01-20T00:07:30",
+"arrived_at": "2026-01-21T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000127-01",
+"shipment_id": "SHP-2026-000127",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-07-23T13:30:00",
+"arrived_at": "2026-07-25T03:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000127-02",
+"shipment_id": "SHP-2026-000127",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-07-25T03:00:00",
+"arrived_at": "2026-07-26T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000128-01",
+"shipment_id": "SHP-2026-000128",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-01-11T08:00:00",
+"arrived_at": "2026-01-15T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000129-01",
+"shipment_id": "SHP-2026-000129",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-06-30T12:00:00",
+"arrived_at": "2026-07-01T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000130-01",
+"shipment_id": "SHP-2026-000130",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-01-13T12:00:00",
+"arrived_at": "2026-01-16T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000131-01",
+"shipment_id": "SHP-2026-000131",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-04-18T16:00:00",
+"arrived_at": "2026-04-20T15:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000131-02",
+"shipment_id": "SHP-2026-000131",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-04-20T15:37:30",
+"arrived_at": "2026-04-22T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000132-01",
+"shipment_id": "SHP-2026-000132",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-02-23T11:45:00",
+"arrived_at": "2026-02-25T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000133-01",
+"shipment_id": "SHP-2026-000133",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-03-30T16:00:00",
+"arrived_at": "2026-04-03T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000134-01",
+"shipment_id": "SHP-2026-000134",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-20T11:00:00",
+"arrived_at": "2026-09-22T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000134-02",
+"shipment_id": "SHP-2026-000134",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-09-22T12:00:00",
+"arrived_at": "2026-09-24T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000135-01",
+"shipment_id": "SHP-2026-000135",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-03-28T14:45:00",
+"arrived_at": "2026-03-31T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000136-01",
+"shipment_id": "SHP-2026-000136",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-21T14:00:00",
+"arrived_at": "2026-09-22T21:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000136-02",
+"shipment_id": "SHP-2026-000136",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-IND",
+"departed_at": "2026-09-22T21:45:00",
+"arrived_at": "2026-09-24T05:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000136-03",
+"shipment_id": "SHP-2026-000136",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-09-24T05:30:00",
+"arrived_at": "2026-09-25T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000137-01",
+"shipment_id": "SHP-2026-000137",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-18T08:00:00",
+"arrived_at": "2026-09-20T11:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000137-02",
+"shipment_id": "SHP-2026-000137",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-09-20T11:07:30",
+"arrived_at": "2026-09-22T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000138-01",
+"shipment_id": "SHP-2026-000138",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-07-16T13:30:00",
+"arrived_at": "2026-07-20T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000139-01",
+"shipment_id": "SHP-2026-000139",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-05T08:45:00",
+"arrived_at": "2026-02-06T22:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000139-02",
+"shipment_id": "SHP-2026-000139",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-W",
+"departed_at": "2026-02-06T22:22:30",
+"arrived_at": "2026-02-08T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000140-01",
+"shipment_id": "SHP-2026-000140",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-07-26T11:15:00",
+"arrived_at": "2026-07-28T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000140-02",
+"shipment_id": "SHP-2026-000140",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-07-28T13:00:00",
+"arrived_at": "2026-07-30T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000141-01",
+"shipment_id": "SHP-2026-000141",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-03-29T15:00:00",
+"arrived_at": "2026-03-31T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000142-01",
+"shipment_id": "SHP-2026-000142",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-16T09:45:00",
+"arrived_at": "2026-01-17T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000143-01",
+"shipment_id": "SHP-2026-000143",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-11T14:15:00",
+"arrived_at": "2026-01-14T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000144-01",
+"shipment_id": "SHP-2026-000144",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-01-14T11:00:00",
+"arrived_at": "2026-01-16T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000145-01",
+"shipment_id": "SHP-2026-000145",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-02T10:15:00",
+"arrived_at": "2026-01-03T23:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000145-02",
+"shipment_id": "SHP-2026-000145",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-01-03T23:22:30",
+"arrived_at": "2026-01-05T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000146-01",
+"shipment_id": "SHP-2026-000146",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SE",
+"departed_at": "2026-04-10T13:15:00",
+"arrived_at": "2026-04-13T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000147-01",
+"shipment_id": "SHP-2026-000147",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-09-05T12:45:00",
+"arrived_at": "2026-09-09T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000148-01",
+"shipment_id": "SHP-2026-000148",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DFW",
+"departed_at": "2026-08-23T12:00:00",
+"arrived_at": "2026-08-24T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000148-02",
+"shipment_id": "SHP-2026-000148",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-08-24T13:15:00",
+"arrived_at": "2026-08-25T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000149-01",
+"shipment_id": "SHP-2026-000149",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-14T08:00:00",
+"arrived_at": "2026-06-16T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000149-02",
+"shipment_id": "SHP-2026-000149",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-06-16T09:45:00",
+"arrived_at": "2026-06-18T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000150-01",
+"shipment_id": "SHP-2026-000150",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-28T12:45:00",
+"arrived_at": "2026-06-30T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000150-02",
+"shipment_id": "SHP-2026-000150",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SW",
+"departed_at": "2026-06-30T12:30:00",
+"arrived_at": "2026-07-02T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000151-01",
+"shipment_id": "SHP-2026-000151",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-04-26T08:15:00",
+"arrived_at": "2026-04-28T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000151-02",
+"shipment_id": "SHP-2026-000151",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-04-28T12:30:00",
+"arrived_at": "2026-04-30T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000152-01",
+"shipment_id": "SHP-2026-000152",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-30T08:30:00",
+"arrived_at": "2026-04-02T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000153-01",
+"shipment_id": "SHP-2026-000153",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-08T15:15:00",
+"arrived_at": "2026-01-10T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000154-01",
+"shipment_id": "SHP-2026-000154",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-02-22T16:15:00",
+"arrived_at": "2026-02-24T04:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000154-02",
+"shipment_id": "SHP-2026-000154",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-02-24T04:45:00",
+"arrived_at": "2026-02-25T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000155-01",
+"shipment_id": "SHP-2026-000155",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-03T08:00:00",
+"arrived_at": "2026-05-05T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000156-01",
+"shipment_id": "SHP-2026-000156",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-01-16T15:00:00",
+"arrived_at": "2026-01-20T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000157-01",
+"shipment_id": "SHP-2026-000157",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-27T10:45:00",
+"arrived_at": "2026-01-28T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000157-02",
+"shipment_id": "SHP-2026-000157",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-01-28T23:52:30",
+"arrived_at": "2026-01-30T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000158-01",
+"shipment_id": "SHP-2026-000158",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-ORD",
+"departed_at": "2026-06-05T13:30:00",
+"arrived_at": "2026-06-08T01:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000158-02",
+"shipment_id": "SHP-2026-000158",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SW",
+"departed_at": "2026-06-08T01:52:30",
+"arrived_at": "2026-06-10T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000159-01",
+"shipment_id": "SHP-2026-000159",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-04-08T09:45:00",
+"arrived_at": "2026-04-10T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000160-01",
+"shipment_id": "SHP-2026-000160",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-09-20T09:15:00",
+"arrived_at": "2026-09-22T21:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000160-02",
+"shipment_id": "SHP-2026-000160",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-NW",
+"departed_at": "2026-09-22T21:22:30",
+"arrived_at": "2026-09-25T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000161-01",
+"shipment_id": "SHP-2026-000161",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-03-01T15:15:00",
+"arrived_at": "2026-03-03T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000162-01",
+"shipment_id": "SHP-2026-000162",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-07-08T13:00:00",
+"arrived_at": "2026-07-11T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000163-01",
+"shipment_id": "SHP-2026-000163",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-04-16T13:15:00",
+"arrived_at": "2026-04-18T02:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000163-02",
+"shipment_id": "SHP-2026-000163",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-04-18T02:30:00",
+"arrived_at": "2026-04-19T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000164-01",
+"shipment_id": "SHP-2026-000164",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-03-30T15:00:00",
+"arrived_at": "2026-04-01T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000165-01",
+"shipment_id": "SHP-2026-000165",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-01-25T09:15:00",
+"arrived_at": "2026-01-26T21:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000165-02",
+"shipment_id": "SHP-2026-000165",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-01-26T21:37:30",
+"arrived_at": "2026-01-28T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000166-01",
+"shipment_id": "SHP-2026-000166",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-06-29T10:15:00",
+"arrived_at": "2026-07-02T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000166-02",
+"shipment_id": "SHP-2026-000166",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-07-02T10:45:00",
+"arrived_at": "2026-07-05T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000167-01",
+"shipment_id": "SHP-2026-000167",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-03-21T13:30:00",
+"arrived_at": "2026-03-23T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000168-01",
+"shipment_id": "SHP-2026-000168",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-29T14:15:00",
+"arrived_at": "2026-06-30T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000168-02",
+"shipment_id": "SHP-2026-000168",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-06-30T13:15:00",
+"arrived_at": "2026-07-01T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000169-01",
+"shipment_id": "SHP-2026-000169",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-ORD",
+"departed_at": "2026-08-15T15:30:00",
+"arrived_at": "2026-08-16T21:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000169-02",
+"shipment_id": "SHP-2026-000169",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-MEM",
+"departed_at": "2026-08-16T21:30:00",
+"arrived_at": "2026-08-18T03:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000169-03",
+"shipment_id": "SHP-2026-000169",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-08-18T03:30:00",
+"arrived_at": "2026-08-19T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000170-01",
+"shipment_id": "SHP-2026-000170",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-07T10:00:00",
+"arrived_at": "2026-03-11T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000171-01",
+"shipment_id": "SHP-2026-000171",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-08-22T13:45:00",
+"arrived_at": "2026-08-25T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000171-02",
+"shipment_id": "SHP-2026-000171",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-MW",
+"departed_at": "2026-08-25T00:15:00",
+"arrived_at": "2026-08-27T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000172-01",
+"shipment_id": "SHP-2026-000172",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-02-12T10:30:00",
+"arrived_at": "2026-02-15T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000173-01",
+"shipment_id": "SHP-2026-000173",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-04-23T09:30:00",
+"arrived_at": "2026-04-25T01:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000173-02",
+"shipment_id": "SHP-2026-000173",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-04-25T01:07:30",
+"arrived_at": "2026-04-26T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000174-01",
+"shipment_id": "SHP-2026-000174",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-06T12:15:00",
+"arrived_at": "2026-06-08T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000175-01",
+"shipment_id": "SHP-2026-000175",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-07T15:00:00",
+"arrived_at": "2026-05-09T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000175-02",
+"shipment_id": "SHP-2026-000175",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-05-09T15:45:00",
+"arrived_at": "2026-05-11T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000176-01",
+"shipment_id": "SHP-2026-000176",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-12T11:45:00",
+"arrived_at": "2026-05-14T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000177-01",
+"shipment_id": "SHP-2026-000177",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-04T08:45:00",
+"arrived_at": "2026-06-05T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000178-01",
+"shipment_id": "SHP-2026-000178",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-22T15:45:00",
+"arrived_at": "2026-03-25T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000179-01",
+"shipment_id": "SHP-2026-000179",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-03-22T13:15:00",
+"arrived_at": "2026-03-24T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000180-01",
+"shipment_id": "SHP-2026-000180",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-CVG",
+"departed_at": "2026-04-23T16:15:00",
+"arrived_at": "2026-04-25T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000180-02",
+"shipment_id": "SHP-2026-000180",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-04-25T14:45:00",
+"arrived_at": "2026-04-27T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000181-01",
+"shipment_id": "SHP-2026-000181",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-07-30T11:00:00",
+"arrived_at": "2026-08-02T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000182-01",
+"shipment_id": "SHP-2026-000182",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SW",
+"departed_at": "2026-01-13T09:45:00",
+"arrived_at": "2026-01-18T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000183-01",
+"shipment_id": "SHP-2026-000183",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-01-10T13:15:00",
+"arrived_at": "2026-01-14T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000184-01",
+"shipment_id": "SHP-2026-000184",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-09T11:00:00",
+"arrived_at": "2026-02-10T19:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000184-02",
+"shipment_id": "SHP-2026-000184",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-DFW",
+"departed_at": "2026-02-10T19:20:00",
+"arrived_at": "2026-02-12T03:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000184-03",
+"shipment_id": "SHP-2026-000184",
+"leg_seq": 3,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-02-12T03:40:00",
+"arrived_at": "2026-02-13T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000185-01",
+"shipment_id": "SHP-2026-000185",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-02-27T08:15:00",
+"arrived_at": "2026-03-02T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000186-01",
+"shipment_id": "SHP-2026-000186",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-03T11:15:00",
+"arrived_at": "2026-01-06T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000187-01",
+"shipment_id": "SHP-2026-000187",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-05-30T13:45:00",
+"arrived_at": "2026-06-01T03:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000187-02",
+"shipment_id": "SHP-2026-000187",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-06-01T03:45:00",
+"arrived_at": "2026-06-02T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000188-01",
+"shipment_id": "SHP-2026-000188",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-03T14:45:00",
+"arrived_at": "2026-06-05T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000189-01",
+"shipment_id": "SHP-2026-000189",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-09-28T14:00:00",
+"arrived_at": "2026-09-29T23:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000189-02",
+"shipment_id": "SHP-2026-000189",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-MEM",
+"departed_at": "2026-09-29T23:25:00",
+"arrived_at": "2026-10-01T08:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000189-03",
+"shipment_id": "SHP-2026-000189",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-10-01T08:50:00",
+"arrived_at": "2026-10-02T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000190-01",
+"shipment_id": "SHP-2026-000190",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-01-22T09:45:00",
+"arrived_at": "2026-01-26T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000191-01",
+"shipment_id": "SHP-2026-000191",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-07-08T15:30:00",
+"arrived_at": "2026-07-09T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000192-01",
+"shipment_id": "SHP-2026-000192",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-06-24T15:15:00",
+"arrived_at": "2026-06-28T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000193-01",
+"shipment_id": "SHP-2026-000193",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-14T09:45:00",
+"arrived_at": "2026-07-15T00:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000193-02",
+"shipment_id": "SHP-2026-000193",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-07-15T00:07:30",
+"arrived_at": "2026-07-15T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000194-01",
+"shipment_id": "SHP-2026-000194",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-02-14T12:15:00",
+"arrived_at": "2026-02-18T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000195-01",
+"shipment_id": "SHP-2026-000195",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-02-20T15:00:00",
+"arrived_at": "2026-02-22T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000196-01",
+"shipment_id": "SHP-2026-000196",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-05-19T16:00:00",
+"arrived_at": "2026-05-21T00:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000196-02",
+"shipment_id": "SHP-2026-000196",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-MW",
+"departed_at": "2026-05-21T00:52:30",
+"arrived_at": "2026-05-22T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000197-01",
+"shipment_id": "SHP-2026-000197",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-04-01T15:15:00",
+"arrived_at": "2026-04-03T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000198-01",
+"shipment_id": "SHP-2026-000198",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-11T14:15:00",
+"arrived_at": "2026-06-13T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000198-02",
+"shipment_id": "SHP-2026-000198",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-06-13T16:30:00",
+"arrived_at": "2026-06-15T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000199-01",
+"shipment_id": "SHP-2026-000199",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-08-22T09:15:00",
+"arrived_at": "2026-08-24T10:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000199-02",
+"shipment_id": "SHP-2026-000199",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-08-24T10:52:30",
+"arrived_at": "2026-08-26T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000200-01",
+"shipment_id": "SHP-2026-000200",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-13T09:00:00",
+"arrived_at": "2026-09-15T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000200-02",
+"shipment_id": "SHP-2026-000200",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SW",
+"departed_at": "2026-09-15T00:15:00",
+"arrived_at": "2026-09-16T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000201-01",
+"shipment_id": "SHP-2026-000201",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-08-21T08:45:00",
+"arrived_at": "2026-08-22T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000201-02",
+"shipment_id": "SHP-2026-000201",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SW",
+"departed_at": "2026-08-22T23:52:30",
+"arrived_at": "2026-08-24T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000202-01",
+"shipment_id": "SHP-2026-000202",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-07-22T14:00:00",
+"arrived_at": "2026-07-24T11:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000202-02",
+"shipment_id": "SHP-2026-000202",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-07-24T11:37:30",
+"arrived_at": "2026-07-26T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000203-01",
+"shipment_id": "SHP-2026-000203",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-30T12:15:00",
+"arrived_at": "2026-05-31T01:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000203-02",
+"shipment_id": "SHP-2026-000203",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-05-31T01:00:00",
+"arrived_at": "2026-05-31T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000204-01",
+"shipment_id": "SHP-2026-000204",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-03-13T11:30:00",
+"arrived_at": "2026-03-18T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000205-01",
+"shipment_id": "SHP-2026-000205",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-07-19T15:45:00",
+"arrived_at": "2026-07-22T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000206-01",
+"shipment_id": "SHP-2026-000206",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-07-06T09:30:00",
+"arrived_at": "2026-07-08T01:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000206-02",
+"shipment_id": "SHP-2026-000206",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-07-08T01:15:00",
+"arrived_at": "2026-07-09T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000207-01",
+"shipment_id": "SHP-2026-000207",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-03-24T15:15:00",
+"arrived_at": "2026-03-27T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000208-01",
+"shipment_id": "SHP-2026-000208",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-08-07T16:15:00",
+"arrived_at": "2026-08-09T01:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000208-02",
+"shipment_id": "SHP-2026-000208",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NW",
+"departed_at": "2026-08-09T01:45:00",
+"arrived_at": "2026-08-10T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000209-01",
+"shipment_id": "SHP-2026-000209",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-06-07T09:45:00",
+"arrived_at": "2026-06-12T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000210-01",
+"shipment_id": "SHP-2026-000210",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-06T11:45:00",
+"arrived_at": "2026-01-07T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000211-01",
+"shipment_id": "SHP-2026-000211",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-07-31T09:00:00",
+"arrived_at": "2026-08-01T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000212-01",
+"shipment_id": "SHP-2026-000212",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-07-17T14:00:00",
+"arrived_at": "2026-07-20T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000213-01",
+"shipment_id": "SHP-2026-000213",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-07-26T12:45:00",
+"arrived_at": "2026-07-27T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000214-01",
+"shipment_id": "SHP-2026-000214",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-31T13:00:00",
+"arrived_at": "2026-06-03T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000215-01",
+"shipment_id": "SHP-2026-000215",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-03-19T16:00:00",
+"arrived_at": "2026-03-20T22:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000215-02",
+"shipment_id": "SHP-2026-000215",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "HUB-MEM",
+"departed_at": "2026-03-20T22:25:00",
+"arrived_at": "2026-03-22T04:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000215-03",
+"shipment_id": "SHP-2026-000215",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-W",
+"departed_at": "2026-03-22T04:50:00",
+"arrived_at": "2026-03-23T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000216-01",
+"shipment_id": "SHP-2026-000216",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-19T11:00:00",
+"arrived_at": "2026-01-21T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000216-02",
+"shipment_id": "SHP-2026-000216",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-01-21T11:15:00",
+"arrived_at": "2026-01-23T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000217-01",
+"shipment_id": "SHP-2026-000217",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-09T14:00:00",
+"arrived_at": "2026-09-11T02:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000217-02",
+"shipment_id": "SHP-2026-000217",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-09-11T02:45:00",
+"arrived_at": "2026-09-12T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000218-01",
+"shipment_id": "SHP-2026-000218",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-05T12:15:00",
+"arrived_at": "2026-06-06T23:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000218-02",
+"shipment_id": "SHP-2026-000218",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-06-06T23:37:30",
+"arrived_at": "2026-06-08T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000219-01",
+"shipment_id": "SHP-2026-000219",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-09-19T10:45:00",
+"arrived_at": "2026-09-24T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000220-01",
+"shipment_id": "SHP-2026-000220",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-08-15T09:45:00",
+"arrived_at": "2026-08-17T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000221-01",
+"shipment_id": "SHP-2026-000221",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NE",
+"departed_at": "2026-05-28T14:45:00",
+"arrived_at": "2026-06-03T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000222-01",
+"shipment_id": "SHP-2026-000222",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-03-25T14:30:00",
+"arrived_at": "2026-03-27T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000223-01",
+"shipment_id": "SHP-2026-000223",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-08-15T13:30:00",
+"arrived_at": "2026-08-18T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000224-01",
+"shipment_id": "SHP-2026-000224",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-01-17T12:15:00",
+"arrived_at": "2026-01-19T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000224-02",
+"shipment_id": "SHP-2026-000224",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SW",
+"departed_at": "2026-01-19T12:45:00",
+"arrived_at": "2026-01-21T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000225-01",
+"shipment_id": "SHP-2026-000225",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-09-19T11:30:00",
+"arrived_at": "2026-09-20T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000225-02",
+"shipment_id": "SHP-2026-000225",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-09-20T14:45:00",
+"arrived_at": "2026-09-21T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000226-01",
+"shipment_id": "SHP-2026-000226",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-09-03T09:15:00",
+"arrived_at": "2026-09-07T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000227-01",
+"shipment_id": "SHP-2026-000227",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-08-27T11:00:00",
+"arrived_at": "2026-08-30T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000228-01",
+"shipment_id": "SHP-2026-000228",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-09-17T10:30:00",
+"arrived_at": "2026-09-21T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000229-01",
+"shipment_id": "SHP-2026-000229",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-01-19T15:00:00",
+"arrived_at": "2026-01-21T14:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000229-02",
+"shipment_id": "SHP-2026-000229",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-01-21T14:07:30",
+"arrived_at": "2026-01-23T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000230-01",
+"shipment_id": "SHP-2026-000230",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NE",
+"departed_at": "2026-01-25T12:15:00",
+"arrived_at": "2026-01-29T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000231-01",
+"shipment_id": "SHP-2026-000231",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-09T09:30:00",
+"arrived_at": "2026-04-11T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000231-02",
+"shipment_id": "SHP-2026-000231",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SW",
+"departed_at": "2026-04-11T00:15:00",
+"arrived_at": "2026-04-12T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000232-01",
+"shipment_id": "SHP-2026-000232",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-04-03T09:15:00",
+"arrived_at": "2026-04-06T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000233-01",
+"shipment_id": "SHP-2026-000233",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-09-05T12:45:00",
+"arrived_at": "2026-09-08T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000234-01",
+"shipment_id": "SHP-2026-000234",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-04-22T12:45:00",
+"arrived_at": "2026-04-25T15:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000234-02",
+"shipment_id": "SHP-2026-000234",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-04-25T15:07:30",
+"arrived_at": "2026-04-28T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000235-01",
+"shipment_id": "SHP-2026-000235",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-09T12:00:00",
+"arrived_at": "2026-04-10T22:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000235-02",
+"shipment_id": "SHP-2026-000235",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-10T22:15:00",
+"arrived_at": "2026-04-12T08:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000235-03",
+"shipment_id": "SHP-2026-000235",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-04-12T08:30:00",
+"arrived_at": "2026-04-13T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000236-01",
+"shipment_id": "SHP-2026-000236",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-01-04T15:45:00",
+"arrived_at": "2026-01-06T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000236-02",
+"shipment_id": "SHP-2026-000236",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-01-06T14:45:00",
+"arrived_at": "2026-01-08T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000237-01",
+"shipment_id": "SHP-2026-000237",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-04-02T12:00:00",
+"arrived_at": "2026-04-05T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000238-01",
+"shipment_id": "SHP-2026-000238",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-05-22T08:00:00",
+"arrived_at": "2026-05-25T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000239-01",
+"shipment_id": "SHP-2026-000239",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-02-28T12:00:00",
+"arrived_at": "2026-03-02T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000240-01",
+"shipment_id": "SHP-2026-000240",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-07-09T08:15:00",
+"arrived_at": "2026-07-12T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000241-01",
+"shipment_id": "SHP-2026-000241",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-02-20T12:30:00",
+"arrived_at": "2026-02-22T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000242-01",
+"shipment_id": "SHP-2026-000242",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-02-10T11:30:00",
+"arrived_at": "2026-02-12T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000243-01",
+"shipment_id": "SHP-2026-000243",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-01-08T11:45:00",
+"arrived_at": "2026-01-10T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000243-02",
+"shipment_id": "SHP-2026-000243",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SW",
+"departed_at": "2026-01-10T12:15:00",
+"arrived_at": "2026-01-12T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000244-01",
+"shipment_id": "SHP-2026-000244",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-30T16:30:00",
+"arrived_at": "2026-02-01T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000245-01",
+"shipment_id": "SHP-2026-000245",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-24T14:45:00",
+"arrived_at": "2026-01-26T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000246-01",
+"shipment_id": "SHP-2026-000246",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-02-16T10:00:00",
+"arrived_at": "2026-02-18T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000247-01",
+"shipment_id": "SHP-2026-000247",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-11T16:30:00",
+"arrived_at": "2026-06-12T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000247-02",
+"shipment_id": "SHP-2026-000247",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-06-12T13:30:00",
+"arrived_at": "2026-06-13T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000248-01",
+"shipment_id": "SHP-2026-000248",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-07-11T09:30:00",
+"arrived_at": "2026-07-15T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000249-01",
+"shipment_id": "SHP-2026-000249",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-07T10:15:00",
+"arrived_at": "2026-01-09T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000250-01",
+"shipment_id": "SHP-2026-000250",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-08-27T13:15:00",
+"arrived_at": "2026-08-29T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000250-02",
+"shipment_id": "SHP-2026-000250",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-08-29T14:15:00",
+"arrived_at": "2026-08-31T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000251-01",
+"shipment_id": "SHP-2026-000251",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-02-05T14:15:00",
+"arrived_at": "2026-02-08T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000252-01",
+"shipment_id": "SHP-2026-000252",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-02-13T12:15:00",
+"arrived_at": "2026-02-15T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000253-01",
+"shipment_id": "SHP-2026-000253",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-02-08T11:00:00",
+"arrived_at": "2026-02-09T10:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000253-02",
+"shipment_id": "SHP-2026-000253",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SW",
+"departed_at": "2026-02-09T10:07:30",
+"arrived_at": "2026-02-10T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000254-01",
+"shipment_id": "SHP-2026-000254",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-08-14T13:45:00",
+"arrived_at": "2026-08-16T01:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000254-02",
+"shipment_id": "SHP-2026-000254",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-W",
+"departed_at": "2026-08-16T01:07:30",
+"arrived_at": "2026-08-17T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000255-01",
+"shipment_id": "SHP-2026-000255",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-03T09:00:00",
+"arrived_at": "2026-06-05T12:10:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000255-02",
+"shipment_id": "SHP-2026-000255",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-05T12:10:00",
+"arrived_at": "2026-06-07T15:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000255-03",
+"shipment_id": "SHP-2026-000255",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-06-07T15:20:00",
+"arrived_at": "2026-06-09T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000256-01",
+"shipment_id": "SHP-2026-000256",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-31T13:15:00",
+"arrived_at": "2026-04-05T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000257-01",
+"shipment_id": "SHP-2026-000257",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-03-11T09:30:00",
+"arrived_at": "2026-03-12T20:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000257-02",
+"shipment_id": "SHP-2026-000257",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "HUB-CVG",
+"departed_at": "2026-03-12T20:25:00",
+"arrived_at": "2026-03-14T07:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000257-03",
+"shipment_id": "SHP-2026-000257",
+"leg_seq": 3,
+"from_node": "HUB-CVG",
+"to_node": "DST-NW",
+"departed_at": "2026-03-14T07:20:00",
+"arrived_at": "2026-03-15T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000258-01",
+"shipment_id": "SHP-2026-000258",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-05-31T14:30:00",
+"arrived_at": "2026-06-02T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000259-01",
+"shipment_id": "SHP-2026-000259",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-08-03T09:30:00",
+"arrived_at": "2026-08-05T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000260-01",
+"shipment_id": "SHP-2026-000260",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-07-31T10:45:00",
+"arrived_at": "2026-08-04T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000261-01",
+"shipment_id": "SHP-2026-000261",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-01-16T13:00:00",
+"arrived_at": "2026-01-20T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000262-01",
+"shipment_id": "SHP-2026-000262",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-04T08:15:00",
+"arrived_at": "2026-09-05T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000262-02",
+"shipment_id": "SHP-2026-000262",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-05T18:15:00",
+"arrived_at": "2026-09-07T04:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000262-03",
+"shipment_id": "SHP-2026-000262",
+"leg_seq": 3,
+"from_node": "HUB-CVG",
+"to_node": "DST-SE",
+"departed_at": "2026-09-07T04:15:00",
+"arrived_at": "2026-09-08T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000263-01",
+"shipment_id": "SHP-2026-000263",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-08-22T16:30:00",
+"arrived_at": "2026-08-23T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000263-02",
+"shipment_id": "SHP-2026-000263",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-08-23T17:15:00",
+"arrived_at": "2026-08-24T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000264-01",
+"shipment_id": "SHP-2026-000264",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-12T16:30:00",
+"arrived_at": "2026-06-14T03:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000264-02",
+"shipment_id": "SHP-2026-000264",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SW",
+"departed_at": "2026-06-14T03:22:30",
+"arrived_at": "2026-06-15T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000265-01",
+"shipment_id": "SHP-2026-000265",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-20T12:30:00",
+"arrived_at": "2026-01-22T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000265-02",
+"shipment_id": "SHP-2026-000265",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-W",
+"departed_at": "2026-01-22T14:15:00",
+"arrived_at": "2026-01-24T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000266-01",
+"shipment_id": "SHP-2026-000266",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-09-18T15:45:00",
+"arrived_at": "2026-09-20T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000267-01",
+"shipment_id": "SHP-2026-000267",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-25T08:00:00",
+"arrived_at": "2026-05-27T00:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000267-02",
+"shipment_id": "SHP-2026-000267",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-05-27T00:37:30",
+"arrived_at": "2026-05-28T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000268-01",
+"shipment_id": "SHP-2026-000268",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-08-06T08:30:00",
+"arrived_at": "2026-08-06T21:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000268-02",
+"shipment_id": "SHP-2026-000268",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-MW",
+"departed_at": "2026-08-06T21:22:30",
+"arrived_at": "2026-08-07T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000269-01",
+"shipment_id": "SHP-2026-000269",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-19T12:30:00",
+"arrived_at": "2026-06-21T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000269-02",
+"shipment_id": "SHP-2026-000269",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-21T14:30:00",
+"arrived_at": "2026-06-23T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000269-03",
+"shipment_id": "SHP-2026-000269",
+"leg_seq": 3,
+"from_node": "HUB-MEM",
+"to_node": "DST-W",
+"departed_at": "2026-06-23T16:30:00",
+"arrived_at": "2026-06-25T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000270-01",
+"shipment_id": "SHP-2026-000270",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-02-08T12:00:00",
+"arrived_at": "2026-02-10T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000270-02",
+"shipment_id": "SHP-2026-000270",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-02-10T10:45:00",
+"arrived_at": "2026-02-12T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000271-01",
+"shipment_id": "SHP-2026-000271",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-21T14:30:00",
+"arrived_at": "2026-07-23T01:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000271-02",
+"shipment_id": "SHP-2026-000271",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SE",
+"departed_at": "2026-07-23T01:37:30",
+"arrived_at": "2026-07-24T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000272-01",
+"shipment_id": "SHP-2026-000272",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-08-29T16:15:00",
+"arrived_at": "2026-08-31T00:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000272-02",
+"shipment_id": "SHP-2026-000272",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-MW",
+"departed_at": "2026-08-31T00:52:30",
+"arrived_at": "2026-09-01T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000273-01",
+"shipment_id": "SHP-2026-000273",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-01-22T08:30:00",
+"arrived_at": "2026-01-26T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000274-01",
+"shipment_id": "SHP-2026-000274",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-05-12T15:00:00",
+"arrived_at": "2026-05-13T05:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000274-02",
+"shipment_id": "SHP-2026-000274",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-13T05:45:00",
+"arrived_at": "2026-05-13T20:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000274-03",
+"shipment_id": "SHP-2026-000274",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-05-13T20:30:00",
+"arrived_at": "2026-05-14T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000275-01",
+"shipment_id": "SHP-2026-000275",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-29T13:45:00",
+"arrived_at": "2026-05-31T11:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000276-01",
+"shipment_id": "SHP-2026-000276",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-18T14:45:00",
+"arrived_at": "2026-01-20T03:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000276-02",
+"shipment_id": "SHP-2026-000276",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SW",
+"departed_at": "2026-01-20T03:30:00",
+"arrived_at": "2026-01-21T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000277-01",
+"shipment_id": "SHP-2026-000277",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-04-26T11:00:00",
+"arrived_at": "2026-04-27T21:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000277-02",
+"shipment_id": "SHP-2026-000277",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-27T21:30:00",
+"arrived_at": "2026-04-29T08:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000277-03",
+"shipment_id": "SHP-2026-000277",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-SE",
+"departed_at": "2026-04-29T08:00:00",
+"arrived_at": "2026-04-30T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000278-01",
+"shipment_id": "SHP-2026-000278",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-17T16:15:00",
+"arrived_at": "2026-09-19T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000278-02",
+"shipment_id": "SHP-2026-000278",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SE",
+"departed_at": "2026-09-19T17:00:00",
+"arrived_at": "2026-09-21T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000279-01",
+"shipment_id": "SHP-2026-000279",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-04-05T15:15:00",
+"arrived_at": "2026-04-08T01:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000279-02",
+"shipment_id": "SHP-2026-000279",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-04-08T01:22:30",
+"arrived_at": "2026-04-10T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000280-01",
+"shipment_id": "SHP-2026-000280",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-02-28T11:30:00",
+"arrived_at": "2026-03-05T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000281-01",
+"shipment_id": "SHP-2026-000281",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-03-06T11:30:00",
+"arrived_at": "2026-03-10T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000282-01",
+"shipment_id": "SHP-2026-000282",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-01-07T10:00:00",
+"arrived_at": "2026-01-10T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000283-01",
+"shipment_id": "SHP-2026-000283",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-18T09:15:00",
+"arrived_at": "2026-04-19T21:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000283-02",
+"shipment_id": "SHP-2026-000283",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-MW",
+"departed_at": "2026-04-19T21:30:00",
+"arrived_at": "2026-04-21T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000284-01",
+"shipment_id": "SHP-2026-000284",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-13T16:00:00",
+"arrived_at": "2026-05-15T16:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000284-02",
+"shipment_id": "SHP-2026-000284",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-15T16:40:00",
+"arrived_at": "2026-05-17T17:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000284-03",
+"shipment_id": "SHP-2026-000284",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-05-17T17:20:00",
+"arrived_at": "2026-05-19T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000285-01",
+"shipment_id": "SHP-2026-000285",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-CVG",
+"departed_at": "2026-03-08T08:00:00",
+"arrived_at": "2026-03-08T20:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000285-02",
+"shipment_id": "SHP-2026-000285",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NW",
+"departed_at": "2026-03-08T20:37:30",
+"arrived_at": "2026-03-09T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000286-01",
+"shipment_id": "SHP-2026-000286",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-07-19T11:45:00",
+"arrived_at": "2026-07-21T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000286-02",
+"shipment_id": "SHP-2026-000286",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SW",
+"departed_at": "2026-07-21T13:45:00",
+"arrived_at": "2026-07-23T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000287-01",
+"shipment_id": "SHP-2026-000287",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-05-19T10:00:00",
+"arrived_at": "2026-05-21T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000288-01",
+"shipment_id": "SHP-2026-000288",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-04-09T14:15:00",
+"arrived_at": "2026-04-11T03:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000288-02",
+"shipment_id": "SHP-2026-000288",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-04-11T03:52:30",
+"arrived_at": "2026-04-12T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000289-01",
+"shipment_id": "SHP-2026-000289",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-02-17T15:45:00",
+"arrived_at": "2026-02-19T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000290-01",
+"shipment_id": "SHP-2026-000290",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-08-11T10:30:00",
+"arrived_at": "2026-08-12T18:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000290-02",
+"shipment_id": "SHP-2026-000290",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-KCI",
+"departed_at": "2026-08-12T18:05:00",
+"arrived_at": "2026-08-14T01:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000290-03",
+"shipment_id": "SHP-2026-000290",
+"leg_seq": 3,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-08-14T01:40:00",
+"arrived_at": "2026-08-15T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000291-01",
+"shipment_id": "SHP-2026-000291",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-06-01T15:30:00",
+"arrived_at": "2026-06-04T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000292-01",
+"shipment_id": "SHP-2026-000292",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-05-28T12:30:00",
+"arrived_at": "2026-05-30T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000292-02",
+"shipment_id": "SHP-2026-000292",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-05-30T15:15:00",
+"arrived_at": "2026-06-01T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000293-01",
+"shipment_id": "SHP-2026-000293",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-06-15T08:45:00",
+"arrived_at": "2026-06-16T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000294-01",
+"shipment_id": "SHP-2026-000294",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-27T15:45:00",
+"arrived_at": "2026-07-29T04:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000294-02",
+"shipment_id": "SHP-2026-000294",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-07-29T04:30:00",
+"arrived_at": "2026-07-30T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000295-01",
+"shipment_id": "SHP-2026-000295",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-09-22T13:15:00",
+"arrived_at": "2026-09-24T03:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000295-02",
+"shipment_id": "SHP-2026-000295",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-09-24T03:00:00",
+"arrived_at": "2026-09-25T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000296-01",
+"shipment_id": "SHP-2026-000296",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-03-23T08:30:00",
+"arrived_at": "2026-03-27T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000297-01",
+"shipment_id": "SHP-2026-000297",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-28T12:30:00",
+"arrived_at": "2026-01-30T02:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000297-02",
+"shipment_id": "SHP-2026-000297",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-01-30T02:52:30",
+"arrived_at": "2026-01-31T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000298-01",
+"shipment_id": "SHP-2026-000298",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-29T12:00:00",
+"arrived_at": "2026-06-01T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000299-01",
+"shipment_id": "SHP-2026-000299",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SW",
+"departed_at": "2026-02-01T10:45:00",
+"arrived_at": "2026-02-04T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000300-01",
+"shipment_id": "SHP-2026-000300",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-20T08:15:00",
+"arrived_at": "2026-01-20T21:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000300-02",
+"shipment_id": "SHP-2026-000300",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-MW",
+"departed_at": "2026-01-20T21:07:30",
+"arrived_at": "2026-01-21T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000301-01",
+"shipment_id": "SHP-2026-000301",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-07-12T14:15:00",
+"arrived_at": "2026-07-14T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000302-01",
+"shipment_id": "SHP-2026-000302",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-08-07T09:15:00",
+"arrived_at": "2026-08-09T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000303-01",
+"shipment_id": "SHP-2026-000303",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-08-09T15:00:00",
+"arrived_at": "2026-08-11T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000303-02",
+"shipment_id": "SHP-2026-000303",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-08-11T00:15:00",
+"arrived_at": "2026-08-12T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000304-01",
+"shipment_id": "SHP-2026-000304",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-04-02T12:45:00",
+"arrived_at": "2026-04-05T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000305-01",
+"shipment_id": "SHP-2026-000305",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-04-17T12:45:00",
+"arrived_at": "2026-04-19T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000306-01",
+"shipment_id": "SHP-2026-000306",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-14T13:00:00",
+"arrived_at": "2026-09-17T02:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000306-02",
+"shipment_id": "SHP-2026-000306",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NW",
+"departed_at": "2026-09-17T02:30:00",
+"arrived_at": "2026-09-19T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000307-01",
+"shipment_id": "SHP-2026-000307",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-05-05T14:30:00",
+"arrived_at": "2026-05-08T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000308-01",
+"shipment_id": "SHP-2026-000308",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-07T13:00:00",
+"arrived_at": "2026-01-09T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000309-01",
+"shipment_id": "SHP-2026-000309",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-05-13T12:00:00",
+"arrived_at": "2026-05-15T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000310-01",
+"shipment_id": "SHP-2026-000310",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-06T11:15:00",
+"arrived_at": "2026-05-07T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000311-01",
+"shipment_id": "SHP-2026-000311",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-08-29T11:30:00",
+"arrived_at": "2026-09-01T01:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000311-02",
+"shipment_id": "SHP-2026-000311",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SE",
+"departed_at": "2026-09-01T01:37:30",
+"arrived_at": "2026-09-03T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000312-01",
+"shipment_id": "SHP-2026-000312",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SE",
+"departed_at": "2026-06-23T11:30:00",
+"arrived_at": "2026-06-28T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000313-01",
+"shipment_id": "SHP-2026-000313",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-09-13T08:00:00",
+"arrived_at": "2026-09-15T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000314-01",
+"shipment_id": "SHP-2026-000314",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SE",
+"departed_at": "2026-03-03T10:00:00",
+"arrived_at": "2026-03-06T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000315-01",
+"shipment_id": "SHP-2026-000315",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-03-23T12:00:00",
+"arrived_at": "2026-03-25T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000316-01",
+"shipment_id": "SHP-2026-000316",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-W",
+"departed_at": "2026-09-03T08:15:00",
+"arrived_at": "2026-09-06T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000317-01",
+"shipment_id": "SHP-2026-000317",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-02-05T12:45:00",
+"arrived_at": "2026-02-06T20:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000317-02",
+"shipment_id": "SHP-2026-000317",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-06T20:25:00",
+"arrived_at": "2026-02-08T04:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000317-03",
+"shipment_id": "SHP-2026-000317",
+"leg_seq": 3,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-02-08T04:05:00",
+"arrived_at": "2026-02-09T11:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000318-01",
+"shipment_id": "SHP-2026-000318",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-06-13T13:15:00",
+"arrived_at": "2026-06-16T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000319-01",
+"shipment_id": "SHP-2026-000319",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-15T09:30:00",
+"arrived_at": "2026-01-16T13:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000319-02",
+"shipment_id": "SHP-2026-000319",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-01-16T13:07:30",
+"arrived_at": "2026-01-17T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000320-01",
+"shipment_id": "SHP-2026-000320",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-04-02T14:15:00",
+"arrived_at": "2026-04-06T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000321-01",
+"shipment_id": "SHP-2026-000321",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-10T10:30:00",
+"arrived_at": "2026-05-11T22:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000321-02",
+"shipment_id": "SHP-2026-000321",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-05-11T22:30:00",
+"arrived_at": "2026-05-13T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000322-01",
+"shipment_id": "SHP-2026-000322",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SE",
+"departed_at": "2026-06-05T16:15:00",
+"arrived_at": "2026-06-08T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000323-01",
+"shipment_id": "SHP-2026-000323",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-NW",
+"departed_at": "2026-04-15T13:00:00",
+"arrived_at": "2026-04-17T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000324-01",
+"shipment_id": "SHP-2026-000324",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-05-27T12:30:00",
+"arrived_at": "2026-05-29T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000325-01",
+"shipment_id": "SHP-2026-000325",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-IND",
+"departed_at": "2026-01-31T14:15:00",
+"arrived_at": "2026-02-01T23:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000325-02",
+"shipment_id": "SHP-2026-000325",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-02-01T23:45:00",
+"arrived_at": "2026-02-03T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000326-01",
+"shipment_id": "SHP-2026-000326",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-21T16:45:00",
+"arrived_at": "2026-05-24T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000327-01",
+"shipment_id": "SHP-2026-000327",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-12T10:15:00",
+"arrived_at": "2026-07-15T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000328-01",
+"shipment_id": "SHP-2026-000328",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-11T16:00:00",
+"arrived_at": "2026-04-14T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000328-02",
+"shipment_id": "SHP-2026-000328",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-04-14T16:15:00",
+"arrived_at": "2026-04-17T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000329-01",
+"shipment_id": "SHP-2026-000329",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-IND",
+"departed_at": "2026-09-11T16:15:00",
+"arrived_at": "2026-09-13T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000329-02",
+"shipment_id": "SHP-2026-000329",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SW",
+"departed_at": "2026-09-13T00:45:00",
+"arrived_at": "2026-09-14T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000330-01",
+"shipment_id": "SHP-2026-000330",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-07-18T12:30:00",
+"arrived_at": "2026-07-19T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000331-01",
+"shipment_id": "SHP-2026-000331",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-01-02T14:15:00",
+"arrived_at": "2026-01-04T00:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000331-02",
+"shipment_id": "SHP-2026-000331",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-01-04T00:22:30",
+"arrived_at": "2026-01-05T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000332-01",
+"shipment_id": "SHP-2026-000332",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-08-30T15:45:00",
+"arrived_at": "2026-09-03T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000333-01",
+"shipment_id": "SHP-2026-000333",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-05-20T12:15:00",
+"arrived_at": "2026-05-23T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000334-01",
+"shipment_id": "SHP-2026-000334",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-02-03T10:45:00",
+"arrived_at": "2026-02-05T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000335-01",
+"shipment_id": "SHP-2026-000335",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-04-17T13:00:00",
+"arrived_at": "2026-04-19T03:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000335-02",
+"shipment_id": "SHP-2026-000335",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-MW",
+"departed_at": "2026-04-19T03:00:00",
+"arrived_at": "2026-04-20T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000336-01",
+"shipment_id": "SHP-2026-000336",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-07T15:15:00",
+"arrived_at": "2026-07-08T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000337-01",
+"shipment_id": "SHP-2026-000337",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-05-09T13:00:00",
+"arrived_at": "2026-05-12T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000338-01",
+"shipment_id": "SHP-2026-000338",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-08-09T15:00:00",
+"arrived_at": "2026-08-11T00:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000338-02",
+"shipment_id": "SHP-2026-000338",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-IND",
+"departed_at": "2026-08-11T00:05:00",
+"arrived_at": "2026-08-12T09:10:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000338-03",
+"shipment_id": "SHP-2026-000338",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-SE",
+"departed_at": "2026-08-12T09:10:00",
+"arrived_at": "2026-08-13T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000339-01",
+"shipment_id": "SHP-2026-000339",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-CVG",
+"departed_at": "2026-06-03T14:30:00",
+"arrived_at": "2026-06-05T03:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000339-02",
+"shipment_id": "SHP-2026-000339",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-SW",
+"departed_at": "2026-06-05T03:37:30",
+"arrived_at": "2026-06-06T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000340-01",
+"shipment_id": "SHP-2026-000340",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-04T14:15:00",
+"arrived_at": "2026-07-06T02:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000340-02",
+"shipment_id": "SHP-2026-000340",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SE",
+"departed_at": "2026-07-06T02:30:00",
+"arrived_at": "2026-07-07T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000341-01",
+"shipment_id": "SHP-2026-000341",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-MW",
+"departed_at": "2026-08-29T10:45:00",
+"arrived_at": "2026-09-01T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000342-01",
+"shipment_id": "SHP-2026-000342",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-CVG",
+"departed_at": "2026-05-15T11:45:00",
+"arrived_at": "2026-05-16T19:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000342-02",
+"shipment_id": "SHP-2026-000342",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "HUB-KCI",
+"departed_at": "2026-05-16T19:15:00",
+"arrived_at": "2026-05-18T02:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000342-03",
+"shipment_id": "SHP-2026-000342",
+"leg_seq": 3,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-05-18T02:45:00",
+"arrived_at": "2026-05-19T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000343-01",
+"shipment_id": "SHP-2026-000343",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-08-17T08:45:00",
+"arrived_at": "2026-08-18T22:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000343-02",
+"shipment_id": "SHP-2026-000343",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-08-18T22:07:30",
+"arrived_at": "2026-08-20T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000344-01",
+"shipment_id": "SHP-2026-000344",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-07-18T16:45:00",
+"arrived_at": "2026-07-20T02:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000344-02",
+"shipment_id": "SHP-2026-000344",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-NE",
+"departed_at": "2026-07-20T02:00:00",
+"arrived_at": "2026-07-21T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000345-01",
+"shipment_id": "SHP-2026-000345",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-05-05T08:30:00",
+"arrived_at": "2026-05-06T21:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000345-02",
+"shipment_id": "SHP-2026-000345",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-05-06T21:15:00",
+"arrived_at": "2026-05-08T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000346-01",
+"shipment_id": "SHP-2026-000346",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-30T15:30:00",
+"arrived_at": "2026-06-01T15:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000346-02",
+"shipment_id": "SHP-2026-000346",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-06-01T15:22:30",
+"arrived_at": "2026-06-03T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000347-01",
+"shipment_id": "SHP-2026-000347",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-20T14:45:00",
+"arrived_at": "2026-01-21T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000348-01",
+"shipment_id": "SHP-2026-000348",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-09-27T08:30:00",
+"arrived_at": "2026-10-03T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000349-01",
+"shipment_id": "SHP-2026-000349",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-16T15:45:00",
+"arrived_at": "2026-01-19T15:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000349-02",
+"shipment_id": "SHP-2026-000349",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NE",
+"departed_at": "2026-01-19T15:07:30",
+"arrived_at": "2026-01-22T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000350-01",
+"shipment_id": "SHP-2026-000350",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-01-18T16:15:00",
+"arrived_at": "2026-01-23T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000351-01",
+"shipment_id": "SHP-2026-000351",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-31T14:00:00",
+"arrived_at": "2026-06-03T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000352-01",
+"shipment_id": "SHP-2026-000352",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-05-03T12:30:00",
+"arrived_at": "2026-05-07T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000353-01",
+"shipment_id": "SHP-2026-000353",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-04-17T11:45:00",
+"arrived_at": "2026-04-18T02:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000353-02",
+"shipment_id": "SHP-2026-000353",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-W",
+"departed_at": "2026-04-18T02:37:30",
+"arrived_at": "2026-04-18T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000354-01",
+"shipment_id": "SHP-2026-000354",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-07-01T09:45:00",
+"arrived_at": "2026-07-06T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000355-01",
+"shipment_id": "SHP-2026-000355",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-09-20T13:00:00",
+"arrived_at": "2026-09-22T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000356-01",
+"shipment_id": "SHP-2026-000356",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-03-05T08:15:00",
+"arrived_at": "2026-03-08T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000357-01",
+"shipment_id": "SHP-2026-000357",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-03-28T14:00:00",
+"arrived_at": "2026-03-30T15:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000357-02",
+"shipment_id": "SHP-2026-000357",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-03-30T15:37:30",
+"arrived_at": "2026-04-01T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000358-01",
+"shipment_id": "SHP-2026-000358",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-11T12:45:00",
+"arrived_at": "2026-02-13T23:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000358-02",
+"shipment_id": "SHP-2026-000358",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SW",
+"departed_at": "2026-02-13T23:37:30",
+"arrived_at": "2026-02-16T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000359-01",
+"shipment_id": "SHP-2026-000359",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-04-14T09:00:00",
+"arrived_at": "2026-04-16T10:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000359-02",
+"shipment_id": "SHP-2026-000359",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-04-16T10:22:30",
+"arrived_at": "2026-04-18T11:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000360-01",
+"shipment_id": "SHP-2026-000360",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-09-18T15:45:00",
+"arrived_at": "2026-09-19T23:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000360-02",
+"shipment_id": "SHP-2026-000360",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-19T23:05:00",
+"arrived_at": "2026-09-21T06:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000360-03",
+"shipment_id": "SHP-2026-000360",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-09-21T06:25:00",
+"arrived_at": "2026-09-22T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000361-01",
+"shipment_id": "SHP-2026-000361",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-25T12:45:00",
+"arrived_at": "2026-07-27T13:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000361-02",
+"shipment_id": "SHP-2026-000361",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SW",
+"departed_at": "2026-07-27T13:07:30",
+"arrived_at": "2026-07-29T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000362-01",
+"shipment_id": "SHP-2026-000362",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-SW",
+"departed_at": "2026-09-28T13:30:00",
+"arrived_at": "2026-10-01T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000363-01",
+"shipment_id": "SHP-2026-000363",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-07-03T13:30:00",
+"arrived_at": "2026-07-07T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000364-01",
+"shipment_id": "SHP-2026-000364",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-03-07T12:00:00",
+"arrived_at": "2026-03-09T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000364-02",
+"shipment_id": "SHP-2026-000364",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NW",
+"departed_at": "2026-03-09T12:30:00",
+"arrived_at": "2026-03-11T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000365-01",
+"shipment_id": "SHP-2026-000365",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SW",
+"departed_at": "2026-08-10T09:15:00",
+"arrived_at": "2026-08-13T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000366-01",
+"shipment_id": "SHP-2026-000366",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-05-23T16:00:00",
+"arrived_at": "2026-05-26T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000367-01",
+"shipment_id": "SHP-2026-000367",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-08-30T16:15:00",
+"arrived_at": "2026-09-01T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000368-01",
+"shipment_id": "SHP-2026-000368",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DFW",
+"departed_at": "2026-06-26T16:00:00",
+"arrived_at": "2026-06-28T02:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000368-02",
+"shipment_id": "SHP-2026-000368",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-28T02:30:00",
+"arrived_at": "2026-06-29T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000369-01",
+"shipment_id": "SHP-2026-000369",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-23T09:15:00",
+"arrived_at": "2026-05-27T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000370-01",
+"shipment_id": "SHP-2026-000370",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-05-11T11:45:00",
+"arrived_at": "2026-05-14T13:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000370-02",
+"shipment_id": "SHP-2026-000370",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NW",
+"departed_at": "2026-05-14T13:22:30",
+"arrived_at": "2026-05-17T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000371-01",
+"shipment_id": "SHP-2026-000371",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-17T12:00:00",
+"arrived_at": "2026-05-20T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000372-01",
+"shipment_id": "SHP-2026-000372",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-07-14T10:30:00",
+"arrived_at": "2026-07-15T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000372-02",
+"shipment_id": "SHP-2026-000372",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-MW",
+"departed_at": "2026-07-15T23:52:30",
+"arrived_at": "2026-07-17T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000373-01",
+"shipment_id": "SHP-2026-000373",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-07T16:30:00",
+"arrived_at": "2026-02-08T22:10:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000373-02",
+"shipment_id": "SHP-2026-000373",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-CVG",
+"departed_at": "2026-02-08T22:10:00",
+"arrived_at": "2026-02-10T03:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000373-03",
+"shipment_id": "SHP-2026-000373",
+"leg_seq": 3,
+"from_node": "HUB-CVG",
+"to_node": "DST-W",
+"departed_at": "2026-02-10T03:50:00",
+"arrived_at": "2026-02-11T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000374-01",
+"shipment_id": "SHP-2026-000374",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-04-10T14:15:00",
+"arrived_at": "2026-04-11T04:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000374-02",
+"shipment_id": "SHP-2026-000374",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SW",
+"departed_at": "2026-04-11T04:30:00",
+"arrived_at": "2026-04-11T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000375-01",
+"shipment_id": "SHP-2026-000375",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-NW",
+"departed_at": "2026-05-12T13:45:00",
+"arrived_at": "2026-05-15T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000376-01",
+"shipment_id": "SHP-2026-000376",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-06-28T12:30:00",
+"arrived_at": "2026-06-30T01:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000376-02",
+"shipment_id": "SHP-2026-000376",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-06-30T01:30:00",
+"arrived_at": "2026-07-01T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000377-01",
+"shipment_id": "SHP-2026-000377",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NE",
+"departed_at": "2026-07-07T15:45:00",
+"arrived_at": "2026-07-11T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000378-01",
+"shipment_id": "SHP-2026-000378",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-05-12T09:30:00",
+"arrived_at": "2026-05-16T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000379-01",
+"shipment_id": "SHP-2026-000379",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-27T10:30:00",
+"arrived_at": "2026-07-28T20:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000379-02",
+"shipment_id": "SHP-2026-000379",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-28T20:45:00",
+"arrived_at": "2026-07-30T07:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000379-03",
+"shipment_id": "SHP-2026-000379",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-07-30T07:00:00",
+"arrived_at": "2026-07-31T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000380-01",
+"shipment_id": "SHP-2026-000380",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-08-28T15:00:00",
+"arrived_at": "2026-08-31T01:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000380-02",
+"shipment_id": "SHP-2026-000380",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-08-31T01:45:00",
+"arrived_at": "2026-09-02T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000381-01",
+"shipment_id": "SHP-2026-000381",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-08-17T11:00:00",
+"arrived_at": "2026-08-19T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000382-01",
+"shipment_id": "SHP-2026-000382",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-06-22T15:30:00",
+"arrived_at": "2026-06-26T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000383-01",
+"shipment_id": "SHP-2026-000383",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-02-10T16:45:00",
+"arrived_at": "2026-02-12T01:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000383-02",
+"shipment_id": "SHP-2026-000383",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-02-12T01:45:00",
+"arrived_at": "2026-02-13T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000384-01",
+"shipment_id": "SHP-2026-000384",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-18T15:30:00",
+"arrived_at": "2026-09-21T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000384-02",
+"shipment_id": "SHP-2026-000384",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-09-21T16:30:00",
+"arrived_at": "2026-09-24T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000385-01",
+"shipment_id": "SHP-2026-000385",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-IND",
+"departed_at": "2026-05-20T16:45:00",
+"arrived_at": "2026-05-22T03:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000385-02",
+"shipment_id": "SHP-2026-000385",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-05-22T03:52:30",
+"arrived_at": "2026-05-23T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000386-01",
+"shipment_id": "SHP-2026-000386",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-13T13:45:00",
+"arrived_at": "2026-01-16T13:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000386-02",
+"shipment_id": "SHP-2026-000386",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-NE",
+"departed_at": "2026-01-16T13:07:30",
+"arrived_at": "2026-01-19T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000387-01",
+"shipment_id": "SHP-2026-000387",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-05-28T14:15:00",
+"arrived_at": "2026-06-01T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000388-01",
+"shipment_id": "SHP-2026-000388",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-IND",
+"departed_at": "2026-03-14T13:15:00",
+"arrived_at": "2026-03-15T23:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000388-02",
+"shipment_id": "SHP-2026-000388",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "HUB-IND",
+"departed_at": "2026-03-15T23:00:00",
+"arrived_at": "2026-03-17T08:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000388-03",
+"shipment_id": "SHP-2026-000388",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NE",
+"departed_at": "2026-03-17T08:45:00",
+"arrived_at": "2026-03-18T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000389-01",
+"shipment_id": "SHP-2026-000389",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-08-03T16:15:00",
+"arrived_at": "2026-08-04T22:55:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000389-02",
+"shipment_id": "SHP-2026-000389",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-08-04T22:55:00",
+"arrived_at": "2026-08-06T05:35:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000389-03",
+"shipment_id": "SHP-2026-000389",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-08-06T05:35:00",
+"arrived_at": "2026-08-07T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000390-01",
+"shipment_id": "SHP-2026-000390",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-19T08:30:00",
+"arrived_at": "2026-01-22T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000390-02",
+"shipment_id": "SHP-2026-000390",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-01-22T13:15:00",
+"arrived_at": "2026-01-25T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000391-01",
+"shipment_id": "SHP-2026-000391",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SE",
+"departed_at": "2026-01-24T12:30:00",
+"arrived_at": "2026-01-26T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000392-01",
+"shipment_id": "SHP-2026-000392",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-09-18T14:00:00",
+"arrived_at": "2026-09-21T02:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000392-02",
+"shipment_id": "SHP-2026-000392",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-09-21T02:15:00",
+"arrived_at": "2026-09-23T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000393-01",
+"shipment_id": "SHP-2026-000393",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-03-11T15:30:00",
+"arrived_at": "2026-03-15T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000394-01",
+"shipment_id": "SHP-2026-000394",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-31T08:45:00",
+"arrived_at": "2026-02-01T21:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000394-02",
+"shipment_id": "SHP-2026-000394",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SW",
+"departed_at": "2026-02-01T21:52:30",
+"arrived_at": "2026-02-03T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000395-01",
+"shipment_id": "SHP-2026-000395",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-06-12T08:45:00",
+"arrived_at": "2026-06-15T01:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000395-02",
+"shipment_id": "SHP-2026-000395",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-W",
+"departed_at": "2026-06-15T01:15:00",
+"arrived_at": "2026-06-17T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000396-01",
+"shipment_id": "SHP-2026-000396",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-06-27T08:30:00",
+"arrived_at": "2026-06-28T18:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000396-02",
+"shipment_id": "SHP-2026-000396",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "HUB-ATL",
+"departed_at": "2026-06-28T18:40:00",
+"arrived_at": "2026-06-30T04:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000396-03",
+"shipment_id": "SHP-2026-000396",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-SE",
+"departed_at": "2026-06-30T04:50:00",
+"arrived_at": "2026-07-01T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000397-01",
+"shipment_id": "SHP-2026-000397",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DEN",
+"departed_at": "2026-07-30T08:00:00",
+"arrived_at": "2026-08-01T08:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000397-02",
+"shipment_id": "SHP-2026-000397",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-08-01T08:52:30",
+"arrived_at": "2026-08-03T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000398-01",
+"shipment_id": "SHP-2026-000398",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-01-18T16:00:00",
+"arrived_at": "2026-01-20T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000399-01",
+"shipment_id": "SHP-2026-000399",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SE",
+"departed_at": "2026-02-06T10:15:00",
+"arrived_at": "2026-02-10T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000400-01",
+"shipment_id": "SHP-2026-000400",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-07-11T15:45:00",
+"arrived_at": "2026-07-13T02:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000400-02",
+"shipment_id": "SHP-2026-000400",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-MW",
+"departed_at": "2026-07-13T02:07:30",
+"arrived_at": "2026-07-14T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000401-01",
+"shipment_id": "SHP-2026-000401",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-05-12T15:15:00",
+"arrived_at": "2026-05-13T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000402-01",
+"shipment_id": "SHP-2026-000402",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-07T16:15:00",
+"arrived_at": "2026-05-08T23:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000402-02",
+"shipment_id": "SHP-2026-000402",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-08T23:40:00",
+"arrived_at": "2026-05-10T07:05:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000402-03",
+"shipment_id": "SHP-2026-000402",
+"leg_seq": 3,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-05-10T07:05:00",
+"arrived_at": "2026-05-11T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000403-01",
+"shipment_id": "SHP-2026-000403",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-04-27T12:30:00",
+"arrived_at": "2026-04-28T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000403-02",
+"shipment_id": "SHP-2026-000403",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-04-28T14:00:00",
+"arrived_at": "2026-04-29T15:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000404-01",
+"shipment_id": "SHP-2026-000404",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-03-29T10:00:00",
+"arrived_at": "2026-03-30T18:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000404-02",
+"shipment_id": "SHP-2026-000404",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-ORD",
+"departed_at": "2026-03-30T18:50:00",
+"arrived_at": "2026-04-01T03:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000404-03",
+"shipment_id": "SHP-2026-000404",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NE",
+"departed_at": "2026-04-01T03:40:00",
+"arrived_at": "2026-04-02T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000405-01",
+"shipment_id": "SHP-2026-000405",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-09-15T14:30:00",
+"arrived_at": "2026-09-17T00:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000405-02",
+"shipment_id": "SHP-2026-000405",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-MW",
+"departed_at": "2026-09-17T00:15:00",
+"arrived_at": "2026-09-18T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000406-01",
+"shipment_id": "SHP-2026-000406",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-MW",
+"departed_at": "2026-08-15T13:15:00",
+"arrived_at": "2026-08-18T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000407-01",
+"shipment_id": "SHP-2026-000407",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-07-24T12:15:00",
+"arrived_at": "2026-07-26T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000407-02",
+"shipment_id": "SHP-2026-000407",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-MW",
+"departed_at": "2026-07-26T00:45:00",
+"arrived_at": "2026-07-27T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000408-01",
+"shipment_id": "SHP-2026-000408",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-09-03T11:15:00",
+"arrived_at": "2026-09-05T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000409-01",
+"shipment_id": "SHP-2026-000409",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-03-08T13:30:00",
+"arrived_at": "2026-03-11T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000410-01",
+"shipment_id": "SHP-2026-000410",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-01-29T13:30:00",
+"arrived_at": "2026-01-30T02:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000410-02",
+"shipment_id": "SHP-2026-000410",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-01-30T02:00:00",
+"arrived_at": "2026-01-30T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000411-01",
+"shipment_id": "SHP-2026-000411",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-01T13:15:00",
+"arrived_at": "2026-06-04T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000412-01",
+"shipment_id": "SHP-2026-000412",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-09-12T13:15:00",
+"arrived_at": "2026-09-16T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000413-01",
+"shipment_id": "SHP-2026-000413",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-08-10T08:45:00",
+"arrived_at": "2026-08-12T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000413-02",
+"shipment_id": "SHP-2026-000413",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-W",
+"departed_at": "2026-08-12T10:30:00",
+"arrived_at": "2026-08-14T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000414-01",
+"shipment_id": "SHP-2026-000414",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-04-14T13:00:00",
+"arrived_at": "2026-04-17T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000415-01",
+"shipment_id": "SHP-2026-000415",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-07-10T11:00:00",
+"arrived_at": "2026-07-14T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000416-01",
+"shipment_id": "SHP-2026-000416",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-05-29T16:00:00",
+"arrived_at": "2026-05-30T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000417-01",
+"shipment_id": "SHP-2026-000417",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-IND",
+"departed_at": "2026-04-05T13:30:00",
+"arrived_at": "2026-04-07T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000417-02",
+"shipment_id": "SHP-2026-000417",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-04-07T13:45:00",
+"arrived_at": "2026-04-09T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000418-01",
+"shipment_id": "SHP-2026-000418",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-15T15:15:00",
+"arrived_at": "2026-01-18T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000419-01",
+"shipment_id": "SHP-2026-000419",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-02-08T09:00:00",
+"arrived_at": "2026-02-10T01:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000419-02",
+"shipment_id": "SHP-2026-000419",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-SE",
+"departed_at": "2026-02-10T01:37:30",
+"arrived_at": "2026-02-11T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000420-01",
+"shipment_id": "SHP-2026-000420",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-IND",
+"departed_at": "2026-09-04T10:00:00",
+"arrived_at": "2026-09-06T01:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000420-02",
+"shipment_id": "SHP-2026-000420",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-09-06T01:52:30",
+"arrived_at": "2026-09-07T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000421-01",
+"shipment_id": "SHP-2026-000421",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-02-14T12:15:00",
+"arrived_at": "2026-02-16T11:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000421-02",
+"shipment_id": "SHP-2026-000421",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SW",
+"departed_at": "2026-02-16T11:52:30",
+"arrived_at": "2026-02-18T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000422-01",
+"shipment_id": "SHP-2026-000422",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-04-08T11:45:00",
+"arrived_at": "2026-04-10T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000423-01",
+"shipment_id": "SHP-2026-000423",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-07-16T08:30:00",
+"arrived_at": "2026-07-17T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000424-01",
+"shipment_id": "SHP-2026-000424",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-MEM",
+"departed_at": "2026-03-12T13:45:00",
+"arrived_at": "2026-03-14T13:35:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000424-02",
+"shipment_id": "SHP-2026-000424",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "HUB-DFW",
+"departed_at": "2026-03-14T13:35:00",
+"arrived_at": "2026-03-16T13:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000424-03",
+"shipment_id": "SHP-2026-000424",
+"leg_seq": 3,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-03-16T13:25:00",
+"arrived_at": "2026-03-18T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000425-01",
+"shipment_id": "SHP-2026-000425",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-02-23T10:30:00",
+"arrived_at": "2026-02-25T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000425-02",
+"shipment_id": "SHP-2026-000425",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-SE",
+"departed_at": "2026-02-25T00:45:00",
+"arrived_at": "2026-02-26T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000426-01",
+"shipment_id": "SHP-2026-000426",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-05-27T11:00:00",
+"arrived_at": "2026-05-27T22:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000426-02",
+"shipment_id": "SHP-2026-000426",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-05-27T22:07:30",
+"arrived_at": "2026-05-28T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000427-01",
+"shipment_id": "SHP-2026-000427",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-SW",
+"departed_at": "2026-08-15T13:30:00",
+"arrived_at": "2026-08-18T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000428-01",
+"shipment_id": "SHP-2026-000428",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-01-13T12:45:00",
+"arrived_at": "2026-01-15T11:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000428-02",
+"shipment_id": "SHP-2026-000428",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-15T11:40:00",
+"arrived_at": "2026-01-17T10:35:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000428-03",
+"shipment_id": "SHP-2026-000428",
+"leg_seq": 3,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-01-17T10:35:00",
+"arrived_at": "2026-01-19T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000429-01",
+"shipment_id": "SHP-2026-000429",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-08-04T16:45:00",
+"arrived_at": "2026-08-07T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000430-01",
+"shipment_id": "SHP-2026-000430",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-05-03T14:00:00",
+"arrived_at": "2026-05-05T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000431-01",
+"shipment_id": "SHP-2026-000431",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-IND",
+"departed_at": "2026-01-18T14:00:00",
+"arrived_at": "2026-01-19T02:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000431-02",
+"shipment_id": "SHP-2026-000431",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SE",
+"departed_at": "2026-01-19T02:22:30",
+"arrived_at": "2026-01-19T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000432-01",
+"shipment_id": "SHP-2026-000432",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-07-28T09:00:00",
+"arrived_at": "2026-07-30T00:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000432-02",
+"shipment_id": "SHP-2026-000432",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-MW",
+"departed_at": "2026-07-30T00:07:30",
+"arrived_at": "2026-07-31T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000433-01",
+"shipment_id": "SHP-2026-000433",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-10T14:45:00",
+"arrived_at": "2026-06-15T14:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000434-01",
+"shipment_id": "SHP-2026-000434",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-04-12T09:15:00",
+"arrived_at": "2026-04-14T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000435-01",
+"shipment_id": "SHP-2026-000435",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-01-10T16:15:00",
+"arrived_at": "2026-01-13T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000436-01",
+"shipment_id": "SHP-2026-000436",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-09-07T12:00:00",
+"arrived_at": "2026-09-10T12:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000436-02",
+"shipment_id": "SHP-2026-000436",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-09-10T12:07:30",
+"arrived_at": "2026-09-13T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000437-01",
+"shipment_id": "SHP-2026-000437",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-09-13T08:15:00",
+"arrived_at": "2026-09-16T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000438-01",
+"shipment_id": "SHP-2026-000438",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-04-04T10:00:00",
+"arrived_at": "2026-04-08T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000439-01",
+"shipment_id": "SHP-2026-000439",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-19T09:00:00",
+"arrived_at": "2026-06-24T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000440-01",
+"shipment_id": "SHP-2026-000440",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-04-06T08:00:00",
+"arrived_at": "2026-04-09T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000441-01",
+"shipment_id": "SHP-2026-000441",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-MW",
+"departed_at": "2026-09-29T15:30:00",
+"arrived_at": "2026-09-30T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000442-01",
+"shipment_id": "SHP-2026-000442",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-03-10T15:00:00",
+"arrived_at": "2026-03-11T22:55:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000442-02",
+"shipment_id": "SHP-2026-000442",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-03-11T22:55:00",
+"arrived_at": "2026-03-13T06:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000442-03",
+"shipment_id": "SHP-2026-000442",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-03-13T06:50:00",
+"arrived_at": "2026-03-14T14:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000443-01",
+"shipment_id": "SHP-2026-000443",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-09-01T16:00:00",
+"arrived_at": "2026-09-04T17:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000443-02",
+"shipment_id": "SHP-2026-000443",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NW",
+"departed_at": "2026-09-04T17:22:30",
+"arrived_at": "2026-09-07T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000444-01",
+"shipment_id": "SHP-2026-000444",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-01-22T13:45:00",
+"arrived_at": "2026-01-23T03:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000444-02",
+"shipment_id": "SHP-2026-000444",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "DST-NE",
+"departed_at": "2026-01-23T03:52:30",
+"arrived_at": "2026-01-23T18:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000445-01",
+"shipment_id": "SHP-2026-000445",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DEN",
+"departed_at": "2026-05-20T13:30:00",
+"arrived_at": "2026-05-21T20:40:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000445-02",
+"shipment_id": "SHP-2026-000445",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "HUB-CVG",
+"departed_at": "2026-05-21T20:40:00",
+"arrived_at": "2026-05-23T03:50:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000445-03",
+"shipment_id": "SHP-2026-000445",
+"leg_seq": 3,
+"from_node": "HUB-CVG",
+"to_node": "DST-W",
+"departed_at": "2026-05-23T03:50:00",
+"arrived_at": "2026-05-24T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000446-01",
+"shipment_id": "SHP-2026-000446",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-14T09:30:00",
+"arrived_at": "2026-07-16T22:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000446-02",
+"shipment_id": "SHP-2026-000446",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-W",
+"departed_at": "2026-07-16T22:07:30",
+"arrived_at": "2026-07-19T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000447-01",
+"shipment_id": "SHP-2026-000447",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-MEM",
+"departed_at": "2026-01-27T10:15:00",
+"arrived_at": "2026-01-29T00:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000447-02",
+"shipment_id": "SHP-2026-000447",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "DST-NE",
+"departed_at": "2026-01-29T00:37:30",
+"arrived_at": "2026-01-30T15:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000448-01",
+"shipment_id": "SHP-2026-000448",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-IND",
+"departed_at": "2026-02-05T10:15:00",
+"arrived_at": "2026-02-07T01:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000448-02",
+"shipment_id": "SHP-2026-000448",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-SW",
+"departed_at": "2026-02-07T01:30:00",
+"arrived_at": "2026-02-08T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000449-01",
+"shipment_id": "SHP-2026-000449",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-09-12T14:15:00",
+"arrived_at": "2026-09-13T21:20:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000449-02",
+"shipment_id": "SHP-2026-000449",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "HUB-ORD",
+"departed_at": "2026-09-13T21:20:00",
+"arrived_at": "2026-09-15T04:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000449-03",
+"shipment_id": "SHP-2026-000449",
+"leg_seq": 3,
+"from_node": "HUB-ORD",
+"to_node": "DST-NW",
+"departed_at": "2026-09-15T04:25:00",
+"arrived_at": "2026-09-16T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000450-01",
+"shipment_id": "SHP-2026-000450",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-26T12:30:00",
+"arrived_at": "2026-06-30T10:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000451-01",
+"shipment_id": "SHP-2026-000451",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-06-04T08:30:00",
+"arrived_at": "2026-06-06T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000452-01",
+"shipment_id": "SHP-2026-000452",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-DFW",
+"departed_at": "2026-05-11T08:15:00",
+"arrived_at": "2026-05-12T23:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000452-02",
+"shipment_id": "SHP-2026-000452",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-SE",
+"departed_at": "2026-05-12T23:00:00",
+"arrived_at": "2026-05-14T13:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000453-01",
+"shipment_id": "SHP-2026-000453",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-CVG",
+"departed_at": "2026-04-03T15:45:00",
+"arrived_at": "2026-04-05T00:35:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000453-02",
+"shipment_id": "SHP-2026-000453",
+"leg_seq": 2,
+"from_node": "HUB-CVG",
+"to_node": "HUB-DEN",
+"departed_at": "2026-04-05T00:35:00",
+"arrived_at": "2026-04-06T09:25:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000453-03",
+"shipment_id": "SHP-2026-000453",
+"leg_seq": 3,
+"from_node": "HUB-DEN",
+"to_node": "DST-W",
+"departed_at": "2026-04-06T09:25:00",
+"arrived_at": "2026-04-07T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000454-01",
+"shipment_id": "SHP-2026-000454",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-DEN",
+"departed_at": "2026-01-05T10:30:00",
+"arrived_at": "2026-01-07T12:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000454-02",
+"shipment_id": "SHP-2026-000454",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-SE",
+"departed_at": "2026-01-07T12:52:30",
+"arrived_at": "2026-01-09T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000455-01",
+"shipment_id": "SHP-2026-000455",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-04-17T13:00:00",
+"arrived_at": "2026-04-20T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000456-01",
+"shipment_id": "SHP-2026-000456",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-08-09T15:45:00",
+"arrived_at": "2026-08-15T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000457-01",
+"shipment_id": "SHP-2026-000457",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-03-22T10:45:00",
+"arrived_at": "2026-03-23T23:52:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000457-02",
+"shipment_id": "SHP-2026-000457",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-MW",
+"departed_at": "2026-03-23T23:52:30",
+"arrived_at": "2026-03-25T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000458-01",
+"shipment_id": "SHP-2026-000458",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-SE",
+"departed_at": "2026-02-12T11:45:00",
+"arrived_at": "2026-02-14T17:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000459-01",
+"shipment_id": "SHP-2026-000459",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-DEN",
+"departed_at": "2026-06-01T14:45:00",
+"arrived_at": "2026-06-02T14:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000459-02",
+"shipment_id": "SHP-2026-000459",
+"leg_seq": 2,
+"from_node": "HUB-DEN",
+"to_node": "DST-W",
+"departed_at": "2026-06-02T14:22:30",
+"arrived_at": "2026-06-03T14:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000460-01",
+"shipment_id": "SHP-2026-000460",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-DFW",
+"departed_at": "2026-07-26T13:00:00",
+"arrived_at": "2026-07-27T23:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000460-02",
+"shipment_id": "SHP-2026-000460",
+"leg_seq": 2,
+"from_node": "HUB-DFW",
+"to_node": "DST-NE",
+"departed_at": "2026-07-27T23:45:00",
+"arrived_at": "2026-07-29T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000461-01",
+"shipment_id": "SHP-2026-000461",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "HUB-MEM",
+"departed_at": "2026-07-21T11:15:00",
+"arrived_at": "2026-07-22T20:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000461-02",
+"shipment_id": "SHP-2026-000461",
+"leg_seq": 2,
+"from_node": "HUB-MEM",
+"to_node": "HUB-KCI",
+"departed_at": "2026-07-22T20:45:00",
+"arrived_at": "2026-07-24T06:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000461-03",
+"shipment_id": "SHP-2026-000461",
+"leg_seq": 3,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-07-24T06:15:00",
+"arrived_at": "2026-07-25T15:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000462-01",
+"shipment_id": "SHP-2026-000462",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-20T08:45:00",
+"arrived_at": "2026-01-23T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000463-01",
+"shipment_id": "SHP-2026-000463",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-09-30T12:00:00",
+"arrived_at": "2026-10-03T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000464-01",
+"shipment_id": "SHP-2026-000464",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-NE",
+"departed_at": "2026-04-28T10:30:00",
+"arrived_at": "2026-05-04T17:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000465-01",
+"shipment_id": "SHP-2026-000465",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-06-12T08:30:00",
+"arrived_at": "2026-06-14T10:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000465-02",
+"shipment_id": "SHP-2026-000465",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-W",
+"departed_at": "2026-06-14T10:00:00",
+"arrived_at": "2026-06-16T11:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000466-01",
+"shipment_id": "SHP-2026-000466",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-MW",
+"departed_at": "2026-04-02T14:45:00",
+"arrived_at": "2026-04-05T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000467-01",
+"shipment_id": "SHP-2026-000467",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-05-10T12:45:00",
+"arrived_at": "2026-05-14T17:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000468-01",
+"shipment_id": "SHP-2026-000468",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-03-06T13:00:00",
+"arrived_at": "2026-03-10T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000469-01",
+"shipment_id": "SHP-2026-000469",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-KCI",
+"departed_at": "2026-04-28T13:15:00",
+"arrived_at": "2026-04-30T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000469-02",
+"shipment_id": "SHP-2026-000469",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-W",
+"departed_at": "2026-04-30T13:00:00",
+"arrived_at": "2026-05-02T12:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000470-01",
+"shipment_id": "SHP-2026-000470",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-08-02T13:45:00",
+"arrived_at": "2026-08-03T16:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000471-01",
+"shipment_id": "SHP-2026-000471",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-MW",
+"departed_at": "2026-08-11T09:30:00",
+"arrived_at": "2026-08-14T16:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000472-01",
+"shipment_id": "SHP-2026-000472",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-07-21T16:45:00",
+"arrived_at": "2026-07-24T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000473-01",
+"shipment_id": "SHP-2026-000473",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-01T11:30:00",
+"arrived_at": "2026-06-03T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000474-01",
+"shipment_id": "SHP-2026-000474",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-07-13T14:15:00",
+"arrived_at": "2026-07-15T03:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000474-02",
+"shipment_id": "SHP-2026-000474",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-MW",
+"departed_at": "2026-07-15T03:15:00",
+"arrived_at": "2026-07-16T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000475-01",
+"shipment_id": "SHP-2026-000475",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-MW",
+"departed_at": "2026-01-25T13:00:00",
+"arrived_at": "2026-01-30T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000476-01",
+"shipment_id": "SHP-2026-000476",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-07-30T11:00:00",
+"arrived_at": "2026-08-01T02:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000476-02",
+"shipment_id": "SHP-2026-000476",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-SW",
+"departed_at": "2026-08-01T02:37:30",
+"arrived_at": "2026-08-02T18:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000477-01",
+"shipment_id": "SHP-2026-000477",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-22T08:15:00",
+"arrived_at": "2026-06-23T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000478-01",
+"shipment_id": "SHP-2026-000478",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-07-11T13:45:00",
+"arrived_at": "2026-07-13T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000479-01",
+"shipment_id": "SHP-2026-000479",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-24T11:30:00",
+"arrived_at": "2026-05-25T18:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000479-02",
+"shipment_id": "SHP-2026-000479",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-IND",
+"departed_at": "2026-05-25T18:45:00",
+"arrived_at": "2026-05-27T02:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000479-03",
+"shipment_id": "SHP-2026-000479",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-05-27T02:00:00",
+"arrived_at": "2026-05-28T09:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000480-01",
+"shipment_id": "SHP-2026-000480",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "HUB-IND",
+"departed_at": "2026-08-20T10:00:00",
+"arrived_at": "2026-08-21T13:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000480-02",
+"shipment_id": "SHP-2026-000480",
+"leg_seq": 2,
+"from_node": "HUB-IND",
+"to_node": "DST-W",
+"departed_at": "2026-08-21T13:30:00",
+"arrived_at": "2026-08-22T17:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000481-01",
+"shipment_id": "SHP-2026-000481",
+"leg_seq": 1,
+"from_node": "ORG-W",
+"to_node": "DST-W",
+"departed_at": "2026-01-22T16:15:00",
+"arrived_at": "2026-01-26T11:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000482-01",
+"shipment_id": "SHP-2026-000482",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SE",
+"departed_at": "2026-03-01T13:30:00",
+"arrived_at": "2026-03-04T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000483-01",
+"shipment_id": "SHP-2026-000483",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "DST-MW",
+"departed_at": "2026-07-19T15:15:00",
+"arrived_at": "2026-07-21T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000484-01",
+"shipment_id": "SHP-2026-000484",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-W",
+"departed_at": "2026-08-19T08:45:00",
+"arrived_at": "2026-08-21T09:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000485-01",
+"shipment_id": "SHP-2026-000485",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-W",
+"departed_at": "2026-05-02T12:00:00",
+"arrived_at": "2026-05-06T11:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000486-01",
+"shipment_id": "SHP-2026-000486",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-08-30T15:15:00",
+"arrived_at": "2026-09-01T12:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000486-02",
+"shipment_id": "SHP-2026-000486",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-W",
+"departed_at": "2026-09-01T12:30:00",
+"arrived_at": "2026-09-03T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000487-01",
+"shipment_id": "SHP-2026-000487",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-SW",
+"departed_at": "2026-01-25T13:30:00",
+"arrived_at": "2026-01-28T13:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000488-01",
+"shipment_id": "SHP-2026-000488",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-01-14T14:30:00",
+"arrived_at": "2026-01-16T00:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000488-02",
+"shipment_id": "SHP-2026-000488",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NE",
+"departed_at": "2026-01-16T00:30:00",
+"arrived_at": "2026-01-17T10:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000489-01",
+"shipment_id": "SHP-2026-000489",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-SW",
+"departed_at": "2026-02-27T08:15:00",
+"arrived_at": "2026-02-28T09:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000490-01",
+"shipment_id": "SHP-2026-000490",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "HUB-ORD",
+"departed_at": "2026-06-18T13:30:00",
+"arrived_at": "2026-06-19T00:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000490-02",
+"shipment_id": "SHP-2026-000490",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-NE",
+"departed_at": "2026-06-19T00:45:00",
+"arrived_at": "2026-06-19T12:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000491-01",
+"shipment_id": "SHP-2026-000491",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "HUB-ATL",
+"departed_at": "2026-01-30T16:00:00",
+"arrived_at": "2026-02-01T02:37:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000491-02",
+"shipment_id": "SHP-2026-000491",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "DST-NW",
+"departed_at": "2026-02-01T02:37:30",
+"arrived_at": "2026-02-02T13:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000492-01",
+"shipment_id": "SHP-2026-000492",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "HUB-ATL",
+"departed_at": "2026-05-31T13:15:00",
+"arrived_at": "2026-06-01T23:00:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000492-02",
+"shipment_id": "SHP-2026-000492",
+"leg_seq": 2,
+"from_node": "HUB-ATL",
+"to_node": "HUB-IND",
+"departed_at": "2026-06-01T23:00:00",
+"arrived_at": "2026-06-03T08:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000492-03",
+"shipment_id": "SHP-2026-000492",
+"leg_seq": 3,
+"from_node": "HUB-IND",
+"to_node": "DST-NW",
+"departed_at": "2026-06-03T08:45:00",
+"arrived_at": "2026-06-04T18:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000493-01",
+"shipment_id": "SHP-2026-000493",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-W",
+"departed_at": "2026-09-27T09:15:00",
+"arrived_at": "2026-10-02T12:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000494-01",
+"shipment_id": "SHP-2026-000494",
+"leg_seq": 1,
+"from_node": "ORG-NW",
+"to_node": "DST-NW",
+"departed_at": "2026-04-14T10:45:00",
+"arrived_at": "2026-04-16T16:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000495-01",
+"shipment_id": "SHP-2026-000495",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-ORD",
+"departed_at": "2026-05-28T14:00:00",
+"arrived_at": "2026-05-29T00:22:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000495-02",
+"shipment_id": "SHP-2026-000495",
+"leg_seq": 2,
+"from_node": "HUB-ORD",
+"to_node": "DST-SE",
+"departed_at": "2026-05-29T00:22:30",
+"arrived_at": "2026-05-29T10:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000496-01",
+"shipment_id": "SHP-2026-000496",
+"leg_seq": 1,
+"from_node": "ORG-SW",
+"to_node": "DST-MW",
+"departed_at": "2026-05-29T12:30:00",
+"arrived_at": "2026-06-01T16:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000497-01",
+"shipment_id": "SHP-2026-000497",
+"leg_seq": 1,
+"from_node": "ORG-MW",
+"to_node": "HUB-KCI",
+"departed_at": "2026-01-15T10:30:00",
+"arrived_at": "2026-01-16T22:07:30",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000497-02",
+"shipment_id": "SHP-2026-000497",
+"leg_seq": 2,
+"from_node": "HUB-KCI",
+"to_node": "DST-NW",
+"departed_at": "2026-01-16T22:07:30",
+"arrived_at": "2026-01-18T09:45:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000498-01",
+"shipment_id": "SHP-2026-000498",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-NE",
+"departed_at": "2026-06-19T11:15:00",
+"arrived_at": "2026-06-23T14:30:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000499-01",
+"shipment_id": "SHP-2026-000499",
+"leg_seq": 1,
+"from_node": "ORG-SE",
+"to_node": "DST-NE",
+"departed_at": "2026-03-07T09:45:00",
+"arrived_at": "2026-03-10T15:15:00",
+"leg_status": "COMPLETED"
+},
+{
+"leg_id": "LEG-SHP-2026-000500-01",
+"shipment_id": "SHP-2026-000500",
+"leg_seq": 1,
+"from_node": "ORG-NE",
+"to_node": "DST-SW",
+"departed_at": "2026-02-21T11:45:00",
+"arrived_at": "2026-02-25T18:45:00",
+"leg_status": "COMPLETED"
+}
+]

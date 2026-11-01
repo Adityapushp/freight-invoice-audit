@@ -1,0 +1,96 @@
+{
+  "invoices": 15000,
+  "anomalous_invoices": 2175,
+  "overall_detection": {
+    "tp": 2175,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "per_issue_type": {
+    "UNKNOWN_SHIPMENT": {
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "RATE_CARD_EXPIRED": {
+      "tp": 150,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "WEIGHT_TIER_MISAPPLIED": {
+      "tp": 375,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "SURCHARGE_DUPLICATED": {
+      "tp": 225,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "DUPLICATE_BILLING": {
+      "tp": 375,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "INVALID_ACCESSORIAL": {
+      "tp": 450,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "DIM_WEIGHT_MISCALC": {
+      "tp": 300,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "FUEL_RATE_WRONG": {
+      "tp": 180,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "credit_exceeds_detection": {
+    "tp": 107,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "variance_explained": {
+    "invoices_with_matching_variance": 2175,
+    "of": 2175,
+    "rate": 1.0
+  },
+  "dollars": {
+    "true_overbilling_usd": "106804.22",
+    "flagged_variance_usd": "106804.22",
+    "credits_applied_usd": "96757.85"
+  }
+}

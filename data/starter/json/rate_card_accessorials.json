@@ -1,0 +1,470 @@
+[
+{
+"rca_id": "RCA-000001",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "13.76"
+},
+{
+"rca_id": "RCA-000002",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "68.88"
+},
+{
+"rca_id": "RCA-000003",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "61.88"
+},
+{
+"rca_id": "RCA-000004",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "30.98"
+},
+{
+"rca_id": "RCA-000005",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "23.90"
+},
+{
+"rca_id": "RCA-000006",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "27.39"
+},
+{
+"rca_id": "RCA-000007",
+"rate_card_id": "RATE-CAR-000001-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "6.22"
+},
+{
+"rca_id": "RCA-000008",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "16.45"
+},
+{
+"rca_id": "RCA-000009",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "80.88"
+},
+{
+"rca_id": "RCA-000010",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "45.00"
+},
+{
+"rca_id": "RCA-000011",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "40.04"
+},
+{
+"rca_id": "RCA-000012",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "34.03"
+},
+{
+"rca_id": "RCA-000013",
+"rate_card_id": "RATE-CAR-000002-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "4.35"
+},
+{
+"rca_id": "RCA-000014",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "APPOINTMENT",
+"amount": "16.45"
+},
+{
+"rca_id": "RCA-000015",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "DETENTION",
+"amount": "80.88"
+},
+{
+"rca_id": "RCA-000016",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "45.00"
+},
+{
+"rca_id": "RCA-000017",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "LIFTGATE",
+"amount": "40.04"
+},
+{
+"rca_id": "RCA-000018",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "34.03"
+},
+{
+"rca_id": "RCA-000019",
+"rate_card_id": "RATE-CAR-000002-2026-02",
+"accessorial_code": "RESIDENTIAL",
+"amount": "4.35"
+},
+{
+"rca_id": "RCA-000020",
+"rate_card_id": "RATE-CAR-000003-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "14.99"
+},
+{
+"rca_id": "RCA-000021",
+"rate_card_id": "RATE-CAR-000003-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "48.36"
+},
+{
+"rca_id": "RCA-000022",
+"rate_card_id": "RATE-CAR-000003-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "28.60"
+},
+{
+"rca_id": "RCA-000023",
+"rate_card_id": "RATE-CAR-000003-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "38.61"
+},
+{
+"rca_id": "RCA-000024",
+"rate_card_id": "RATE-CAR-000003-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "4.57"
+},
+{
+"rca_id": "RCA-000025",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "13.75"
+},
+{
+"rca_id": "RCA-000026",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "69.84"
+},
+{
+"rca_id": "RCA-000027",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "39.15"
+},
+{
+"rca_id": "RCA-000028",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "38.85"
+},
+{
+"rca_id": "RCA-000029",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "20.60"
+},
+{
+"rca_id": "RCA-000030",
+"rate_card_id": "RATE-CAR-000004-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "39.81"
+},
+{
+"rca_id": "RCA-000031",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "13.32"
+},
+{
+"rca_id": "RCA-000032",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "73.32"
+},
+{
+"rca_id": "RCA-000033",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "47.84"
+},
+{
+"rca_id": "RCA-000034",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "40.25"
+},
+{
+"rca_id": "RCA-000035",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "33.48"
+},
+{
+"rca_id": "RCA-000036",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "27.00"
+},
+{
+"rca_id": "RCA-000037",
+"rate_card_id": "RATE-CAR-000005-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "5.62"
+},
+{
+"rca_id": "RCA-000038",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "14.52"
+},
+{
+"rca_id": "RCA-000039",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "60.78"
+},
+{
+"rca_id": "RCA-000040",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "62.64"
+},
+{
+"rca_id": "RCA-000041",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "37.56"
+},
+{
+"rca_id": "RCA-000042",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "27.75"
+},
+{
+"rca_id": "RCA-000043",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "40.83"
+},
+{
+"rca_id": "RCA-000044",
+"rate_card_id": "RATE-CAR-000006-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "5.78"
+},
+{
+"rca_id": "RCA-000045",
+"rate_card_id": "RATE-CAR-000007-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "10.85"
+},
+{
+"rca_id": "RCA-000046",
+"rate_card_id": "RATE-CAR-000007-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "66.78"
+},
+{
+"rca_id": "RCA-000047",
+"rate_card_id": "RATE-CAR-000007-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "42.57"
+},
+{
+"rca_id": "RCA-000048",
+"rate_card_id": "RATE-CAR-000007-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "37.00"
+},
+{
+"rca_id": "RCA-000049",
+"rate_card_id": "RATE-CAR-000007-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "34.59"
+},
+{
+"rca_id": "RCA-000050",
+"rate_card_id": "RATE-CAR-000007-2026-02",
+"accessorial_code": "APPOINTMENT",
+"amount": "10.85"
+},
+{
+"rca_id": "RCA-000051",
+"rate_card_id": "RATE-CAR-000007-2026-02",
+"accessorial_code": "DETENTION",
+"amount": "66.78"
+},
+{
+"rca_id": "RCA-000052",
+"rate_card_id": "RATE-CAR-000007-2026-02",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "42.57"
+},
+{
+"rca_id": "RCA-000053",
+"rate_card_id": "RATE-CAR-000007-2026-02",
+"accessorial_code": "LIFTGATE",
+"amount": "37.00"
+},
+{
+"rca_id": "RCA-000054",
+"rate_card_id": "RATE-CAR-000007-2026-02",
+"accessorial_code": "REDELIVERY",
+"amount": "34.59"
+},
+{
+"rca_id": "RCA-000055",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "14.94"
+},
+{
+"rca_id": "RCA-000056",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "61.44"
+},
+{
+"rca_id": "RCA-000057",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "INSIDE_DELIVERY",
+"amount": "59.94"
+},
+{
+"rca_id": "RCA-000058",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "48.93"
+},
+{
+"rca_id": "RCA-000059",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "21.05"
+},
+{
+"rca_id": "RCA-000060",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "31.38"
+},
+{
+"rca_id": "RCA-000061",
+"rate_card_id": "RATE-CAR-000008-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "6.27"
+},
+{
+"rca_id": "RCA-000062",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "11.66"
+},
+{
+"rca_id": "RCA-000063",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "49.26"
+},
+{
+"rca_id": "RCA-000064",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "38.96"
+},
+{
+"rca_id": "RCA-000065",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "25.53"
+},
+{
+"rca_id": "RCA-000066",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "34.95"
+},
+{
+"rca_id": "RCA-000067",
+"rate_card_id": "RATE-CAR-000009-2026-01",
+"accessorial_code": "RESIDENTIAL",
+"amount": "4.22"
+},
+{
+"rca_id": "RCA-000068",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "APPOINTMENT",
+"amount": "11.66"
+},
+{
+"rca_id": "RCA-000069",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "DETENTION",
+"amount": "49.26"
+},
+{
+"rca_id": "RCA-000070",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "LIFTGATE",
+"amount": "38.96"
+},
+{
+"rca_id": "RCA-000071",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "25.53"
+},
+{
+"rca_id": "RCA-000072",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "REDELIVERY",
+"amount": "34.95"
+},
+{
+"rca_id": "RCA-000073",
+"rate_card_id": "RATE-CAR-000009-2026-02",
+"accessorial_code": "RESIDENTIAL",
+"amount": "4.22"
+},
+{
+"rca_id": "RCA-000074",
+"rate_card_id": "RATE-CAR-000010-2026-01",
+"accessorial_code": "APPOINTMENT",
+"amount": "16.72"
+},
+{
+"rca_id": "RCA-000075",
+"rate_card_id": "RATE-CAR-000010-2026-01",
+"accessorial_code": "DETENTION",
+"amount": "55.62"
+},
+{
+"rca_id": "RCA-000076",
+"rate_card_id": "RATE-CAR-000010-2026-01",
+"accessorial_code": "LIFTGATE",
+"amount": "43.37"
+},
+{
+"rca_id": "RCA-000077",
+"rate_card_id": "RATE-CAR-000010-2026-01",
+"accessorial_code": "LIMITED_ACCESS",
+"amount": "23.13"
+},
+{
+"rca_id": "RCA-000078",
+"rate_card_id": "RATE-CAR-000010-2026-01",
+"accessorial_code": "REDELIVERY",
+"amount": "31.50"
+}
+]

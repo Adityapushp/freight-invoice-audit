@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "checks": 14,
+  "failed": [],
+  "details": [
+    {
+      "check": "primary_key_uniqueness",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "unique_constraints",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "id_format",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "enums_and_required",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "foreign_key_integrity",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": "120 intentional orphan invoice(s) (UNKNOWN_SHIPMENT)"
+    },
+    {
+      "check": "date_ordering",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "arithmetic_reconciliation",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "lifecycle_transitions",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "duplicate_detection",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": "375 shipment(s) billed more than once"
+    },
+    {
+      "check": "credit_reconciliation",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": "107 credit note(s) exceed their exception amount (labelled edge case)"
+    },
+    {
+      "check": "ground_truth_consistency_and_coverage",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "expected_charges_reproducible",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "no_ground_truth_in_input_tables",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    },
+    {
+      "check": "one_authoritative_weight_per_shipment",
+      "passed": true,
+      "failures": 0,
+      "examples": [],
+      "info": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+{
+"carrier_id": "CAR-000001",
+"carrier_name": "Apex Line Freight",
+"scac_code": "UWUA",
+"service_mode": "TL",
+"onboarded_date": "2021-04-28",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000002",
+"carrier_name": "Blue Line Freight",
+"scac_code": "LSBP",
+"service_mode": "LTL",
+"onboarded_date": "2020-03-09",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000003",
+"carrier_name": "Cardinal Line Freight",
+"scac_code": "IIHV",
+"service_mode": "PARCEL",
+"onboarded_date": "2022-05-06",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000004",
+"carrier_name": "Delta Line Freight",
+"scac_code": "QIPV",
+"service_mode": "PARCEL",
+"onboarded_date": "2023-12-06",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000005",
+"carrier_name": "Eagle Line Freight",
+"scac_code": "DEJS",
+"service_mode": "PARCEL",
+"onboarded_date": "2023-11-23",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000006",
+"carrier_name": "Falcon Line Freight",
+"scac_code": "KNAP",
+"service_mode": "LTL",
+"onboarded_date": "2024-07-06",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000007",
+"carrier_name": "Granite Line Freight",
+"scac_code": "ISSG",
+"service_mode": "PARCEL",
+"onboarded_date": "2021-03-21",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000008",
+"carrier_name": "Harbor Line Freight",
+"scac_code": "QBGW",
+"service_mode": "PARCEL",
+"onboarded_date": "2023-08-18",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000009",
+"carrier_name": "Iron Line Freight",
+"scac_code": "PUUH",
+"service_mode": "TL",
+"onboarded_date": "2023-11-11",
+"status": "ACTIVE"
+},
+{
+"carrier_id": "CAR-000010",
+"carrier_name": "Juniper Line Freight",
+"scac_code": "DBBM",
+"service_mode": "TL",
+"onboarded_date": "2024-08-13",
+"status": "ACTIVE"
+}
+]
