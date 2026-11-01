@@ -53,6 +53,7 @@ master data (Carrier, Lane, RateCard, RateCardRate, Accessorial, RateCardAccesso
 - 282,415 rows; 15,000 invoices, 2,175 anomalous (14.5 %); 2,943 exceptions; 2,678 credit notes (107 deliberately exceed their exception).
 - Auditor: precision = recall = 1.00 overall and per issue type; flagged variance $106,804.22 = injected overbilling to the cent.
 - Validation: 14/14 checks pass. Reproducibility: 2 runs → 38 files, identical SHA-256.
+- Cross-platform: the full-dataset manifest (SHA-256 of all 38 files) generated on Windows with Python 3.14.5 is byte-identical to the one generated on Linux with Python 3.12.
 
 ## Design decisions & trade-offs
 - **One invoice = one shipment** (per-PRO billing). Keeps line-level traceability simple; duplicates appear as a 2nd invoice for the same shipment.
